@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+4629,1,大同,始发站,06:46,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+4629,2,平旺,07:00,07:02,2分钟,14分,1,10,2,-,0,36/39/41,52/56,0/0
+4629,3,怀仁,07:31,07:33,2分钟,45分,1,42,4,-,0,38/41/43,55/59,0/0
+4629,4,朔州,08:46,终点站,,2小时0分,1,129,9.5,-,0,43.5/46.5/48.5,65.5/69.5,0/0

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5327,1,太原南,始发站,16:01,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5327,2,晋中,16:12,16:14,2分钟,11分,1,16,0,0,0,0/0/0,0/0,6/7.5
+D5327,3,平遥古城,16:40,终点站,,39分,1,93,0,0,0,0/0/0,0/0,28.5/46

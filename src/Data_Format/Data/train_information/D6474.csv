@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6474,1,厦门,始发站,13:26,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6474,2,龙岩,14:37,终点站,,1小时11分,1,169,0,0,0,0/0/0,0/0,51/65.5

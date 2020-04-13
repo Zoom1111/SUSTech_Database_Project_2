@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D753,1,重庆北,始发站,16:20,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D753,2,南充北,17:41,17:43,2分钟,1小时21分,1,165,0,0,0,0/0/0,0/0,51/84
+D753,3,阆中,18:22,18:24,2分钟,2小时2分,1,247,0,0,0,0/0/0,0/0,88/133.5
+D753,4,广元,19:20,19:27,7分钟,3小时0分,1,353,0,0,0,0/0/0,0/0,114/184
+D753,5,兰州,23:08,终点站,,6小时48分,1,862,0,0,0,0/0/0,0/0,222/356

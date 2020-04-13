@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G350,1,成都东,始发站,07:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G350,2,西安北,10:12,10:18,6分钟,3小时12分,1,658,0,0,0,0/0/0,0/0,263/421
+G350,3,郑州东,12:08,12:13,5分钟,5小时8分,1,1181,0,0,0,0/0/0,0/0,502/803.5
+G350,4,石家庄,13:34,13:37,3分钟,6小时34分,1,1593,0,0,0,0/0/0,0/0,672.5/1076
+G350,5,北京西,14:46,终点站,,7小时46分,1,1874,0,0,0,0/0/0,0/0,778.5/1246

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6712,1,石家庄,始发站,12:24,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6712,2,高碑店东,13:11,13:14,3分钟,47分,1,198,0,0,0,0/0/0,0/0,90.5/145.5
+G6712,3,北京西,13:44,终点站,,1小时20分,1,281,0,0,0,0/0/0,0/0,128.5/206.5

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2884,1,新郑机场,始发站,15:29,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2884,2,郑州,15:54,16:00,6分钟,25分,1,37,0,0,0,0/0/0,0/0,16/0
+C2884,3,武陟,16:23,16:26,3分钟,54分,1,81,0,0,0,0/0/0,0/0,33/0
+C2884,4,焦作,16:42,终点站,,1小时13分,1,115,0,0,0,0/0/0,0/0,44/0

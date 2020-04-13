@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8194,1,沈阳,始发站,16:05,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8194,2,阜新,16:52,16:54,2分钟,47分,1,157,0,0,0,0/0/0,0/0,76/121
+G8194,3,朝阳,17:24,终点站,,1小时19分,1,275,0,0,0,0/0/0,0/0,85/135.5

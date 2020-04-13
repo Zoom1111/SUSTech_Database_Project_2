@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5801/D5804,1,汉口,始发站,08:26,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5801/D5804,2,汉川,08:49,08:51,2分钟,23分,1,46,0,0,0,0/0/0,0/0,17/27
+D5801/D5804,3,潜江,09:23,09:26,3分钟,57分,1,134,0,0,0,0/0/0,0/0,50/79
+D5801/D5804,4,枝江北,10:07,10:20,13分钟,1小时41分,1,248,0,0,0,0/0/0,0/0,92/147
+D5801/D5804,5,宜昌东,10:40,终点站,,2小时14分,1,292,0,0,0,0/0/0,0/0,108/173

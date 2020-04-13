@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7724,1,庄河北,始发站,06:40,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7724,2,城子坦,06:59,07:01,2分钟,19分,1,48,0,0,0,0/0/0,0/0,18/28.5
+D7724,3,登沙河,07:20,07:22,2分钟,40分,1,96,0,0,0,0/0/0,0/0,35.5/57
+D7724,4,金州,07:40,07:42,2分钟,1小时0分,1,132,0,0,0,0/0/0,0/0,49/78
+D7724,5,大连,08:06,终点站,,1小时26分,1,163,0,0,0,0/0/0,0/0,60/96.5

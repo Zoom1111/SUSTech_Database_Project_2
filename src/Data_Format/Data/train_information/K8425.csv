@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8425,1,阜阳,始发站,10:00,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8425,2,颍上,10:30,10:33,3分钟,30分,1,48,11,-,0,57/62/65,0/0,0/0
+K8425,3,淮南,11:25,11:30,5分钟,1小时25分,1,126,19.5,-,0,65.5/70.5/73.5,99.5/105.5,0/0
+K8425,4,合肥,12:35,终点站,,2小时35分,1,221,37.5,-,0,83.5/88.5/91.5,125.5/131.5,0/0

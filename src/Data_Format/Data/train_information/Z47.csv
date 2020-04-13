@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z46/Z47,1,杭州,始发站,22:47,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z46/Z47,2,义乌,23:55,23:59,4分钟,1小时8分,1,139,21.5,-,0,67.5/72.5/75.5,102.5/108.5,0/0
+Z46/Z47,3,金华,00:33,终点站,,1小时46分,2,187,28.5,-,0,74.5/79.5/82.5,113.5/119.5,0/0

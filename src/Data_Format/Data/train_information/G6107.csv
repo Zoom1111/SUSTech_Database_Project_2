@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6107,1,岳阳东,始发站,08:22,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6107,2,长沙南,08:55,08:59,4分钟,33分,1,147,0,0,0,0/0/0,0/0,69.5/109.5
+G6107,3,衡阳东,09:36,09:38,2分钟,1小时14分,1,324,0,0,0,0/0/0,0/0,149.5/239.5
+G6107,4,郴州西,10:11,10:13,2分钟,1小时49分,1,477,0,0,0,0/0/0,0/0,219/349
+G6107,5,广州南,11:36,终点站,,3小时14分,1,854,0,0,0,0/0/0,0/0,373.5/598.5

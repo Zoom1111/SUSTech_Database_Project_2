@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7659,1,广州南,始发站,07:22,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7659,2,小榄,07:40,07:42,2分钟,18分,1,45,0,0,0,0/0/0,0/0,25/0
+C7659,3,唐家湾,08:01,08:03,2分钟,39分,1,97,0,0,0,0/0/0,0/0,60/0
+C7659,4,珠海,08:20,终点站,,58分,1,116,0,0,0,0/0/0,0/0,80/0

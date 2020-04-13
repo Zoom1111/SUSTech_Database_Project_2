@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D715,1,北京南,始发站,22:44,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D715,2,徐州,05:17,05:19,2分钟,6小时33分,2,805,0,0,0,0/0/0,0/0,136/0
+D715,3,蚌埠,06:39,06:41,2分钟,7小时55分,2,969,0,0,0,0/0/0,0/0,164/0
+D715,4,南京,08:15,终点站,,9小时31分,2,1153,0,0,0,0/0/0,0/0,196/0

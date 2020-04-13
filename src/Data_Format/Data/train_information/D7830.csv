@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7830,1,佳木斯,始发站,20:23,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7830,2,哈尔滨,22:21,22:23,2分钟,1小时58分,1,343,0,0,0,0/0/0,0/0,120/192
+D7830,3,哈尔滨西,22:33,终点站,,2小时10分,1,350,0,0,0,0/0/0,0/0,127/203

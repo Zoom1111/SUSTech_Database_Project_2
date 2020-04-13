@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7230,1,新会,始发站,06:56,,-1分,1,0,0,0,0,0/0/0,0/0,0/0
+C7230,2,江门东,07:01,07:03,2分钟,-1分,1,7,0,0,0,0/0/0,0/0,10/0
+C7230,3,古镇,07:09,07:11,2分钟,-1分,1,18,0,0,0,0/0/0,0/0,10/0
+C7230,4,容桂,07:22,07:24,2分钟,-1分,1,40,0,0,0,0/0/0,0/0,25/0
+C7230,5,广州南,07:40,终点站,,-1分,1,72,0,0,0,0/0/0,0/0,45/0

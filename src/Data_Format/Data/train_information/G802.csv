@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G802,1,郑州,始发站,07:39,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G802,2,郑州东,07:55,08:00,5分钟,16分,1,14,0,0,0,0/0/0,0/0,8.5/14.5
+G802,3,北京西,10:25,终点站,,2小时46分,1,707,0,0,0,0/0/0,0/0,315/504

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6225,1,绵阳,始发站,06:58,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6225,2,德阳,07:16,07:18,2分钟,18分,1,47,0,0,0,0/0/0,0/0,19/23
+C6225,3,广汉北,07:27,07:29,2分钟,29分,1,67,0,0,0,0/0/0,0/0,27/32
+C6225,4,青白江东,07:37,07:39,2分钟,39分,1,81,0,0,0,0/0/0,0/0,32/39
+C6225,5,成都东,07:54,终点站,,56分,1,113,0,0,0,0/0/0,0/0,45/54

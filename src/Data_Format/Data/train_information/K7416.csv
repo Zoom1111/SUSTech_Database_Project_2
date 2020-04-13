@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7416,1,九台,始发站,06:52,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7416,2,长春,07:31,终点站,,39分,1,52,11,-,0,57/62/65,86.5/92.5,0/0

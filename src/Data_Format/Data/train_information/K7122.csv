@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7122,1,八面通,始发站,13:48,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7122,2,下城子,14:29,14:34,5分钟,41分,1,35,9,-,0,55/60/63,81.5/87.5,0/0
+K7122,3,穆棱,14:45,14:48,3分钟,57分,1,45,11,-,0,57/62/65,83.5/89.5,0/0
+K7122,4,牡丹江,15:41,终点站,,1小时53分,1,111,9.5,-,0,43.5/46.5/48.5,0/0,0/0

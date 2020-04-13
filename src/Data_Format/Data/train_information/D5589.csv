@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5589,1,杭州东,始发站,20:54,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5589,2,富阳,21:16,21:18,2分钟,22分,1,61,0,0,0,0/0/0,0/0,24/39
+D5589,3,桐庐,21:32,21:34,2分钟,38分,1,99,0,0,0,0/0/0,0/0,39/63
+D5589,4,千岛湖,21:56,21:58,2分钟,1小时2分,1,169,0,0,0,0/0/0,0/0,67/108
+D5589,5,黄山北,22:33,终点站,,1小时39分,1,288,0,0,0,0/0/0,0/0,88/141

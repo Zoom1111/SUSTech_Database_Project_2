@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6060,1,彭州,始发站,11:23,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6060,2,步行街,11:29,11:31,2分钟,6分,1,3,0,0,0,0/0/0,0/0,0/5
+C6060,3,彭州南,11:36,11:38,2分钟,13分,1,5,0,0,0,0/0/0,0/0,0/5
+C6060,4,犀浦,11:57,终点站,,34分,1,33,0,0,0,0/0/0,0/0,0/0

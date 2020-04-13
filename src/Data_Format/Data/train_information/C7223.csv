@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7223,1,广州南,始发站,06:09,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7223,2,小榄,06:28,06:30,2分钟,19分,1,45,0,0,0,0/0/0,0/0,25/0
+C7223,3,江门东,06:40,06:41,1分钟,31分,1,65,0,0,0,0/0/0,0/0,40/0
+C7223,4,新会,06:46,06:48,2分钟,37分,1,72,0,0,0,0/0/0,0/0,45/0
+C7223,5,阳江,07:43,终点站,,1小时34分,1,223,0,0,0,0/0/0,0/0,45/60

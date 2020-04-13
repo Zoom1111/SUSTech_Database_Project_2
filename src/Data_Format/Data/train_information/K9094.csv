@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9094,1,深圳西,始发站,21:12,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9094,2,东莞,22:22,22:25,3分钟,1小时10分,1,91,57.5,-,0,155.5/166.5/172.5,239.5/252.5,0/0
+K9094,3,广州,23:24,23:45,21分钟,2小时12分,1,162,24.5,-,0,70.5/75.5/78.5,108.5/114.5,0/0
+K9094,4,衡阳,05:35,终点站,,8小时23分,2,683,140,-,0,266/281/290,413/434,0/0

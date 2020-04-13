@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C8340/C8341,1,河口北,始发站,18:12,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C8340/C8341,2,蒙自,19:13,19:17,4分钟,1小时1分,1,122,0,0,0,0/0/0,0/0,26/41
+C8340/C8341,3,建水,19:55,19:59,4分钟,1小时43分,1,194,0,0,0,0/0/0,0/0,41/66
+C8340/C8341,4,昆明南,21:27,21:31,4分钟,3小时15分,1,369,0,0,0,0/0/0,0/0,91/145
+C8340/C8341,5,昆明,21:50,终点站,,3小时38分,1,397,0,0,0,0/0/0,0/0,0/0

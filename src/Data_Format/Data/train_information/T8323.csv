@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T8322/T8323,1,长沙,始发站,18:38,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+T8322/T8323,2,益阳,19:34,19:37,3分钟,56分,1,97,23.5,-,0,0/0/0,0/0,0/0
+T8322/T8323,3,常德,20:37,20:40,3分钟,1小时59分,1,198,46.5,-,0,0/0/0,0/0,0/0
+T8322/T8323,4,张家界,23:03,终点站,,4小时25分,1,396,86.5,-,0,0/0/0,0/0,0/0

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+7521,1,绿化,始发站,13:57,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+7521,2,桥西,14:18,14:25,7分钟,21分,1,14,1,-,0,0/0/0,0/0,0/0
+7521,3,狼尾山,15:24,15:27,3分钟,1小时27分,1,49,3,-,0,0/0/0,0/0,0/0
+7521,4,镜铁山,16:06,终点站,,2小时9分,1,69,4,-,0,0/0/0,0/0,0/0

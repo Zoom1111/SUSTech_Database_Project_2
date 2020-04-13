@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6288,1,邯郸东,始发站,18:28,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6288,2,高邑西,18:57,19:05,8分钟,29分,1,124,0,0,0,0/0/0,0/0,56.5/90.5
+G6288,3,石家庄,19:20,19:24,4分钟,52分,1,175,0,0,0,0/0/0,0/0,80.5/128.5
+G6288,4,保定东,20:00,20:02,2分钟,1小时32分,1,317,0,0,0,0/0/0,0/0,145.5/232.5
+G6288,5,天津西,20:57,终点站,,2小时29分,1,467,0,0,0,0/0/0,0/0,203/325

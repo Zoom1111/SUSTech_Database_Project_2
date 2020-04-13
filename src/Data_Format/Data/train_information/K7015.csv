@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7015,1,佳木斯,始发站,20:20,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7015,2,福利屯,21:22,21:25,3分钟,1小时2分,1,68,12.5,-,0,58.5/63.5/66.5,87.5/93.5,0/0
+K7015,3,双鸭山,21:39,终点站,,1小时19分,1,79,12.5,20.5,0,58.5/63.5/66.5,89.5/95.5,0/0

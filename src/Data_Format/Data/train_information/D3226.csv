@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D3226,1,南昌,始发站,14:05,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D3226,2,永修,14:27,14:29,2分钟,22分,1,46,0,0,0,0/0/0,0/0,12.5/22
+D3226,3,德安,14:44,14:46,2分钟,39分,1,80,0,0,0,0/0/0,0/0,191/304.5
+D3226,4,瑞昌西,15:10,终点站,,1小时5分,1,143,0,0,0,0/0/0,0/0,43/69

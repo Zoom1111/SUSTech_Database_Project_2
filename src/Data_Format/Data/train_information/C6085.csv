@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6085,1,安靖,始发站,10:07,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6085,2,犀浦,10:13,10:17,4分钟,6分,1,7,0,0,0,0/0/0,0/0,5/0
+C6085,3,迎宾路,10:38,10:40,2分钟,31分,1,49,0,0,0,0/0/0,0/0,10/0
+C6085,4,离堆公园,10:45,终点站,,38分,1,51,0,0,0,0/0/0,0/0,25/0

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6216,1,厦门,始发站,15:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6216,2,厦门北,15:23,15:29,6分钟,23分,1,31,0,0,0,0/0/0,0/0,8.5/14
+D6216,3,泉州,15:55,15:57,2分钟,55分,1,102,0,0,0,0/0/0,0/0,34/54
+D6216,4,莆田,16:22,16:25,3分钟,1小时22分,1,171,0,0,0,0/0/0,0/0,58/89
+D6216,5,福州,17:08,终点站,,2小时8分,1,276,0,0,0,0/0/0,0/0,80.5/97.5

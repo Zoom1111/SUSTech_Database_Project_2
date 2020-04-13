@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8607,1,富宁,始发站,20:18,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8607,2,广南县,20:41,20:44,3分钟,23分,1,71,0,0,0,0/0/0,0/0,26.5/42
+D8607,3,普者黑,21:12,21:14,2分钟,54分,1,163,0,0,0,0/0/0,0/0,60.5/96.5
+D8607,4,弥勒,21:47,21:49,2分钟,1小时29分,1,274,0,0,0,0/0/0,0/0,101.5/162.5
+D8607,5,昆明南,22:20,终点站,,2小时2分,1,366,0,0,0,0/0/0,0/0,135.5/217

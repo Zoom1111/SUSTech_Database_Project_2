@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9142,1,茂名,始发站,13:36,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9142,2,高州,14:05,14:07,2分钟,29分,1,44,25.5,-,0,0/0/0,0/0,0/0
+K9142,3,信宜,14:50,终点站,,1小时14分,1,97,30.5,-,0,0/0/0,0/0,0/0

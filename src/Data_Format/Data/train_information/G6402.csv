@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6402,1,邵阳,始发站,09:25,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6402,2,邵东,09:40,09:42,2分钟,15分,1,30,0,0,0,0/0/0,0/0,11/18
+G6402,3,娄底南,10:10,10:12,2分钟,45分,1,87,0,0,0,0/0/0,0/0,32.5/52
+G6402,4,长沙南,10:46,终点站,,1小时21分,1,213,0,0,0,0/0/0,0/0,90/148.5

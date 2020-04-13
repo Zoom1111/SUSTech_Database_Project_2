@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5105,1,重庆北,始发站,07:57,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5105,2,遂宁,09:07,09:13,6分钟,1小时10分,1,158,0,0,0,0/0/0,0/0,51.5/61.5
+D5105,3,成都东,10:10,终点站,,2小时13分,1,304,0,0,0,0/0/0,0/0,96.5/155

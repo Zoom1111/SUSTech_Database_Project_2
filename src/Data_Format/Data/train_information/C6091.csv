@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6091,1,安靖,始发站,15:29,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6091,2,犀浦,15:35,15:37,2分钟,6分,1,7,0,0,0,0/0/0,0/0,5/0
+C6091,3,红光镇,15:41,15:43,2分钟,12分,1,10,0,0,0,0/0/0,0/0,10/0
+C6091,4,迎宾路,16:02,16:04,2分钟,33分,1,49,0,0,0,0/0/0,0/0,15/0
+C6091,5,离堆公园,16:09,终点站,,40分,1,51,0,0,0,0/0/0,0/0,25/0

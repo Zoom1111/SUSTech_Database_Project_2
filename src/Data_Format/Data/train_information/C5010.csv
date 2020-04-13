@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C5010,1,咸宁南,始发站,20:03,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C5010,2,武昌,20:43,20:51,8分钟,40分,1,91,0,0,0,0/0/0,0/0,30/36
+C5010,3,汉口,21:12,终点站,,1小时9分,1,111,0,0,0,0/0/0,0/0,30/50

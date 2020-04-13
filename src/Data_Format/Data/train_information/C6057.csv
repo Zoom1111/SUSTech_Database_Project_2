@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6057,1,安靖,始发站,10:35,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6057,2,犀浦,10:41,10:43,2分钟,6分,1,7,0,0,0,0/0/0,0/0,5/0
+C6057,3,步行街,11:03,11:05,2分钟,28分,1,37,0,0,0,0/0/0,0/0,10/0
+C6057,4,彭州,11:12,终点站,,37分,1,40,0,0,0,0/0/0,0/0,0/0

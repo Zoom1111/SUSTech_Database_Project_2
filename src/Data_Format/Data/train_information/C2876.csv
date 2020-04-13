@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2876,1,新郑机场,始发站,09:20,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2876,2,郑州,09:45,09:50,5分钟,25分,1,37,0,0,0,0/0/0,0/0,16/0
+C2876,3,焦作,10:24,终点站,,1小时4分,1,115,0,0,0,0/0/0,0/0,44/0

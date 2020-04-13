@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2900,1,新郑机场,始发站,12:06,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2900,2,郑州,12:31,12:37,6分钟,25分,1,37,0,0,0,0/0/0,0/0,16/0
+C2900,3,焦作,13:11,终点站,,1小时5分,1,115,0,0,0,0/0/0,0/0,0/0

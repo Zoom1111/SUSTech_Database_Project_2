@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7236,1,新会,始发站,06:32,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7236,2,江门东,06:37,06:39,2分钟,5分,1,7,0,0,0,0/0/0,0/0,10/0
+C7236,3,古镇,06:45,06:47,2分钟,13分,1,18,0,0,0,0/0/0,0/0,10/0
+C7236,4,小榄,06:53,06:55,2分钟,21分,1,27,0,0,0,0/0/0,0/0,15/0
+C7236,5,顺德,07:08,07:10,2分钟,36分,1,57,0,0,0,0/0/0,0/0,35/0
+C7236,6,广州南,07:20,终点站,,48分,1,72,0,0,0,0/0/0,0/0,45/0

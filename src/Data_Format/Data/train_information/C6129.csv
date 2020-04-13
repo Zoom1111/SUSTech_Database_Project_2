@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6129,1,安靖,始发站,12:32,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6129,2,犀浦,12:38,12:41,3分钟,6分,1,7,0,0,0,0/0/0,0/0,5/0
+C6129,3,安德,12:53,12:55,2分钟,21分,1,28,0,0,0,0/0/0,0/0,5/0
+C6129,4,都江堰,13:06,13:08,2分钟,34分,1,49,0,0,0,0/0/0,0/0,0/10
+C6129,5,青城山,13:16,终点站,,44分,1,57,0,0,0,0/0/0,0/0,0/10

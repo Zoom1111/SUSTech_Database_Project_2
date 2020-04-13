@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6515,1,广州南,始发站,10:27,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6515,2,深圳北,10:57,11:00,3分钟,30分,1,102,0,0,0,0/0/0,0/0,74.5/99.5
+G6515,3,福田,11:08,终点站,,41分,1,111,0,0,0,0/0/0,0/0,82/108

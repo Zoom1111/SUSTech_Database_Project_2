@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C1017,1,长春,始发站,12:48,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C1017,2,吉林,13:28,13:31,3分钟,40分,1,111,0,0,0,0/0/0,0/0,31.5/52
+C1017,3,蛟河西,13:57,13:59,2分钟,1小时9分,1,176,0,0,0,0/0/0,0/0,52.5/63
+C1017,4,延吉西,15:06,终点站,,2小时18分,1,380,0,0,0,0/0/0,0/0,115.5/138.5

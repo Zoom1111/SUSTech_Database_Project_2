@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C8524,1,中川机场,始发站,17:22,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C8524,2,福利区,17:46,17:48,2分钟,24分,1,,0,0,0,0/0/0,0/0,0/0
+C8524,3,兰州西,18:00,18:02,2分钟,38分,1,60,0,0,0,0/0/0,0/0,17/27
+C8524,4,兰州,18:12,终点站,,50分,1,70,0,0,0,0/0/0,0/0,21.5/26

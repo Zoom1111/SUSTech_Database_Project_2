@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9582/K9583,1,草海,始发站,13:16,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9582/K9583,2,六盘水,14:30,14:36,6分钟,1小时14分,1,73,12.5,20.5,0,58.5/63.5/66.5,89.5/95.5,0/0
+K9582/K9583,3,六枝,15:53,15:58,5分钟,2小时37分,1,169,24.5,39.5,0,0/0/0,0/0,0/0
+K9582/K9583,4,安顺,16:38,16:43,5分钟,3小时22分,1,225,37.5,56.5,0,0/0/0,0/0,0/0
+K9582/K9583,5,贵阳,17:57,终点站,,4小时41分,1,322,50.5,77.5,0,0/0/0,0/0,0/0

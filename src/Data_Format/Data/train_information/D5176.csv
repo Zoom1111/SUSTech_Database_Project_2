@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5176,1,成都东,始发站,13:47,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5176,2,岳池,15:42,15:44,2分钟,1小时55分,1,272,0,0,0,0/0/0,0/0,82/98
+D5176,3,广安南,15:54,终点站,,2小时7分,1,288,0,0,0,0/0/0,0/0,87.5/105

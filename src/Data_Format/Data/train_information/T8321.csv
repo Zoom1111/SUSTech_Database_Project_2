@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T8321/T8324,1,张家界,始发站,08:15,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+T8321/T8324,2,慈利,09:14,09:17,3分钟,59分,1,76,-,20.5,0,0/0/0,0/0,0/0
+T8321/T8324,3,常德,10:29,10:33,4分钟,2小时14分,1,199,-,46.5,0,0/0/0,0/0,0/0
+T8321/T8324,4,益阳,11:29,11:33,4分钟,3小时14分,1,300,-,66.5,0,0/0/0,0/0,0/0
+T8321/T8324,5,长沙,12:40,终点站,,4小时25分,1,397,-,86.5,0,0/0/0,0/0,0/0

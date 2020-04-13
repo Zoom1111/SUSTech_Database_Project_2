@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D9984,1,福州南,始发站,07:16,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D9984,2,福州,07:32,07:39,-,16分,-,19,0,5.5/10,0,0/0/0,0/0,5.5/10
+D9984,3,南平北,08:18,08:20,-,1小时2分,-,140,0,43/66.5,0,0/0/0,0/0,43/66.5
+D9984,4,武夷山东,08:52,终点站,-,1小时36分,-,244,0,75/118,0,0/0/0,0/0,75/118

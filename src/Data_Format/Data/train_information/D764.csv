@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D761/D764,1,成都东,始发站,14:41,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D761/D764,2,广元,17:51,17:57,6分钟,3小时10分,1,399,0,0,0,0/0/0,0/0,122/194
+D761/D764,3,陇南,18:57,18:59,2分钟,4小时16分,1,538,0,0,0,0/0/0,0/0,0/0
+D761/D764,4,兰州,21:35,终点站,,6小时54分,1,908,0,0,0,0/0/0,0/0,230/366

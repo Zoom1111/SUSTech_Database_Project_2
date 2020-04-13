@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6637,1,成都西,始发站,18:25,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6637,2,大邑,18:46,18:48,2分钟,21分,1,49,0,0,0,0/0/0,0/0,18/0
+C6637,3,邛崃,18:57,18:59,2分钟,32分,1,67,0,0,0,0/0/0,0/0,25/0
+C6637,4,蒲江,19:11,19:13,2分钟,46分,1,92,0,0,0,0/0/0,0/0,34/0
+C6637,5,朝阳湖,19:18,19:20,2分钟,53分,1,98,0,0,0,0/0/0,0/0,36/0
+C6637,6,雅安,19:42,终点站,,1小时17分,1,140,0,0,0,0/0/0,0/0,52/83

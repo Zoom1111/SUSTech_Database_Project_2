@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C8109/C8112,1,库尔勒,始发站,13:25,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C8109/C8112,2,马兰,14:23,14:24,1分钟,58分,1,139,0,0,0,0/0/0,0/0,30/47
+C8109/C8112,3,乌鲁木齐南,16:43,16:44,1分钟,3小时18分,1,457,0,0,0,0/0/0,0/0,105/168
+C8109/C8112,4,乌鲁木齐,16:55,终点站,,3小时30分,1,466,0,0,0,0/0/0,0/0,108/172

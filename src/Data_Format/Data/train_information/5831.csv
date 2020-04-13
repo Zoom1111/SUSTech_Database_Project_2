@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+5831,1,伊宁,始发站,09:20,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+5831,2,霍城,09:45,09:47,-,25分,-,39,-,-,0,0/0/0,0/0,0/0
+5831,3,霍尔果斯,10:13,终点站,-,53分,-,73,-,-,0,0/0/0,0/0,0/0

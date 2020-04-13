@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7235,1,广州南,始发站,06:47,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+C7235,2,顺德,06:55,07:02,-,8分,-,15,0,10/0,0,0/0/0,0/0,10/0
+C7235,3,江门东,07:24,07:25,-,37分,-,65,0,40/0,0,0/0/0,0/0,40/0
+C7235,4,新会,07:32,终点站,-,45分,-,72,0,45/60,0,0/0/0,0/0,45/60

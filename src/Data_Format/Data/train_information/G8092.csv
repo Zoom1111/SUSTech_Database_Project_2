@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8092,1,扶余北,始发站,06:25,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8092,2,德惠西,06:41,06:43,2分钟,16分,1,58,0,0,0,0/0/0,0/0,26.5/42.5
+G8092,3,长春,07:08,终点站,,43分,1,142,0,0,0,0/0/0,0/0,64.5/103.5

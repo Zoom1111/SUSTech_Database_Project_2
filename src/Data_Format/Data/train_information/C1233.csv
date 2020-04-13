@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C1233,1,长春,始发站,20:24,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C1233,2,龙嘉,20:38,20:39,1分钟,14分,1,32,0,0,0,0/0/0,0/0,8.5/15
+C1233,3,吉林,21:09,终点站,,45分,1,111,0,0,0,0/0/0,0/0,31.5/52

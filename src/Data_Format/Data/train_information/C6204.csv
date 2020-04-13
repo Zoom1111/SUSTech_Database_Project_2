@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6204,1,成都东,始发站,06:05,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6204,2,江油,06:54,终点站,,49分,1,152,0,0,0,0/0/0,0/0,61/73

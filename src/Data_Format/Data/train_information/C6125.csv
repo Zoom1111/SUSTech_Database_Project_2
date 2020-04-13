@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6125,1,犀浦,始发站,11:45,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6125,2,都江堰,12:04,12:06,2分钟,19分,1,42,0,0,0,0/0/0,0/0,0/10
+C6125,3,青城山,12:14,终点站,,29分,1,50,0,0,0,0/0/0,0/0,0/10

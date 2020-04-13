@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+8821,1,忻州,始发站,19:02,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+8821,2,定襄,19:26,19:31,5分钟,24分,1,22,2,-,0,0/0/0,0/0,0/0
+8821,3,河边,19:54,终点站,,52分,1,40,2,-,0,0/0/0,0/0,0/0

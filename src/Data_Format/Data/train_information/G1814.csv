@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G1814/G1815,1,上海虹桥,始发站,14:15,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G1814/G1815,2,南京南,15:22,15:24,2分钟,1小时7分,1,295,0,0,0,0/0/0,0/0,134.5/229.5
+G1814/G1815,3,徐州东,16:38,16:40,2分钟,2小时23分,1,626,0,0,0,0/0/0,0/0,279/474
+G1814/G1815,4,郑州东,18:13,终点站,,3小时58分,1,986,0,0,0,0/0/0,0/0,447/739

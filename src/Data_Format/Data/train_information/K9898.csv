@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9898,1,格尔木,始发站,07:42,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9898,2,德令哈,10:31,10:37,6分钟,2小时49分,1,309,46.5,-,0,92.5/97.5/100.5,140.5/146.5,0/0
+K9898,3,柯柯,11:31,11:33,2分钟,3小时49分,1,404,62.5,-,0,110.5/114.5/117.5,166.5/174.5,0/0
+K9898,4,西宁,15:12,终点站,,7小时30分,1,830,112,-,0,194/200/208,301/315,0/0

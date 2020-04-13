@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2221,1,北京南,始发站,19:22,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2221,2,武清,19:43,19:46,3分钟,21分,1,84,0,0,0,0/0/0,0/0,38.5/45.5
+C2221,3,天津,20:00,终点站,,38分,1,120,0,0,0,0/0/0,0/0,54.5/65.5

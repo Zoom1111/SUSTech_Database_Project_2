@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7554,1,抚顺北,始发站,09:48,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7554,2,沈阳,10:32,终点站,,44分,1,65,11,-,0,0/0/0,0/0,0/0

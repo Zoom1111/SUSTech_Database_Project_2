@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G2996,1,贵阳北,始发站,16:05,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G2996,2,铜仁南,17:13,17:15,2分钟,1小时8分,1,267,0,0,0,0/0/0,0/0,122.5/206.5
+G2996,3,朱砂古镇,17:35,17:37,2分钟,1小时30分,1,300,0,0,0,0/0/0,0/0,136/229
+G2996,4,铜仁,17:51,终点站,,1小时46分,1,327,0,0,0,0/0/0,0/0,147/247

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6543,1,广州南,始发站,16:51,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6543,2,虎门,17:08,17:13,5分钟,17分,1,50,0,0,0,0/0/0,0/0,34.5/49.5
+G6543,3,光明城,17:26,17:28,2分钟,35分,1,86,0,0,0,0/0/0,0/0,59.5/84.5
+G6543,4,深圳北,17:39,17:41,2分钟,48分,1,102,0,0,0,0/0/0,0/0,74.5/99.5
+G6543,5,香港西九龙,18:00,终点站,,1小时9分,1,141,0,0,0,0/0/0,0/0,215/323

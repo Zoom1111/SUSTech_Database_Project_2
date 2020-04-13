@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C1248,1,吉林,始发站,20:43,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C1248,2,长春,21:23,终点站,,40分,1,111,0,0,0,0/0/0,0/0,31.5/38.5

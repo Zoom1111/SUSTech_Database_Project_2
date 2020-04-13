@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9610,1,昆明,始发站,10:23,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9610,2,杨林,11:22,11:24,2分钟,59分,1,58,11,-,0,0/0/0,86.5/92.5,0/0
+K9610,3,小新街,11:37,11:40,3分钟,1小时14分,1,76,12.5,-,0,0/0/0,89.5/95.5,0/0
+K9610,4,曲靖,12:26,12:33,7分钟,2小时3分,1,157,23.5,-,0,69.5/74.5/77.5,105.5/111.5,0/0
+K9610,5,宣威,13:51,终点站,,3小时28分,1,258,40.5,-,0,86.5/91.5/94.5,129.5/135.5,0/0

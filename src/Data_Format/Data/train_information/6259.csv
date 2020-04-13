@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+6259,1,齐齐哈尔,始发站,04:51,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+6259,2,富拉尔基,05:29,终点站,,38分,1,42,3,-,0,0/0/0,0/0,0/0

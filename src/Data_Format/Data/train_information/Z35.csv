@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z35,1,北京西,始发站,11:49,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z35,2,郑州,17:33,17:42,9分钟,5小时44分,1,689,93,-,0,163/168/174,251/263,0/0
+Z35,3,长沙,01:43,01:51,8分钟,13小时54分,2,1587,189.5,-,0,322.5/333.5/343.5,504.5/527.5,0/0
+Z35,4,广州,09:05,终点站,,21小时16分,2,2294,251,-,0,426/441/456,750/784,0/0

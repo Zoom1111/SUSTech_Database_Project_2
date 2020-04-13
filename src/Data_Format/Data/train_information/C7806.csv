@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7806,1,株洲南,始发站,08:05,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7806,2,大丰,08:14,08:15,1分钟,9分,1,13,0,0,0,0/0/0,0/0,6/0
+C7806,3,暮云,08:26,08:27,1分钟,21分,1,33,0,0,0,0/0/0,0/0,14/0
+C7806,4,洞井,08:36,08:38,2分钟,31分,1,46,0,0,0,0/0/0,0/0,18/0
+C7806,5,湘府路,08:41,08:42,1分钟,36分,1,48,0,0,0,0/0/0,0/0,0/0
+C7806,6,长沙,08:50,终点站,,45分,1,58,0,0,0,0/0/0,0/0,23/0

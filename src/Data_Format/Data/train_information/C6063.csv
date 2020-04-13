@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6063,1,犀浦,始发站,15:47,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6063,2,步行街,16:07,16:09,2分钟,20分,1,30,0,0,0,0/0/0,0/0,0/5
+C6063,3,彭州,16:16,终点站,,29分,1,33,0,0,0,0/0/0,0/0,0/0

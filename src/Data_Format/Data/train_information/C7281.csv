@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7281,1,汕尾,始发站,08:19,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7281,2,惠州南,08:55,08:57,2分钟,36分,1,100,0,0,0,0/0/0,0/0,35/56
+C7281,3,深圳北,09:28,终点站,,1小时9分,1,156,0,0,0,0/0/0,0/0,55/87

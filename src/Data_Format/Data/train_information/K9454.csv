@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9451/K9454,1,成都东,始发站,17:09,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+K9451/K9454,2,遵义,02:59,03:08,-,9小时50分,-,617,-,-,0,0/0/0,0/0,0/0
+K9451/K9454,3,贵阳,06:20,终点站,-,13小时11分,-,772,-,-,0,0/0/0,0/0,0/0

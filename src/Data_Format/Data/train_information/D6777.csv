@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6777,1,兴和北,始发站,21:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6777,2,乌兰察布,21:20,21:22,2分钟,20分,1,,0,0,0,0/0/0,0/0,0/0
+D6777,3,卓资东,21:40,21:42,2分钟,40分,1,108,0,0,0,0/0/0,0/0,0/0
+D6777,4,呼和浩特东,22:08,终点站,,1小时8分,1,,0,0,0,0/0/0,0/0,0/0

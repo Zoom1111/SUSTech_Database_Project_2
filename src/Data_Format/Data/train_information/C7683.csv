@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7683,1,广州南,始发站,10:39,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7683,2,顺德,10:48,11:07,19分钟,9分,1,15,0,0,0,0/0/0,0/0,10/0
+C7683,3,小榄,11:20,11:22,2分钟,41分,1,45,0,0,0,0/0/0,0/0,25/0
+C7683,4,中山,11:32,11:34,2分钟,53分,1,70,0,0,0,0/0/0,0/0,40/0
+C7683,5,明珠,11:51,11:53,2分钟,1小时12分,1,109,0,0,0,0/0/0,0/0,65/85
+C7683,6,珠海,12:06,终点站,,1小时27分,1,116,0,0,0,0/0/0,0/0,70/90

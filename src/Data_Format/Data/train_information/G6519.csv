@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6519,1,广州南,始发站,16:32,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6519,2,庆盛,16:45,16:47,2分钟,13分,1,31,0,0,0,0/0/0,0/0,24.5/34.5
+G6519,3,深圳北,17:09,17:12,3分钟,37分,1,102,0,0,0,0/0/0,0/0,74.5/99.5
+G6519,4,福田,17:20,终点站,,48分,1,111,0,0,0,0/0/0,0/0,82/108

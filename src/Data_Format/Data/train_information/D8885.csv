@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8885,1,陇南,始发站,16:41,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8885,2,哈达铺,17:36,17:38,2分钟,55分,1,129,0,0,0,0/0/0,0/0,27/44
+D8885,3,岷县,17:51,17:53,2分钟,1小时10分,1,154,0,0,0,0/0/0,0/0,32/52
+D8885,4,兰州,19:33,终点站,,2小时52分,1,370,0,0,0,0/0/0,0/0,78/125

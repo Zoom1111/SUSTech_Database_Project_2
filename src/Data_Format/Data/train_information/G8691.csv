@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8691,1,成都东,始发站,08:15,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8691,2,重庆西,09:31,09:34,3分钟,1小时16分,1,302,0,0,0,0/0/0,0/0,146/233.5
+G8691,3,贵阳北,11:35,终点站,,3小时20分,1,649,0,0,0,0/0/0,0/0,269/430

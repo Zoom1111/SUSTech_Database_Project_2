@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8081,1,盘锦,始发站,17:50,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8081,2,鞍山西,18:19,18:21,2分钟,29分,1,105,0,0,0,0/0/0,0/0,48/77
+G8081,3,辽阳,18:33,18:35,2分钟,43分,1,135,0,0,0,0/0/0,0/0,62/99
+G8081,4,沈阳,18:59,19:05,6分钟,1小时9分,1,200,0,0,0,0/0/0,0/0,92/147
+G8081,5,沈阳北,19:13,终点站,,1小时23分,1,205,0,0,0,0/0/0,0/0,94/150.5

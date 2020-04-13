@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G32,1,杭州东,始发站,13:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G32,2,南京南,14:02,14:04,2分钟,1小时2分,1,256,0,0,0,0/0/0,0/0,117.5/198
+G32,3,蚌埠南,14:44,14:46,2分钟,1小时44分,1,431,0,0,0,0/0/0,0/0,201/316
+G32,4,济南西,16:10,16:12,2分钟,3小时10分,1,873,0,0,0,0/0/0,0/0,383.5/646
+G32,5,北京南,17:39,终点站,,4小时39分,1,1279,0,0,0,0/0/0,0/0,538.5/907

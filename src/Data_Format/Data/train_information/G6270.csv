@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6270,1,石家庄,始发站,20:05,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6270,2,保定东,20:41,20:46,5分钟,36分,1,142,0,0,0,0/0/0,0/0,64.5/103.5
+G6270,3,天津西,21:39,终点站,,1小时34分,1,292,0,0,0,0/0/0,0/0,122.5/196.5

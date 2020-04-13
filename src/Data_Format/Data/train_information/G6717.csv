@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6717,1,北京西,始发站,20:59,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6717,2,保定东,21:40,21:42,2分钟,41分,1,139,0,0,0,0/0/0,0/0,63.5/101.5
+G6717,3,定州东,22:00,22:02,2分钟,1小时1分,1,201,0,0,0,0/0/0,0/0,92.5/147.5
+G6717,4,石家庄,22:25,终点站,,1小时26分,1,281,0,0,0,0/0/0,0/0,128.5/206.5

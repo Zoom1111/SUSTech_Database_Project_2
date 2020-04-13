@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z3,1,北京西,始发站,17:48,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z3,2,石家庄,20:12,20:18,6分钟,2小时24分,1,281,43.5,-,0,89.5/94.5/97.5,135.5/141.5,0/0
+Z3,3,重庆北,11:56,终点站,,18小时8分,2,2050,229,-,0,389/403/416,613/640,0/0

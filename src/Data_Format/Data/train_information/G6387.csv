@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6387,1,潮汕,始发站,19:50,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6387,2,普宁,20:11,20:13,2分钟,21分,1,53,0,0,0,0/0/0,0/0,19/29
+G6387,3,葵潭,20:28,20:30,2分钟,38分,1,84,0,0,0,0/0/0,0/0,29/47
+G6387,4,惠州南,21:26,21:28,2分钟,1小时36分,1,249,0,0,0,0/0/0,0/0,87/140
+G6387,5,深圳北,22:00,终点站,,2小时10分,1,305,0,0,0,0/0/0,0/0,107/171

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5134/D5135,1,潼南,始发站,20:25,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5134/D5135,2,合川,20:49,20:51,2分钟,24分,1,50,0,0,0,0/0/0,0/0,0/0
+D5134/D5135,3,重庆西,21:19,终点站,,54分,1,111,0,0,0,0/0/0,0/0,0/0

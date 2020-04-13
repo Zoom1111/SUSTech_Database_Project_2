@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6821,1,西安北,始发站,16:56,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6821,2,杨陵南,17:24,17:26,2分钟,28分,1,89,0,0,0,0/0/0,0/0,27.5/44
+D6821,3,岐山,17:41,17:43,2分钟,45分,1,130,0,0,0,0/0/0,0/0,51.5/82.5
+D6821,4,宝鸡南,17:57,终点站,,1小时1分,1,167,0,0,0,0/0/0,0/0,51.5/82.5

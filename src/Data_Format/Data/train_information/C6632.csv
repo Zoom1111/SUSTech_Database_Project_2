@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6632,1,雅安,始发站,17:05,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6632,2,名山,17:14,17:16,2分钟,9分,1,13,0,0,0,0/0/0,0/0,0/0
+C6632,3,蒲江,17:33,17:35,2分钟,28分,1,48,0,0,0,0/0/0,0/0,18/0
+C6632,4,成都西,18:11,终点站,,1小时6分,1,140,0,0,0,0/0/0,0/0,52/83

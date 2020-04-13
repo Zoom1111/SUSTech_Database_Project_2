@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D712,1,杭州,始发站,20:05,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D712,2,嘉兴,20:54,20:56,2分钟,49分,1,93,0,0,0,102/109/119,153/172,16/0
+D712,3,南京,00:03,00:09,6分钟,3小时58分,2,471,0,0,0,120/128/140,179/203,80/0
+D712,4,德州,06:32,06:34,2分钟,10小时27分,2,1256,0,0,0,320/341/373,478/541,213/0
+D712,5,北京,09:36,终点站,,13小时31分,2,1633,0,0,0,416/443/485,622/704,277/0

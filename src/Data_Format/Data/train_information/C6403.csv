@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6403,1,万州北,始发站,08:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6403,2,梁平南,08:57,08:59,2分钟,27分,1,65,0,0,0,0/0/0,0/0,26/42
+C6403,3,垫江,09:20,09:22,2分钟,50分,1,118,0,0,0,0/0/0,0/0,47/76
+C6403,4,复盛,09:57,09:59,2分钟,1小时27分,1,219,0,0,0,0/0/0,0/0,88/140
+C6403,5,重庆北,10:14,终点站,,1小时44分,1,245,0,0,0,0/0/0,0/0,98/157

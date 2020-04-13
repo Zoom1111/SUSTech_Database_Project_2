@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+S101,1,北京西,始发站,07:00,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+S101,2,北京,07:14,07:15,1分钟,14分,1,9,4,-,0,0/0/0,0/0,0/0
+S101,3,通州,07:33,07:34,1分钟,33分,1,29,6,-,0,0/0/0,0/0,0/0
+S101,4,乔庄东,07:43,终点站,,43分,1,32,8,-,0,0/0/0,0/0,0/0

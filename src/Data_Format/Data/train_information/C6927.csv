@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6927,1,长沙,始发站,12:08,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6927,2,树木岭,12:12,12:14,2分钟,4分,1,5,0,0,0,0/0/0,0/0,5/0
+C6927,3,先锋,12:21,12:23,2分钟,13分,1,16,0,0,0,0/0/0,0/0,8/0
+C6927,4,暮云,12:29,12:31,2分钟,21分,1,25,0,0,0,0/0/0,0/0,10/0
+C6927,5,板塘,12:43,12:44,1分钟,35分,1,44,0,0,0,0/0/0,0/0,18/0
+C6927,6,湘潭,12:52,终点站,,44分,1,49,0,0,0,0/0/0,0/0,25/0

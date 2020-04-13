@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C8306/C8307,1,蒙自,始发站,12:13,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C8306/C8307,2,建水,12:50,12:54,4分钟,37分,1,72,0,0,0,0/0/0,0/0,15/24
+C8306/C8307,3,昆明南,14:35,14:39,4分钟,2小时22分,1,247,0,0,0,0/0/0,0/0,65/105
+C8306/C8307,4,昆明,14:58,终点站,,2小时45分,1,275,0,0,0,0/0/0,0/0,74/120

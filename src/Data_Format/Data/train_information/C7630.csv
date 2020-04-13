@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7630,1,珠海,始发站,14:50,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7630,2,前山,14:56,14:58,2分钟,6分,1,3,0,0,0,0/0/0,0/0,0/0
+C7630,3,明珠,15:05,15:07,2分钟,15分,1,7,0,0,0,0/0/0,0/0,15/0
+C7630,4,中山,15:23,15:25,2分钟,33分,1,46,0,0,0,0/0/0,0/0,30/40
+C7630,5,顺德,15:46,15:48,2分钟,56分,1,101,0,0,0,0/0/0,0/0,60/0
+C7630,6,广州南,15:58,终点站,,1小时8分,1,116,0,0,0,0/0/0,0/0,70/90

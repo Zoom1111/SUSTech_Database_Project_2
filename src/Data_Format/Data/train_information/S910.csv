@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+S910,1,天津北,始发站,12:23,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+S910,2,宝坻,13:36,13:39,3分钟,1小时13分,1,69,12,-,0,58/63/66,0/0,0/0
+S910,3,蓟州北,14:14,终点站,,1小时51分,1,109,26.5,-,0,0/0/0,0/0,0/0

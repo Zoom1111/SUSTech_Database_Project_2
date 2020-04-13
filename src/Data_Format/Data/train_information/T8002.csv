@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T8002,1,赣州,始发站,13:24,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+T8002,2,兴国,14:08,14:15,7分钟,44分,1,73,12.5,-,0,58.5/63.5/66.5,0/0,0/0
+T8002,3,吉安,15:25,15:31,6分钟,2小时1分,1,186,28.5,-,0,74.5/79.5/82.5,0/0,0/0
+T8002,4,南昌,17:43,终点站,,4小时19分,1,412,62.5,-,0,110.5/114.5/117.5,0/0,0/0

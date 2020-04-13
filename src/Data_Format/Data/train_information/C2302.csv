@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2302,1,滨海,始发站,11:40,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2302,2,塘沽,11:49,11:51,2分钟,9分,1,5,0,0,0,0/0/0,0/0,5/9
+C2302,3,天津,12:09,终点站,,29分,1,45,0,0,0,0/0/0,0/0,12/20

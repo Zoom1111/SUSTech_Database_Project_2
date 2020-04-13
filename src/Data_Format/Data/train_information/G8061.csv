@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8061,1,大连北,始发站,20:02,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8061,2,鲅鱼圈,20:42,20:44,2分钟,40分,1,149,0,0,0,0/0/0,0/0,68.5/109.5
+G8061,3,沈阳北,21:46,终点站,,1小时44分,1,383,0,0,0,0/0/0,0/0,175.5/281.5

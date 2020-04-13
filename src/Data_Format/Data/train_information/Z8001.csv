@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z8001/Z8004,1,广州东,始发站,09:36,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z8001/Z8004,2,东莞东,10:30,10:34,4分钟,54分,1,86,-,455.5,0,0/0/0,0/0,0/0
+Z8001/Z8004,3,惠州,11:14,11:17,3分钟,1小时38分,1,140,-,57.5,0,0/0/0,0/0,0/0
+Z8001/Z8004,4,河源,12:05,终点站,,2小时29分,1,220,-,73.5,0,0/0/0,0/0,0/0

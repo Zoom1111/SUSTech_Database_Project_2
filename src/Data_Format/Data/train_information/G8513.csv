@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8513,1,成都东,始发站,16:21,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8513,2,简阳南,16:40,16:42,2分钟,19分,1,53,0,0,0,0/0/0,0/0,25.5/41
+G8513,3,内江北,17:08,17:10,2分钟,47分,1,153,0,0,0,0/0/0,0/0,74/118.5
+G8513,4,重庆北,18:02,终点站,,1小时41分,1,319,0,0,0,0/0/0,0/0,154/246.5

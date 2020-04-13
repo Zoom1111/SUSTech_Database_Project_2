@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7208,1,上海,始发站,17:21,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7208,2,昆山南,17:40,17:42,2分钟,19分,1,50,0,0,0,0/0/0,0/0,24.5/34.5
+G7208,3,苏州园区,17:52,17:57,5分钟,31分,1,74,0,0,0,0/0/0,0/0,34.5/54.5
+G7208,4,苏州,18:03,终点站,,42分,1,84,0,0,0,0/0/0,0/0,39.5/59.5

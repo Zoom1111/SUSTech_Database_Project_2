@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G1719/G1722,1,武汉,始发站,08:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G1719/G1722,2,合肥南,09:33,09:38,5分钟,1小时33分,1,355,0,0,0,0/0/0,0/0,133.5/214
+G1719/G1722,3,南京南,10:30,10:37,7分钟,2小时30分,1,512,0,0,0,0/0/0,0/0,200.5/320
+G1719/G1722,4,苏州北,11:27,11:29,2分钟,3小时27分,1,726,0,0,0,0/0/0,0/0,299/485.5
+G1719/G1722,5,上海虹桥,11:53,终点站,,3小时53分,1,807,0,0,0,0/0/0,0/0,336/548

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7631,1,广州南,始发站,16:19,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7631,2,小榄,16:38,16:40,2分钟,19分,1,45,0,0,0,0/0/0,0/0,25/0
+C7631,3,中山北,16:49,16:51,2分钟,30分,1,64,0,0,0,0/0/0,0/0,40/0
+C7631,4,明珠,17:09,17:11,2分钟,50分,1,109,0,0,0,0/0/0,0/0,65/0
+C7631,5,珠海,17:23,终点站,,1小时4分,1,116,0,0,0,0/0/0,0/0,70/90

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T7788,1,合肥,始发站,07:55,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+T7788,2,阜阳,10:19,10:25,6分钟,2小时24分,1,221,37.5,-,0,83.5/88.5/91.5,125.5/131.5,0/0
+T7788,3,亳州,11:22,终点站,,3小时27分,1,325,50.5,77.5,0,0/0/0,0/0,0/0

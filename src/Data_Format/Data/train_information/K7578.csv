@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7578,1,辽源,始发站,14:16,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7578,2,伊通,15:04,15:06,2分钟,48分,1,72,6,-,0,40/43/45,0/0,0/0
+K7578,3,双阳,15:32,15:40,8分钟,1小时16分,1,109,8.5,-,0,42.5/45.5/47.5,0/0,0/0
+K7578,4,长春,16:30,终点站,,2小时14分,1,172,15.5,-,0,49.5/52.5/54.5,0/0,0/0

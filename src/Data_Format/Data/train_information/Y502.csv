@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Y502,1,衡水,始发站,17:50,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Y502,2,肃宁,18:39,18:41,2分钟,49分,1,86,14.5,-,0,0/0/0,0/0,0/0
+Y502,3,霸州,19:44,19:46,2分钟,1小时54分,1,182,28.5,-,0,74.5/79.5/82.5,113.5/119.5,0/0
+Y502,4,北京西,20:57,终点站,,3小时7分,1,274,41.5,-,0,87.5/92.5/95.5,132.5/138.5,0/0

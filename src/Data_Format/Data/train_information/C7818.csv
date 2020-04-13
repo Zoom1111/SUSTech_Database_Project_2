@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7818,1,株洲南,始发站,10:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7818,2,大丰,10:39,10:40,1分钟,9分,1,13,0,0,0,0/0/0,0/0,6/0
+C7818,3,田心东,10:43,10:45,2分钟,13分,1,16,0,0,0,0/0/0,0/0,6/0
+C7818,4,暮云,10:55,10:57,2分钟,25分,1,33,0,0,0,0/0/0,0/0,0/0
+C7818,5,先锋,11:04,11:05,1分钟,34分,1,42,0,0,0,0/0/0,0/0,17/0
+C7818,6,长沙,11:16,终点站,,46分,1,58,0,0,0,0/0/0,0/0,23/0

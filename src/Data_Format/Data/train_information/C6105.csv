@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6105,1,犀浦,始发站,07:29,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6105,2,安德,07:41,07:43,2分钟,12分,1,21,0,0,0,0/0/0,0/0,0/10
+C6105,3,都江堰,07:54,07:58,4分钟,25分,1,42,0,0,0,0/0/0,0/0,0/10
+C6105,4,青城山,08:06,终点站,,37分,1,50,0,0,0,0/0/0,0/0,0/10

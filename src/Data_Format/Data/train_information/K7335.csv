@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7335,1,庄河北,始发站,19:52,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7335,2,岫岩,20:47,终点站,,55分,1,79,-,-,0,0/0/0,0/0,0/0

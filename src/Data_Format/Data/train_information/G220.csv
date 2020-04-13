@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G220,1,沈阳南,始发站,13:07,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G220,2,沈阳,13:19,13:27,8分钟,12分,1,15,0,0,0,0/0/0,0/0,9/14.5
+G220,3,天津,16:49,16:53,4分钟,3小时42分,1,681,0,0,0,0/0/0,0/0,249.5/409
+G220,4,北京南,17:28,终点站,,4小时21分,1,853,0,0,0,0/0/0,0/0,304/497

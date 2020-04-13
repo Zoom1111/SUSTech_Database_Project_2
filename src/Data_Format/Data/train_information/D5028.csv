@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5028,1,吉林,始发站,11:33,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D5028,2,龙嘉,12:02,12:03,-,29分,-,79,0,22.5/27.5,0,0/0/0,0/0,22.5/27.5
+D5028,3,长春,12:18,终点站,-,45分,-,111,0,31.5/38.5,0,0/0/0,0/0,31.5/38.5

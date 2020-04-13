@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C1206,1,吉林,始发站,08:18,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C1206,2,九台南,08:44,08:45,1分钟,26分,1,69,0,0,0,0/0/0,0/0,19.5/24.5
+C1206,3,龙嘉,08:52,08:53,1分钟,34分,1,79,0,0,0,0/0/0,0/0,22.5/27.5
+C1206,4,长春,09:08,终点站,,50分,1,111,0,0,0,0/0/0,0/0,31.5/38.5

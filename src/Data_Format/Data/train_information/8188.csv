@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+8188,1,大同,始发站,07:16,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+8188,2,阳高,08:20,08:23,3分钟,1小时4分,1,57,3,-,0,0/0/0,0/0,0/0
+8188,3,天镇,08:51,08:54,3分钟,1小时35分,1,86,5,-,0,0/0/0,0/0,0/0
+8188,4,柴沟堡,09:50,终点站,,2小时34分,1,134,8.5,-,0,0/0/0,0/0,0/0

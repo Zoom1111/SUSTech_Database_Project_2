@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9729,1,乌鲁木齐,始发站,08:06,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9729,2,双河市,14:17,14:19,2分钟,6小时11分,1,462,-,-,0,0/0/0,0/0,0/0
+K9729,3,博尔塔拉,14:40,终点站,,6小时34分,1,488,-,-,0,0/0/0,0/0,0/0

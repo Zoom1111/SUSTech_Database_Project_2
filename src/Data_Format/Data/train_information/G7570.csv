@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7570,1,宁波,始发站,07:18,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7570,2,余姚北,07:39,07:42,3分钟,21分,1,49,0,0,0,0/0/0,0/0,22.5/38
+G7570,3,绍兴北,08:00,08:02,2分钟,42分,1,112,0,0,0,0/0/0,0/0,0/0
+G7570,4,杭州东,08:22,终点站,,1小时4分,1,155,0,0,0,0/0/0,0/0,71/120

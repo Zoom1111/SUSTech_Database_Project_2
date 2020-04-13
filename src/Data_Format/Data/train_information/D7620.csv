@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7620,1,丹东,始发站,13:28,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7620,2,五龙背东,13:38,13:40,2分钟,10分,1,18,0,0,0,0/0/0,0/0,6/7.5
+D7620,3,本溪,14:17,14:19,2分钟,49分,1,147,0,0,0,0/0/0,0/0,45.5/54.5
+D7620,4,沈阳,14:52,终点站,,1小时24分,1,223,0,0,0,0/0/0,0/0,70/87

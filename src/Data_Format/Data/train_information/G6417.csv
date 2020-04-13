@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6417,1,长沙南,始发站,20:01,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6417,2,湘潭北,20:15,20:17,2分钟,14分,1,26,0,0,0,0/0/0,0/0,12/20
+G6417,3,娄底南,20:43,20:45,2分钟,42分,1,125,0,0,0,0/0/0,0/0,57.5/96.5
+G6417,4,邵东,21:13,21:15,2分钟,1小时12分,1,183,0,0,0,0/0/0,0/0,79/131
+G6417,5,邵阳,21:31,终点站,,1小时30分,1,213,0,0,0,0/0/0,0/0,90/148.5

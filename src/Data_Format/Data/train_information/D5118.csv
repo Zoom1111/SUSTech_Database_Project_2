@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5118,1,遂宁,始发站,10:40,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5118,2,潼南,11:08,11:13,5分钟,28分,1,52,0,0,0,0/0/0,0/0,15.5/18.5
+D5118,3,合川,11:37,11:39,2分钟,57分,1,102,0,0,0,0/0/0,0/0,30.5/37.5
+D5118,4,重庆北,12:04,终点站,,1小时24分,1,158,0,0,0,0/0/0,0/0,51.5/61.5

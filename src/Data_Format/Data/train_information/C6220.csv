@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6220,1,成都东,始发站,20:05,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6220,2,青白江东,20:19,20:21,2分钟,14分,1,32,0,0,0,0/0/0,0/0,0/0
+C6220,3,绵阳,20:47,20:54,7分钟,42分,1,113,0,0,0,0/0/0,0/0,45/54
+C6220,4,江油,21:11,21:13,2分钟,1小时6分,1,152,0,0,0,0/0/0,0/0,61/73
+C6220,5,广元,21:54,终点站,,1小时49分,1,278,0,0,0,0/0/0,0/0,111/178

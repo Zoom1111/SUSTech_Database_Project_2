@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z26/Z27,1,上海南,始发站,21:02,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z26/Z27,2,嘉兴,21:44,终点站,,42分,1,80,-,-,0,58.5/63.5/66.5,89.5/95.5,0/0

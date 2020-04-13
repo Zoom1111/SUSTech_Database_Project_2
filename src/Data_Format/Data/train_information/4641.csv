@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+4641,1,大同,始发站,17:00,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+4641,2,怀仁,17:37,17:40,3分钟,37分,1,42,9,-,0,0/0/0,0/0,0/0
+4641,3,岱岳,18:10,18:12,2分钟,1小时10分,1,85,12.5,-,0,0/0/0,0/0,0/0
+4641,4,朔州,18:46,终点站,,1小时46分,1,129,17.5,-,0,63.5/68.5/71.5,97.5/103.5,0/0

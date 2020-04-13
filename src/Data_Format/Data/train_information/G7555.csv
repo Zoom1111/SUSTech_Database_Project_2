@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7555,1,上海虹桥,始发站,21:05,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7555,2,嘉善南,21:28,21:34,6分钟,23分,1,67,0,0,0,0/0/0,0/0,27.5/46.5
+G7555,3,嘉兴南,21:43,21:45,2分钟,38分,1,84,0,0,0,0/0/0,0/0,38.5/61.5
+G7555,4,杭州东,22:09,终点站,,1小时4分,1,159,0,0,0,0/0/0,0/0,73/117

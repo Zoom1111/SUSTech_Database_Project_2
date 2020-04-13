@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6759,1,呼和浩特东,始发站,13:10,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6759,2,呼和浩特,13:19,13:21,2分钟,9分,1,8,0,0,0,0/0/0,0/0,5/10
+D6759,3,包头东,14:13,14:15,2分钟,1小时3分,1,157,0,0,0,0/0/0,0/0,46/55
+D6759,4,包头,14:27,终点站,,1小时17分,1,173,0,0,0,0/0/0,0/0,51/61

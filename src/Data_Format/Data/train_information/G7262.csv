@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7259/G7262,1,合肥,始发站,07:56,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7259/G7262,2,南京南,08:52,08:58,6分钟,56分,1,157,0,0,0,0/0/0,0/0,60.5/72.5
+G7259/G7262,3,上海,10:13,终点站,,2小时17分,1,465,0,0,0,0/0/0,0/0,200/306

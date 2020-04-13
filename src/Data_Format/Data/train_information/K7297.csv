@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7297,1,东京城,始发站,20:02,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7297,2,宁安,20:31,20:34,3分钟,29分,1,38,4,-,0,38/41/43,0/0,0/0
+K7297,3,牡丹江,21:06,终点站,,1小时4分,1,70,6,-,0,40/43/45,0/0,0/0

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8131/G8134,1,通辽,始发站,08:56,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8131/G8134,2,彰武,09:37,09:39,2分钟,41分,1,143,0,0,0,0/0/0,0/0,53/85
+G8131/G8134,3,沈阳北,10:21,10:24,3分钟,1小时25分,1,257,0,0,0,0/0/0,0/0,102/163
+G8131/G8134,4,长春西,11:31,终点站,,2小时35分,1,555,0,0,0,0/0/0,0/0,239/382

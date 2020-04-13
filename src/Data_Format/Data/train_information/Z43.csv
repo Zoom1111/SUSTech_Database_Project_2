@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z43,1,北京西,始发站,20:12,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z43,2,石家庄北,22:46,22:55,9分钟,2小时34分,1,291,43.5,-,0,89.5/94.5/97.5,135.5/141.5,0/0
+Z43,3,延安,06:30,06:34,4分钟,10小时18分,2,957,124,-,0,215/223/230,336/351,0/0
+Z43,4,西安,09:55,终点站,,13小时43分,2,1279,156.5,-,0,268.5/279.5/288.5,422.5/440.5,0/0

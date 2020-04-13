@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+8171,1,榆次,始发站,09:25,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+8171,2,榆社,12:23,12:38,15分钟,2小时58分,1,112,7.5,14.5,0,41.5/44.5/46.5,63.5/67.5,0/0
+8171,3,武乡,13:20,13:22,2分钟,3小时55分,1,142,9.5,17.5,0,43.5/46.5/48.5,66.5/70.5,0/0
+8171,4,沁县,13:53,终点站,,4小时28分,1,165,10.5,-,0,0/0/0,0/0,0/0

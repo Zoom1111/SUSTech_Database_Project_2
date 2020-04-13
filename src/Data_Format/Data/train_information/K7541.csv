@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7541,1,沈阳,始发站,15:42,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7541,2,铁岭,16:27,16:29,2分钟,45分,1,67,6,10.5,0,40/44/46,0/0,0/0
+K7541,3,开原,16:51,16:53,2分钟,1小时9分,1,101,8.5,15.5,0,42.5/47/49,0/0,0/0
+K7541,4,西丰,17:50,终点站,,2小时8分,1,168,28.5,-,0,74.5/79.5/82.5,0/0,0/0

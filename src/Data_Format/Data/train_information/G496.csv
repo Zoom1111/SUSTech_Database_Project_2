@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G496/G497,1,北京南,始发站,12:15,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G496/G497,2,天津西,12:50,12:53,3分钟,35分,1,122,0,0,0,0/0/0,0/0,54.5/94.5
+G496/G497,3,营口东,15:59,16:00,1分钟,3小时44分,1,757,0,0,0,0/0/0,0/0,305/474
+G496/G497,4,大连北,16:53,终点站,,4小时38分,1,963,0,0,0,0/0/0,0/0,400/625.5

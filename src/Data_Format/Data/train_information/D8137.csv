@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8137,1,青岛北,始发站,06:35,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8137,2,青岛西,07:11,07:14,3分钟,36分,1,74,0,0,0,0/0/0,0/0,24/44
+D8137,3,日照西,07:49,07:56,7分钟,1小时14分,1,153,0,0,0,0/0/0,0/0,0/0
+D8137,4,岚山西,08:09,终点站,,1小时34分,1,180,0,0,0,0/0/0,0/0,67/107

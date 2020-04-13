@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+8356/8357,1,阎良,始发站,10:06,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+8356/8357,2,三原,10:33,10:36,3分钟,27分,1,26,2,-,0,0/0/0,0/0,0/0
+8356/8357,3,咸阳,11:39,12:10,31分钟,1小时33分,1,72,4,-,0,0/0/0,0/0,0/0
+8356/8357,4,西安,12:35,终点站,,2小时29分,1,95,6.5,-,0,0/0/0,0/0,0/0

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6281/D6284,1,上饶,始发站,10:11,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6281/D6284,2,德兴,10:29,10:31,2分钟,18分,1,55,0,0,0,0/0/0,0/0,17/27
+D6281/D6284,3,婺源,10:43,10:45,2分钟,32分,1,86,0,0,0,0/0/0,0/0,26.5/42.5
+D6281/D6284,4,景德镇北,11:14,终点站,,1小时3分,1,155,0,0,0,0/0/0,0/0,0/0

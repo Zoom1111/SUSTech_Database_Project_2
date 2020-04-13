@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Y509,1,北京,始发站,07:50,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Y509,2,唐山北,09:24,09:27,3分钟,1小时34分,1,151,-,36.5,0,0/0/0,105.5/111.5,0/0
+Y509,3,北戴河,10:43,10:48,5分钟,2小时53分,1,277,-,63.5,0,0/0/0,132.5/138.5,0/0
+Y509,4,秦皇岛,11:06,终点站,,3小时16分,1,299,-,66.5,0,0/0/0,135.5/141.5,0/0

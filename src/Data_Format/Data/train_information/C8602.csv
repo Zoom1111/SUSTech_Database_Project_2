@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C8602,1,中川机场,始发站,08:18,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C8602,2,兰州新区,08:23,08:26,3分钟,5分,1,4,0,0,0,0/0/0,0/0,5/9
+C8602,3,兰州西,08:58,终点站,,40分,1,60,0,0,0,0/0/0,0/0,17/27

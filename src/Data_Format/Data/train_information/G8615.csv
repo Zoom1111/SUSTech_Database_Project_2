@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8615,1,成都东,始发站,10:15,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8615,2,简阳南,10:34,10:37,3分钟,19分,1,53,0,0,0,0/0/0,0/0,25.5/41
+G8615,3,内江北,11:03,11:05,2分钟,48分,1,153,0,0,0,0/0/0,0/0,74/118.5
+G8615,4,隆昌北,11:16,终点站,,1小时1分,1,179,0,0,0,0/0/0,0/0,86.5/138.5

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9092,1,长沙,始发站,18:11,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9092,2,益阳,19:28,19:34,6分钟,1小时17分,1,97,29.5,-,0,102.5/111.5/116.5,155.5/165.5,0/0
+K9092,3,常德,20:46,终点站,,2小时35分,1,198,52.5,-,0,125.5/134.5/139.5,191.5/201.5,0/0

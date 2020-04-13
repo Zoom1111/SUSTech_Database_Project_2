@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6474,1,怀化南,始发站,14:02,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6474,2,溆浦南,14:22,14:28,6分钟,20分,1,61,0,0,0,0/0/0,0/0,28/47
+G6474,3,娄底南,15:04,15:06,2分钟,1小时2分,1,207,0,0,0,0/0/0,0/0,100.5/160
+G6474,4,湘潭北,15:32,15:39,7分钟,1小时30分,1,306,0,0,0,0/0/0,0/0,146/236.5
+G6474,5,长沙南,15:52,终点站,,1小时50分,1,332,0,0,0,0/0/0,0/0,158/256.5

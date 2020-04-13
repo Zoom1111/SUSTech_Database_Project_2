@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6294,1,乐山,始发站,19:26,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6294,2,眉山东,19:44,19:46,2分钟,18分,1,53,0,0,0,0/0/0,0/0,21/25
+C6294,3,成都南,20:13,20:16,3分钟,47分,1,127,0,0,0,0/0/0,0/0,51/81
+C6294,4,成都东,20:25,终点站,,59分,1,135,0,0,0,0/0/0,0/0,54/65

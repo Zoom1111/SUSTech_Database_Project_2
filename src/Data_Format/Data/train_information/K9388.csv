@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9388,1,纳雍,始发站,07:50,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9388,2,织金,08:51,08:57,6分钟,1小时1分,1,62,12.5,-,0,58.5/63.5/66.5,0/0,0/0
+K9388,3,安顺,10:18,10:24,6分钟,2小时28分,1,155,23.5,-,0,69.5/74.5/77.5,0/0,0/0
+K9388,4,贵阳,11:38,终点站,,3小时48分,1,252,40.5,-,0,86.5/91.5/94.5,0/0,0/0

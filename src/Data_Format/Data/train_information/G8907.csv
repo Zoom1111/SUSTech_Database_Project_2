@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8907,1,北京西,始发站,22:11,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8907,2,涿州东,22:36,22:38,2分钟,25分,1,62,0,0,0,0/0/0,0/0,28.5/45.5
+G8907,3,石家庄,23:31,终点站,,1小时20分,1,281,0,0,0,0/0/0,0/0,128.5/206.5

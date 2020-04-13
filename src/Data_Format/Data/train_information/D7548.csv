@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7545/D7548,1,广州东,始发站,18:41,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7545/D7548,2,东莞,19:09,19:11,2分钟,28分,1,63,0,0,0,0/0/0,0/0,45.5/50.5
+D7545/D7548,3,深圳坪山,20:08,20:10,2分钟,1小时27分,1,147,0,0,0,0/0/0,0/0,84.5/99.5
+D7545/D7548,4,潮汕,21:45,22:03,18分钟,3小时4分,1,416,0,0,0,0/0/0,0/0,184.5/258.5
+D7545/D7548,5,梅州西,22:44,终点站,,4小时3分,1,536,0,0,0,0/0/0,0/0,245.5/356.5

@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8649,1,昆明南,始发站,10:08,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8649,2,玉溪,10:40,终点站,,32分,1,79,0,0,0,0/0/0,0/0,40/63

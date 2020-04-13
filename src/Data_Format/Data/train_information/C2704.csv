@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2704,1,大兴机场,始发站,10:11,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2704,2,北京大兴,10:22,10:24,2分钟,11分,1,25,0,0,0,0/0/0,0/0,0/0
+C2704,3,北京西,10:45,终点站,,34分,1,47,0,0,0,0/0/0,0/0,30/48

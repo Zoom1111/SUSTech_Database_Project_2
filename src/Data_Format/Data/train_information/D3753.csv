@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D3753,1,柳州,始发站,08:56,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D3753,2,来宾北,09:21,09:23,2分钟,25分,1,66,0,0,0,0/0/0,0/0,24/39
+D3753,3,梧州南,10:47,10:51,4分钟,1小时51分,1,356,0,0,0,0/0/0,0/0,114/182
+D3753,4,佛山西,11:55,11:57,2分钟,2小时59分,1,577,0,0,0,0/0/0,0/0,201/322
+D3753,5,广州南,12:18,终点站,,3小时22分,1,602,0,0,0,0/0/0,0/0,190/303

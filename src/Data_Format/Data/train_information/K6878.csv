@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K6878,1,德令哈,始发站,18:18,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K6878,2,乌兰,19:29,19:31,2分钟,1小时11分,1,111,18.5,-,0,64.5/69.5/72.5,97.5/103.5,0/0
+K6878,3,天棚,20:16,20:18,2分钟,1小时58分,1,224,37.5,-,0,83.5/88.5/91.5,125.5/131.5,0/0
+K6878,4,西宁,22:58,终点站,,4小时40分,1,521,72,-,0,129/132/136,197/204,0/0

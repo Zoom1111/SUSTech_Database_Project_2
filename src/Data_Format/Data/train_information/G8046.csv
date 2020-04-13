@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8046,1,沈阳,始发站,08:21,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8046,2,辽阳,08:45,08:47,2分钟,24分,1,65,0,0,0,0/0/0,0/0,29.5/47.5
+G8046,3,鞍山西,08:58,09:00,2分钟,37分,1,95,0,0,0,0/0/0,0/0,43.5/69.5
+G8046,4,大连,10:20,终点站,,1小时59分,1,395,0,0,0,0/0/0,0/0,181.5/290.5

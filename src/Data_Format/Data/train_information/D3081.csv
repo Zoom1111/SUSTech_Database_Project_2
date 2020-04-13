@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D3081,1,南京南,始发站,14:44,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D3081,2,合肥南,15:36,15:41,5分钟,52分,1,157,0,0,0,0/0/0,0/0,67/107
+D3081,3,六安,16:05,16:07,2分钟,1小时21分,1,244,0,0,0,0/0/0,0/0,86/102.5
+D3081,4,金寨,16:24,终点站,,1小时40分,1,296,0,0,0,0/0/0,0/0,103.5/123.5

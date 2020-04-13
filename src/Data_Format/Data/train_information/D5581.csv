@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5581,1,杭州东,始发站,13:22,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5581,2,建德,14:04,14:06,2分钟,42分,1,135,0,0,0,0/0/0,0/0,55/88
+D5581,3,千岛湖,14:17,14:19,2分钟,55分,1,169,0,0,0,0/0/0,0/0,67/108
+D5581,4,三阳,14:41,14:43,2分钟,1小时19分,1,215,0,0,0,0/0/0,0/0,87/139
+D5581,5,黄山北,15:10,终点站,,1小时48分,1,285,0,0,0,0/0/0,0/0,110.5/178

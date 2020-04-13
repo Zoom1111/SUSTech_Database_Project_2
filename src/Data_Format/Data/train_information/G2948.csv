@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G2945/G2948,1,昆明南,始发站,13:17,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G2945/G2948,2,曲靖北,13:52,13:54,2分钟,35分,1,128,0,0,0,0/0/0,0/0,60/95
+G2945/G2948,3,安顺西,14:59,15:02,3分钟,1小时42分,1,362,0,0,0,0/0/0,0/0,166/280
+G2945/G2948,4,贵阳北,15:32,15:38,6分钟,2小时15分,1,463,0,0,0,0/0/0,0/0,212.5/358
+G2945/G2948,5,桂林北,17:54,终点站,,4小时37分,1,892,0,0,0,0/0/0,0/0,345/517

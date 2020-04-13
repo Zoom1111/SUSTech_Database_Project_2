@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C8509,1,兰州,始发站,17:06,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C8509,2,兰州西,17:16,17:18,2分钟,10分,1,10,0,0,0,0/0/0,0/0,5/9
+C8509,3,福利区,17:30,17:32,2分钟,24分,1,21,0,0,0,0/0/0,0/0,0/0
+C8509,4,兰州新区,17:55,17:57,2分钟,49分,1,66,0,0,0,0/0/0,0/0,18/30
+C8509,5,中川机场,18:02,终点站,,56分,1,70,0,0,0,0/0/0,0/0,21.5/26

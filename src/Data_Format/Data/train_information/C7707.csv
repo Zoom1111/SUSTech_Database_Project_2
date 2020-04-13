@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7707,1,广州南,始发站,14:06,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7707,2,顺德,14:14,14:16,2分钟,8分,1,15,0,0,0,0/0/0,0/0,10/0
+C7707,3,容桂,14:25,14:26,1分钟,19分,1,32,0,0,0,0/0/0,0/0,20/0
+C7707,4,小榄,14:33,14:35,2分钟,27分,1,45,0,0,0,0/0/0,0/0,25/0
+C7707,5,中山北,14:44,14:46,2分钟,38分,1,64,0,0,0,0/0/0,0/0,40/0
+C7707,6,珠海,15:14,终点站,,1小时8分,1,116,0,0,0,0/0/0,0/0,70/90

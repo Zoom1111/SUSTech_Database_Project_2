@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5104,1,成都东,始发站,18:52,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5104,2,大英东,19:39,19:42,3分钟,47分,1,119,0,0,0,0/0/0,0/0,35/42
+D5104,3,潼南,20:16,20:20,4分钟,1小时24分,1,198,0,0,0,0/0/0,0/0,61/98
+D5104,4,重庆西,21:08,终点站,,2小时16分,1,302,0,0,0,0/0/0,0/0,89/107

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8593,1,成都东,始发站,17:15,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8593,2,简阳南,17:34,17:36,2分钟,19分,1,53,0,0,0,0/0/0,0/0,0/0
+G8593,3,内江北,18:02,18:04,2分钟,47分,1,153,0,0,0,0/0/0,0/0,74/118.5
+G8593,4,重庆西,18:47,终点站,,1小时32分,1,302,0,0,0,0/0/0,0/0,146/233.5

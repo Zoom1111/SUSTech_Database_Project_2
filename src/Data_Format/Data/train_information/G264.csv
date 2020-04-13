@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G264,1,合肥南,始发站,13:38,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G264,2,济南西,16:00,16:04,4分钟,2小时22分,1,574,0,0,0,0/0/0,0/0,268.5/452
+G264,3,德州东,16:29,16:34,5分钟,2小时51分,1,686,0,0,0,0/0/0,0/0,306.5/516
+G264,4,天津南,17:20,17:22,2分钟,3小时42分,1,858,0,0,0,0/0/0,0/0,386/649.5
+G264,5,北京南,17:58,终点站,,4小时20分,1,1000,0,0,0,0/0/0,0/0,436/734.5

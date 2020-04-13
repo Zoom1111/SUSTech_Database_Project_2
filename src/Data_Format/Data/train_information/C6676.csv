@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6676,1,宜宾西,始发站,12:34,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6676,2,泥溪,12:50,12:52,2分钟,16分,1,48,0,0,0,0/0/0,0/0,19/31
+C6676,3,乐山,13:22,13:24,2分钟,48分,1,141,0,0,0,0/0/0,0/0,56/90
+C6676,4,彭山北,13:46,13:48,2分钟,1小时12分,1,210,0,0,0,0/0/0,0/0,84/134
+C6676,5,成都东,14:17,终点站,,1小时43分,1,276,0,0,0,0/0/0,0/0,110/176

@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6942,1,湘潭,始发站,15:33,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6942,2,板塘,15:39,15:41,2分钟,6分,1,5,0,0,0,0/0/0,0/0,4/0
+C6942,3,荷塘,15:45,15:46,1分钟,12分,1,10,0,0,0,0/0/0,0/0,0/0
+C6942,4,先锋,16:01,16:02,1分钟,28分,1,33,0,0,0,0/0/0,0/0,14/0
+C6942,5,洞井,16:06,16:08,2分钟,33分,1,37,0,0,0,0/0/0,0/0,0/0
+C6942,6,长沙,16:17,终点站,,44分,1,49,0,0,0,0/0/0,0/0,20/0

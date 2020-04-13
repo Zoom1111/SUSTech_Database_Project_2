@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7215,1,昆山南,始发站,06:50,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7215,2,安亭北,06:59,07:01,2分钟,9分,1,21,0,0,0,0/0/0,0/0,9.5/14.5
+G7215,3,上海,07:15,终点站,,25分,1,50,0,0,0,0/0/0,0/0,24.5/34.5

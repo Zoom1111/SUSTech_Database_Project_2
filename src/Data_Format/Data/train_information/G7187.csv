@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7186/G7187,1,上海虹桥,始发站,15:10,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7186/G7187,2,南京南,16:22,16:24,2分钟,1小时12分,1,295,0,0,0,0/0/0,0/0,134.5/229.5
+G7186/G7187,3,合肥,17:20,17:24,4分钟,2小时10分,1,465,0,0,0,0/0/0,0/0,202.5/335
+G7186/G7187,4,阜阳西,18:19,18:21,2分钟,3小时9分,1,669,0,0,0,0/0/0,0/0,308.5/505
+G7186/G7187,5,亳州南,18:47,终点站,,3小时37分,1,773,0,0,0,0/0/0,0/0,0/0

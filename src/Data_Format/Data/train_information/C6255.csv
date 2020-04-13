@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6255,1,成都东,始发站,12:17,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6255,2,双流机场,12:32,12:38,6分钟,15分,1,21,0,0,0,0/0/0,0/0,8/10
+C6255,3,乐山,13:19,13:21,2分钟,1小时2分,1,135,0,0,0,0/0/0,0/0,62/74
+C6255,4,峨眉山,13:35,终点站,,1小时18分,1,162,0,0,0,0/0/0,0/0,86/104

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6001,1,长沙南,始发站,14:55,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6001,2,广州南,17:16,17:19,3分钟,2小时21分,1,707,0,0,0,0/0/0,0/0,314/504
+G6001,3,深圳北,17:50,终点站,,2小时55分,1,809,0,0,0,0/0/0,0/0,388.5/603.5

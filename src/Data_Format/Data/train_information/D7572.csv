@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7572,1,长沙,始发站,18:13,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7572,2,益阳,19:07,19:09,2分钟,54分,1,97,0,0,0,0/0/0,0/0,26/0
+D7572,3,汉寿,19:40,19:42,2分钟,1小时27分,1,150,0,0,0,0/0/0,0/0,40/0
+D7572,4,常德,20:11,终点站,,1小时58分,1,198,0,0,0,0/0/0,0/0,53/0

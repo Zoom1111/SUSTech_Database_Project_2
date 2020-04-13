@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7569,1,杭州东,始发站,21:29,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7569,2,绍兴北,21:48,21:50,2分钟,19分,1,43,0,0,0,0/0/0,0/0,19.5/33.5
+G7569,3,绍兴东,22:01,22:03,2分钟,32分,1,74,0,0,0,0/0/0,0/0,34/57
+G7569,4,余姚北,22:15,22:17,2分钟,46分,1,106,0,0,0,0/0/0,0/0,48.5/82
+G7569,5,宁波,22:36,终点站,,1小时7分,1,155,0,0,0,0/0/0,0/0,71/120

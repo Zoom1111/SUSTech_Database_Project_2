@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6852,1,汉中,始发站,07:50,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6852,2,洋县西,08:07,08:09,2分钟,17分,1,49,0,0,0,0/0/0,0/0,20/31
+D6852,3,佛坪,08:26,08:28,2分钟,36分,1,102,0,0,0,0/0/0,0/0,30/36
+D6852,4,阿房宫,09:04,09:06,2分钟,1小时14分,1,220,0,0,0,0/0/0,0/0,88/141
+D6852,5,西安北,09:20,终点站,,1小时30分,1,242,0,0,0,0/0/0,0/0,97/155

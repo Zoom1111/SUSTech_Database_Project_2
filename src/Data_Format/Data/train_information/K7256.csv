@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7256,1,鹤岗,始发站,09:39,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7256,2,鹤立,10:24,10:26,2分钟,45分,1,36,9,-,0,55/60/63,81.5/87.5,0/0
+K7256,3,莲江口,10:46,10:52,6分钟,1小时7分,1,56,11,-,0,57/62/65,86.5/92.5,0/0
+K7256,4,佳木斯,11:06,终点站,,1小时27分,1,68,12.5,-,0,58.5/63.5/66.5,87.5/93.5,0/0

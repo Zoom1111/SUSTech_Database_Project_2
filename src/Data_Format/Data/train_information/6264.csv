@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+6264,1,富拉尔基,始发站,17:48,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+6264,2,昂昂溪,18:00,18:03,3分钟,12分,1,14,1,-,0,0/0/0,0/0,0/0
+6264,3,三间房,18:20,18:23,3分钟,32分,1,28,2,-,0,36/39/41,0/0,0/0
+6264,4,汤池,18:37,终点站,,49分,1,41,2,-,0,36/39/41,0/0,0/0

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6915,1,哈尔滨,始发站,10:01,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6915,2,大庆东,10:44,10:46,2分钟,43分,1,148,0,0,0,0/0/0,0/0,52/83
+D6915,3,齐齐哈尔,11:28,终点站,,1小时27分,1,286,0,0,0,0/0/0,0/0,100/120

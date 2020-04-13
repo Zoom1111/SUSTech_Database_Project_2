@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C5316,1,孝感东,始发站,11:33,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C5316,2,毛陈,11:40,11:47,7分钟,7分,1,9,0,0,0,0/0/0,0/0,0/0
+C5316,3,天河机场,12:01,12:03,2分钟,28分,1,40,0,0,0,0/0/0,0/0,13/21
+C5316,4,汉口,12:16,终点站,,43分,1,61,0,0,0,0/0/0,0/0,20/24

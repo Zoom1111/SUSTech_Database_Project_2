@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C8101/C8104,1,库尔勒,始发站,09:10,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C8101/C8104,2,焉耆,09:36,09:37,1分钟,26分,1,56,0,0,0,0/0/0,0/0,12/19
+C8101/C8104,3,乌鲁木齐南,12:28,12:29,1分钟,3小时18分,1,457,0,0,0,0/0/0,0/0,105/168
+C8101/C8104,4,乌鲁木齐,12:40,终点站,,3小时30分,1,466,0,0,0,0/0/0,0/0,0/0

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8424,1,芜湖,始发站,19:12,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8424,2,巢湖,19:54,19:59,5分钟,42分,1,77,12.5,-,0,58.5/63.5/66.5,89.5/95.5,0/0
+K8424,3,合肥,20:56,终点站,,1小时44分,1,141,23.5,35.5,0,0/0/0,0/0,0/0

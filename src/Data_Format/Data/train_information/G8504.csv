@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8504,1,重庆北,始发站,10:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8504,2,隆昌北,10:46,10:48,2分钟,46分,1,140,0,0,0,0/0/0,0/0,67.5/108.5
+G8504,3,资中北,11:05,11:08,3分钟,1小时5分,1,195,0,0,0,0/0/0,0/0,94/151
+G8504,4,成都东,11:43,终点站,,1小时43分,1,319,0,0,0,0/0/0,0/0,154/246.5

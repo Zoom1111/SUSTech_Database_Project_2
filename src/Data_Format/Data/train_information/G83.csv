@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G83,1,北京西,始发站,08:55,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G83,2,石家庄,10:02,10:05,3分钟,1小时7分,1,281,0,0,0,0/0/0,0/0,128.5/206.5
+G83,3,郑州东,11:26,11:29,3分钟,2小时31分,1,693,0,0,0,0/0/0,0/0,309/495
+G83,4,长沙南,14:38,终点站,,5小时43分,1,1631,0,0,0,0/0/0,0/0,649/1038

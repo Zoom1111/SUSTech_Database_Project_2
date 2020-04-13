@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6703,1,北京西,始发站,12:44,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6703,2,高碑店东,13:14,13:28,14分钟,30分,1,139,0,0,0,0/0/0,0/0,37.5/60.5
+G6703,3,正定机场,14:06,14:09,3分钟,1小时22分,1,201,0,0,0,0/0/0,0/0,110/180
+G6703,4,石家庄,14:23,终点站,,1小时39分,1,281,0,0,0,0/0/0,0/0,128.5/206.5

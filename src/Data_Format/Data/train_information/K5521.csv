@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K5521/K5524,1,青岛,始发站,19:29,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K5521/K5524,2,蓝村,20:55,21:01,6分钟,1小时26分,1,52,11,-,0,57/62/65,86.5/92.5,0/0
+K5521/K5524,3,胶州,21:18,21:20,2分钟,1小时49分,1,73,-,-,0,0/0/0,0/0,0/0
+K5521/K5524,4,临沂,01:42,01:48,6分钟,6小时13分,2,287,-,-,0,0/0/0,0/0,0/0
+K5521/K5524,5,枣庄西,05:30,终点站,,10小时1分,2,644,91,-,0,158/164/169,243/253,0/0

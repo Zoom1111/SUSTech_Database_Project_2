@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G4210,1,长沙南,始发站,19:25,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G4210,2,萍乡北,19:52,19:54,2分钟,27分,1,105,0,0,0,0/0/0,0/0,48/81
+G4210,3,宜春,20:12,20:14,2分钟,47分,1,166,0,0,0,0/0/0,0/0,76/128.5
+G4210,4,新余北,20:29,20:31,2分钟,1小时4分,1,215,0,0,0,0/0/0,0/0,98.5/166.5
+G4210,5,南昌西,21:03,终点站,,1小时38分,1,342,0,0,0,0/0/0,0/0,157/264.5

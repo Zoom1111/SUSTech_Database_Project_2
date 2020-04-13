@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7240,1,铁力,始发站,10:18,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7240,2,双丰,10:36,10:40,4分钟,18分,1,23,9,-,0,55/60/63,80/86,0/0
+K7240,3,庆安,10:58,11:03,5分钟,40分,1,48,11,-,0,57/62/65,83.5/89.5,0/0
+K7240,4,绥化,11:46,11:55,9分钟,1小时28分,1,102,16.5,-,0,62.5/67.5/70.5,96.5/102.5,0/0
+K7240,5,哈尔滨东,13:15,终点站,,2小时57分,1,230,37.5,-,0,83.5/88.5/91.5,125.5/131.5,0/0

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6145,1,犀浦,始发站,15:19,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6145,2,安德,15:31,15:33,2分钟,12分,1,21,0,0,0,0/0/0,0/0,0/10
+C6145,3,都江堰,15:44,15:46,2分钟,25分,1,42,0,0,0,0/0/0,0/0,0/10
+C6145,4,青城山,15:54,终点站,,35分,1,47,0,0,0,0/0/0,0/0,10/10

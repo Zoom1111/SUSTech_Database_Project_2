@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9434/K9435,1,南充北,始发站,06:22,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9434/K9435,2,遂宁,07:05,07:10,5分钟,43分,1,65,20.5,30.5,0,59.5/62.5/64.5,0/0,0/0
+K9434/K9435,3,成都,08:45,终点站,,2小时23分,1,213,-,-,0,0/0/0,0/0,0/0

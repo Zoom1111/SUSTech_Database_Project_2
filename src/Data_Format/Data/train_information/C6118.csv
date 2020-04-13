@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6118,1,青城山,始发站,10:09,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6118,2,安德,10:25,10:28,3分钟,16分,1,29,0,0,0,0/0/0,0/0,10/0
+C6118,3,犀浦,10:40,终点站,,31分,1,50,0,0,0,0/0/0,0/0,0/10

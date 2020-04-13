@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Y667/Y670,1,兰州,始发站,18:00,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Y667/Y670,2,张掖,23:27,23:34,7分钟,5小时27分,1,547,-,-,0,133/138/142,205/214,0/0
+Y667/Y670,3,嘉峪关,01:40,01:49,9分钟,7小时40分,2,770,-,-,0,178/184/190,274/285,0/0
+Y667/Y670,4,敦煌,05:53,终点站,,11小时53分,2,1133,-,-,0,244.5/252.5/261.5,381.5/398.5,0/0

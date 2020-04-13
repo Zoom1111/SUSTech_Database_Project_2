@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G25,1,北京西,始发站,18:55,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G25,2,石家庄,20:02,20:04,2分钟,1小时7分,1,281,0,0,0,0/0/0,0/0,128.5/206.5
+G25,3,郑州东,21:29,21:32,3分钟,2小时34分,1,693,0,0,0,0/0/0,0/0,309/495
+G25,4,西安北,23:21,终点站,,4小时26分,1,1216,0,0,0,0/0/0,0/0,515.5/824.5

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+6286/6287,1,牡丹江,始发站,17:25,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+6286/6287,2,拉古,17:42,17:44,2分钟,17分,1,12,1,-,0,0/0/0,0/0,0/0
+6286/6287,3,海林,17:56,17:58,2分钟,31分,1,22,2,-,0,0/0/0,0/0,0/0
+6286/6287,4,敖头,18:13,18:15,2分钟,48分,1,32,2,-,0,0/0/0,0/0,0/0
+6286/6287,5,长汀镇,19:33,终点站,,2小时8分,1,74,4,-,0,0/0/0,0/0,0/0

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7576,1,辽源,始发站,12:14,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7576,2,双阳,13:25,13:28,3分钟,1小时11分,1,109,8.5,-,0,42.5/45.5/47.5,0/0,0/0
+K7576,3,长春,14:16,终点站,,2小时2分,1,172,15.5,-,0,49.5/52.5/54.5,0/0,0/0

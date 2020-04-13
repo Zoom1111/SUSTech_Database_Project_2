@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+7554,1,哈密,始发站,11:14,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+7554,2,柳园,15:43,终点站,,4小时29分,1,321,20.5,-,0,0/0/0,0/0,0/0

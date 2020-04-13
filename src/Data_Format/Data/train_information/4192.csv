@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+4192,1,满洲里,始发站,09:50,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+4192,2,扎赉诺尔西,10:13,10:18,5分钟,23分,1,23,7,-,0,53/58/61,78/84,0/0
+4192,3,嵯岗,10:43,10:46,3分钟,53分,1,61,10.5,-,0,56.5/61.5/64.5,85.5/91.5,0/0
+4192,4,海拉尔,12:05,终点站,,2小时15分,1,186,25.5,-,0,71.5/76.5/79.5,110.5/116.5,0/0

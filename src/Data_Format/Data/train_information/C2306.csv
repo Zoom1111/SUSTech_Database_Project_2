@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2306,1,滨海,始发站,15:21,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2306,2,塘沽,15:30,15:32,2分钟,9分,1,5,0,0,0,0/0/0,0/0,5/9
+C2306,3,天津,15:50,终点站,,29分,1,45,0,0,0,0/0/0,0/0,12/20

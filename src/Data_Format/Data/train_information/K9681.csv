@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9681/K9684,1,丽江,始发站,21:50,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+K9681/K9684,2,大理,23:45,23:59,-,1小时55分,-,159,-,-,0,0/0/0,0/0,0/0
+K9681/K9684,3,昆明,06:41,终点站,-,8小时51分,-,500,-,-,0,0/0/0,0/0,0/0

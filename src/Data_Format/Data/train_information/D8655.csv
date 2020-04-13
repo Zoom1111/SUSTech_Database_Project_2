@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8655/D8658,1,大理,始发站,07:54,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8655/D8658,2,楚雄,08:54,08:56,2分钟,1小时0分,1,148,0,0,0,0/0/0,0/0,74/118
+D8655/D8658,3,禄丰南,09:22,09:24,2分钟,1小时28分,1,229,0,0,0,0/0/0,0/0,108/172
+D8655/D8658,4,昆明,10:02,10:07,5分钟,2小时8分,1,328,0,0,0,0/0/0,0/0,145/231
+D8655/D8658,5,昆明南,10:25,终点站,,2小时31分,1,356,0,0,0,0/0/0,0/0,155.5/247.5

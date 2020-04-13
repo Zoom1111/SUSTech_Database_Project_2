@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7427,1,饶平,始发站,21:17,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7427,2,潮汕,21:34,21:36,2分钟,17分,1,41,0,0,0,0/0/0,0/0,14/23
+D7427,3,普宁,21:57,21:59,2分钟,40分,1,94,0,0,0,0/0/0,0/0,33/53
+D7427,4,深圳北,23:33,终点站,,2小时16分,1,346,0,0,0,0/0/0,0/0,121/194

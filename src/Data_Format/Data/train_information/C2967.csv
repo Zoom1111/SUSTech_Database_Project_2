@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2967,1,焦作,始发站,16:16,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2967,2,黄河景区,16:39,16:43,4分钟,23分,1,55,0,0,0,0/0/0,0/0,20/32
+C2967,3,郑州,16:58,终点站,,42分,1,78,0,0,0,0/0/0,0/0,28/0

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6820,1,肇庆,始发站,07:05,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+C6820,2,鼎湖东,07:18,07:19,-,13分,-,27,0,15/0,0,0/0/0,0/0,15/0
+C6820,3,大旺,07:28,07:29,-,23分,-,46,0,30/0,0,0/0/0,0/0,30/0
+C6820,4,云东海,07:33,07:34,-,28分,-,52,0,30/0,0,0/0/0,0/0,30/0
+C6820,5,佛山西,07:50,终点站,-,45分,-,81,0,50/0,0,0/0/0,0/0,50/0

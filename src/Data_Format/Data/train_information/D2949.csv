@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D2948/D2949,1,广州南,始发站,11:34,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D2948/D2949,2,肇庆东,12:10,12:12,2分钟,36分,1,76,0,0,0,0/0/0,0/0,23.5/38
+D2948/D2949,3,怀集,12:41,12:44,3分钟,1小时7分,1,171,0,0,0,0/0/0,0/0,53/63.5
+D2948/D2949,4,桂林北,14:07,14:15,8分钟,2小时33分,1,766,0,0,0,0/0/0,0/0,137.5/165
+D2948/D2949,5,柳州,15:31,终点站,,3小时57分,1,602,0,0,0,0/0/0,0/0,185.5/222.5

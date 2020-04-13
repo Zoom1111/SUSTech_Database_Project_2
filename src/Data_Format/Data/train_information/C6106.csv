@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6106,1,都江堰,始发站,06:54,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6106,2,安德,07:05,07:07,2分钟,11分,1,21,0,0,0,0/0/0,0/0,0/10
+C6106,3,犀浦,07:19,终点站,,25分,1,42,0,0,0,0/0/0,0/0,0/10

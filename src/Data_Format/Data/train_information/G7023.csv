@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7023,1,南京,始发站,18:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7023,2,常州,18:39,18:41,2分钟,39分,1,136,0,0,0,0/0/0,0/0,64.5/99.5
+G7023,3,无锡,18:55,18:57,2分钟,55分,1,175,0,0,0,0/0/0,0/0,79.5/129.5
+G7023,4,苏州,19:12,19:14,2分钟,1小时12分,1,217,0,0,0,0/0/0,0/0,99.5/159.5
+G7023,5,上海,19:40,终点站,,1小时40分,1,301,0,0,0,0/0/0,0/0,139.5/219.5

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5536/D5537,1,南京,始发站,18:13,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D5536/D5537,2,扬州,19:05,19:08,-,52分,-,101,0,0/0,0,0/0/0,0/0,0/0
+D5536/D5537,3,泰州,19:40,19:42,-,1小时27分,-,165,0,0/0,0,0/0/0,0/0,0/0
+D5536/D5537,4,海安县,20:06,20:08,-,1小时53分,-,219,0,0/0,0,0/0/0,0/0,0/0
+D5536/D5537,5,南通,20:41,终点站,-,2小时28分,-,284,0,0/0,0,0/0/0,0/0,0/0

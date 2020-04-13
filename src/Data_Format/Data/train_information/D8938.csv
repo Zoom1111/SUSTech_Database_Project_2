@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8938,1,瑞金,始发站,07:41,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8938,2,会昌北,07:55,07:57,2分钟,14分,1,30,0,0,0,0/0/0,0/0,11/18
+D8938,3,于都,08:15,08:17,2分钟,34分,1,72,0,0,0,0/0/0,0/0,26.5/42.5
+D8938,4,赣州,08:46,终点站,,1小时5分,1,126,0,0,0,0/0/0,0/0,45/69.5

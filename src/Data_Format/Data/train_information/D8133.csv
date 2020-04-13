@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8133,1,青岛北,始发站,20:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8133,2,青岛西,21:06,21:08,2分钟,36分,1,74,0,0,0,0/0/0,0/0,27/44
+D8133,3,日照西,21:43,终点站,,1小时13分,1,153,0,0,0,0/0/0,0/0,57/91

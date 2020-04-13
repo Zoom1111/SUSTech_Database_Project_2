@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8197,1,神木,始发站,21:30,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8197,2,榆林,23:28,23:42,14分钟,1小时58分,1,112,18.5,-,0,64.5/69.5/72.5,97.5/103.5,0/0
+K8197,3,延安,03:14,03:19,5分钟,5小时44分,2,381,54.5,-,0,100.5/105.5/108.5,155.5/161.5,0/0
+K8197,4,西安,06:48,终点站,,9小时18分,2,707,98,-,0,171/176/182,263/275,0/0

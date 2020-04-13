@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T8309,1,岳阳,始发站,21:10,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+T8309,2,长沙,22:33,22:45,-,1小时23分,-,147,-,-,0,0/0/0,0/0,0/0
+T8309,3,广州,06:43,终点站,-,9小时33分,-,854,-,-,0,0/0/0,0/0,0/0

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+7270,1,塘豹,始发站,13:08,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+7270,2,通道,13:26,13:28,2分钟,18分,1,14,1,-,0,0/0/0,0/0,0/0
+7270,3,靖州,14:11,14:16,5分钟,1小时3分,1,45,3,-,0,0/0/0,0/0,0/0
+7270,4,会同,15:10,15:13,3分钟,2小时2分,1,84,5,-,0,0/0/0,0/0,0/0
+7270,5,怀化,17:30,终点站,,4小时22分,1,174,11.5,-,0,0/0/0,0/0,0/0

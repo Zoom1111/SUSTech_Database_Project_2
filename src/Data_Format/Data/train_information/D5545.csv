@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5548/D5545,1,南通,始发站,21:01,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D5548/D5545,2,海安,21:33,21:35,-,32分,-,65,0,24/39,0,0/0/0,0/0,24/39
+D5548/D5545,3,泰州,21:59,22:01,-,58分,-,119,0,44/71,0,0/0/0,0/0,44/71
+D5548/D5545,4,扬州,22:33,22:35,-,1小时32分,-,183,0,68/108,0,0/0/0,0/0,68/108
+D5548/D5545,5,南京,23:26,终点站,-,2小时25分,-,284,0,105.5/166,0,0/0/0,0/0,105.5/166

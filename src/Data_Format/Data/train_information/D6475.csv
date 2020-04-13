@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6475,1,龙岩,始发站,17:24,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6475,2,南靖,17:55,17:57,2分钟,31分,1,80,0,0,0,0/0/0,0/0,23.5/37
+D6475,3,漳州,18:12,18:14,2分钟,48分,1,114,0,0,0,0/0/0,0/0,32.5/53
+D6475,4,厦门,18:49,终点站,,1小时25分,1,169,0,0,0,0/0/0,0/0,45.5/54.5

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8888,1,兰州,始发站,20:20,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8888,2,渭源,21:28,21:30,2分钟,1小时8分,1,134,0,0,0,0/0/0,0/0,28/45
+D8888,3,哈达铺,22:16,22:18,2分钟,1小时56分,1,241,0,0,0,0/0/0,0/0,51/82
+D8888,4,陇南,23:13,终点站,,2小时53分,1,370,0,0,0,0/0/0,0/0,78/125

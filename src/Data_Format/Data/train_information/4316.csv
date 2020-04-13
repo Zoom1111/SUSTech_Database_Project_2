@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+4316,1,小市,始发站,13:08,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+4316,2,偏岭,13:41,13:43,2分钟,33分,1,20,2,-,0,0/0/0,0/0,0/0
+4316,3,本溪,14:17,终点站,,1小时9分,1,48,4,-,0,0/0/0,0/0,0/0

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8565,1,成都东,始发站,11:39,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8565,2,隆昌北,12:24,12:26,2分钟,45分,1,179,0,0,0,0/0/0,0/0,86.5/138.5
+G8565,3,沙坪坝,12:59,终点站,,1小时20分,1,299,0,0,0,0/0/0,0/0,144.5/231

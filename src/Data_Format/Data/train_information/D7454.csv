@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7454,1,湛江西,始发站,08:08,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7454,2,茂名,08:40,08:42,2分钟,32分,1,90,0,0,0,0/0/0,0/0,47/75
+D7454,3,阳江,09:22,09:24,2分钟,1小时14分,1,207,0,0,0,0/0/0,0/0,106/170
+D7454,4,新会,10:19,10:24,5分钟,2小时11分,1,358,0,0,0,0/0/0,0/0,183/292
+D7454,5,广州南,10:56,终点站,,2小时48分,1,430,0,0,0,0/0/0,0/0,228/352

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8616,1,隆昌北,始发站,11:42,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8616,2,简阳南,12:13,12:17,4分钟,31分,1,126,0,0,0,0/0/0,0/0,61/97.5
+G8616,3,成都东,12:36,终点站,,54分,1,179,0,0,0,0/0/0,0/0,86.5/138.5

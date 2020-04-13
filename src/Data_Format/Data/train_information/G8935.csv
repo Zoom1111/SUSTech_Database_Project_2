@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8935,1,北京南,始发站,21:40,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8935,2,廊坊,22:01,22:03,2分钟,21分,1,60,0,0,0,0/0/0,0/0,29.5/44.5
+G8935,3,德州东,23:00,终点站,,1小时20分,1,314,0,0,0,0/0/0,0/0,144.5/244.5

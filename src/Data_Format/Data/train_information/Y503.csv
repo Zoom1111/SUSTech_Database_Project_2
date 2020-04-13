@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Y503,1,衡水,始发站,12:40,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Y503,2,辛集,13:14,13:16,2分钟,34分,1,47,11,-,0,0/0/0,0/0,0/0
+Y503,3,石家庄北,14:17,终点站,,1小时37分,1,132,21.5,-,0,67.5/72.5/75.5,102.5/108.5,0/0

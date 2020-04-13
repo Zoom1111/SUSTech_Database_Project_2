@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D2685,1,西安北,始发站,09:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D2685,2,兰州西,11:42,11:49,7分钟,2小时42分,1,568,0,0,0,0/0/0,0/0,174.5/231.5
+D2685,3,西宁,13:55,终点站,,4小时55分,1,756,0,0,0,0/0/0,0/0,232.5/324.5

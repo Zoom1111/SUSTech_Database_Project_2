@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G2916,1,深圳北,始发站,16:12,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G2916,2,广州南,16:43,16:47,4分钟,31分,1,102,0,0,0,0/0/0,0/0,74.5/99.5
+G2916,3,肇庆东,17:23,17:25,2分钟,1小时11分,1,178,0,0,0,0/0/0,0/0,102.5/144.5
+G2916,4,梧州南,18:14,18:17,3分钟,2小时2分,1,348,0,0,0,0/0/0,0/0,150.5/190.5
+G2916,5,南宁东,19:46,终点站,,3小时34分,1,665,0,0,0,0/0/0,0/0,243.5/302

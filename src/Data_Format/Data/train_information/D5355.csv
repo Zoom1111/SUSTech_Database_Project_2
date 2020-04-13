@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5355,1,怀仁东,始发站,17:32,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5355,2,原平西,18:30,18:32,2分钟,58分,1,128,0,0,0,0/0/0,0/0,39/63
+D5355,3,忻州西,18:46,18:48,2分钟,1小时14分,1,162,0,0,0,0/0/0,0/0,50/80
+D5355,4,太原南,19:26,终点站,,1小时54分,1,239,0,0,0,0/0/0,0/0,74/118

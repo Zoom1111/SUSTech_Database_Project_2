@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5243,1,汉口,始发站,14:41,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5243,2,襄州,16:44,16:48,4分钟,2小时3分,1,309,0,0,0,0/0/0,0/0,0/0
+D5243,3,谷城,17:29,17:31,2分钟,2小时48分,1,389,0,0,0,0/0/0,0/0,113.5/182
+D5243,4,十堰,18:19,终点站,,3小时38分,1,480,0,0,0,0/0/0,0/0,141/225

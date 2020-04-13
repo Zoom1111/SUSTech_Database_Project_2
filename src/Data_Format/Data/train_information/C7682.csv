@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7682,1,珠海,始发站,09:15,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7682,2,南朗,09:34,09:36,2分钟,19分,1,33,0,0,0,0/0/0,0/0,20/0
+C7682,3,小榄,09:51,09:53,2分钟,36分,1,71,0,0,0,0/0/0,0/0,40/0
+C7682,4,广州南,10:13,终点站,,58分,1,116,0,0,0,0/0/0,0/0,0/90

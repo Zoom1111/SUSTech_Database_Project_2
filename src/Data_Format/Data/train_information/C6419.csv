@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6419,1,万州北,始发站,15:19,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6419,2,重庆北,16:43,终点站,,1小时24分,1,245,0,0,0,0/0/0,0/0,98/157

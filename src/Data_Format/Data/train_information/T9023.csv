@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T9023,1,宣威,始发站,12:35,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+T9023,2,曲靖,13:31,13:42,11分钟,56分,1,101,16.5,-,0,0/0/0,0/0,0/0
+T9023,3,昆明,15:16,终点站,,2小时41分,1,258,40.5,-,0,0/0/0,0/0,0/0

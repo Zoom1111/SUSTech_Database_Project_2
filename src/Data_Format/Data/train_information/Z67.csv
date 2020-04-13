@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z67,1,北京西,始发站,19:59,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z67,2,黄州,05:23,05:25,2分钟,9小时24分,2,1158,148.5,-,0,254.5/263.5/272.5,398.5/415.5,0/0
+Z67,3,九江,06:48,06:51,3分钟,10小时49分,2,1314,163.5,-,0,280.5/289.5/299.5,438.5/456.5,0/0
+Z67,4,南昌,07:59,终点站,,12小时0分,2,1449,173.5,-,0,296.5/306.5/317.5,464.5/484.5,0/0

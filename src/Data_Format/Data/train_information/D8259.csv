@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8259,1,柳州,始发站,21:45,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8259,2,来宾北,22:10,22:12,2分钟,25分,1,66,0,0,0,0/0/0,0/0,24/39
+D8259,3,南宁东,22:55,终点站,,1小时10分,1,212,0,0,0,0/0/0,0/0,79/126

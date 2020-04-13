@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7185/G7188,1,亳州南,始发站,07:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7185/G7188,2,阜阳西,07:26,07:29,3分钟,26分,1,104,0,0,0,0/0/0,0/0,50/81
+G7185/G7188,3,合肥,08:24,08:32,8分钟,1小时24分,1,324,0,0,0,0/0/0,0/0,156/251
+G7185/G7188,4,南京南,09:28,09:32,4分钟,2小时28分,1,478,0,0,0,0/0/0,0/0,223/358
+G7185/G7188,5,上海虹桥,10:41,终点站,,3小时41分,1,773,0,0,0,0/0/0,0/0,0/0

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T8711/T8714,1,防城港北,始发站,11:54,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+T8711/T8714,2,钦州东,12:26,12:28,2分钟,32分,1,48,11,-,0,0/0/0,0/0,0/0
+T8711/T8714,3,合浦,13:01,13:03,2分钟,1小时7分,1,116,18.5,-,0,0/0/0,0/0,0/0
+T8711/T8714,4,北海,13:18,终点站,,1小时24分,1,139,21.5,-,0,0/0/0,0/0,0/0

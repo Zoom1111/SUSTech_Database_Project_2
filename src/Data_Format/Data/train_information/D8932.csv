@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8932,1,诏安,始发站,07:14,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D8932,2,云霄,07:28,07:30,-,14分,-,32,0,0/0,0,0/0/0,0/0,0/0
+D8932,3,漳浦,07:43,07:45,-,29分,-,63,0,0/0,0,0/0/0,0/0,0/0
+D8932,4,漳州,08:04,08:08,-,50分,-,108,0,0/0,0,0/0/0,0/0,0/0
+D8932,5,厦门,08:40,终点站,-,1小时26分,-,163,0,0/0,0,0/0/0,0/0,0/0

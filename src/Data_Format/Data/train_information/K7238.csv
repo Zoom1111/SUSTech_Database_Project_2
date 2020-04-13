@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7238,1,佳木斯,始发站,14:45,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7238,2,孟家岗,15:36,15:38,2分钟,51分,1,54,5,-,0,39/42/44,0/0,0/0
+K7238,3,桦南,15:58,终点站,,1小时13分,1,76,12.5,-,0,58.5/63.5/66.5,89.5/95.5,0/0

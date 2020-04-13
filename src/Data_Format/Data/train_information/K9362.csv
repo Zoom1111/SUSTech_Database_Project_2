@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9362/K9363,1,重庆西,始发站,08:25,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9362/K9363,2,广安南,09:50,10:02,12分钟,1小时25分,1,121,19.5,-,0,65.5/70.5/73.5,99.5/105.5,0/0
+K9362/K9363,3,岳池,10:15,10:22,7分钟,1小时50分,1,137,21.5,-,0,67.5/72.5/75.5,102.5/108.5,0/0
+K9362/K9363,4,南充,10:59,终点站,,2小时34分,1,196,30.5,-,0,78.5/83.5/85.5,116.5/120.5,0/0

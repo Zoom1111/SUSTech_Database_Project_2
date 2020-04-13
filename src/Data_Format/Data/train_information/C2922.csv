@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2922,1,郑州,始发站,07:10,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2922,2,南阳寨,07:18,07:20,2分钟,8分,1,8,0,0,0,0/0/0,0/0,5.5/9.5
+C2922,3,黄河景区,07:30,07:32,2分钟,20分,1,23,0,0,0,0/0/0,0/0,11/0
+C2922,4,武陟,07:43,07:45,2分钟,33分,1,44,0,0,0,0/0/0,0/0,17/27
+C2922,5,修武西,07:54,07:56,2分钟,44分,1,58,0,0,0,0/0/0,0/0,22/35
+C2922,6,焦作,08:08,终点站,,58分,1,78,0,0,0,0/0/0,0/0,28/45

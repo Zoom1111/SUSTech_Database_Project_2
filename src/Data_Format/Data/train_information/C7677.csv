@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7677,1,广州南,始发站,17:20,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7677,2,顺德,17:28,17:35,7分钟,8分,1,15,0,0,0,0/0/0,0/0,10/0
+C7677,3,小榄,17:48,17:50,2分钟,28分,1,45,0,0,0,0/0/0,0/0,25/0
+C7677,4,中山,18:01,18:03,2分钟,41分,1,70,0,0,0,0/0/0,0/0,40/0
+C7677,5,明珠,18:19,18:21,2分钟,59分,1,109,0,0,0,0/0/0,0/0,65/0
+C7677,6,珠海,18:34,终点站,,1小时14分,1,116,0,0,0,0/0/0,0/0,70/0

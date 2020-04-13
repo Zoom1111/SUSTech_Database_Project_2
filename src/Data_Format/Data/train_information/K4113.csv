@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K4113,1,武昌,始发站,13:20,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K4113,2,咸宁,14:12,14:37,25分钟,52分,1,80,12.5,-,0,58.5/63.5/66.5,0/0,0/0
+K4113,3,赤壁,15:11,15:24,13分钟,1小时51分,1,118,18.5,-,0,64.5/69.5/72.5,97.5/103.5,0/0
+K4113,4,广州东,02:21,终点站,,13小时1分,2,1077,138.5,-,0,238.5/246.5/255.5,425.5/443.5,0/0

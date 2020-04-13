@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5192,1,成都东,始发站,15:25,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5192,2,大英东,16:12,16:14,2分钟,47分,1,119,0,0,0,0/0/0,0/0,35/42
+D5192,3,遂宁,16:31,16:34,3分钟,1小时6分,1,146,0,0,0,0/0/0,0/0,45/72
+D5192,4,蓬溪,16:49,16:51,2分钟,1小时24分,1,169,0,0,0,0/0/0,0/0,0/0
+D5192,5,南充,17:15,终点站,,1小时50分,1,213,0,0,0,0/0/0,0/0,65/103

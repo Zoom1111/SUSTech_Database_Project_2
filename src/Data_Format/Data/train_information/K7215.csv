@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7215,1,五常,始发站,10:53,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7215,2,周家,11:44,11:46,2分钟,51分,1,74,6,-,0,40/43/45,0/0,0/0
+K7215,3,平房,12:00,12:11,11分钟,1小时7分,1,103,7,-,0,41/44/46,0/0,0/0
+K7215,4,香坊,12:35,终点站,,1小时42分,1,108,8.5,-,0,42.5/45.5/47.5,0/0,0/0

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G808,1,洛阳龙门,始发站,18:21,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G808,2,郑州东,18:59,19:08,9分钟,38分,1,143,0,0,0,0/0/0,0/0,65.5/104.5
+G808,3,北京西,21:35,终点站,,3小时14分,1,836,0,0,0,0/0/0,0/0,368/589

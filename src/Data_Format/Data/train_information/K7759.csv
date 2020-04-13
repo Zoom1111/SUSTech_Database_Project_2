@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7759,1,石家庄,始发站,05:38,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7759,2,邢台,06:41,06:43,2分钟,1小时3分,1,109,16.5,-,0,62.5/67.5/70.5,96.5/102.5,0/0
+K7759,3,沙河市,07:00,07:02,2分钟,1小时22分,1,133,21.5,-,0,67.5/72.5/75.5,102.5/108.5,0/0
+K7759,4,邯郸,07:27,终点站,,1小时49分,1,161,24.5,-,0,70.5/75.5/78.5,108.5/114.5,0/0

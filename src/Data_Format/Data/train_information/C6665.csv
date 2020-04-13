@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6665,1,成都南,始发站,11:18,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6665,2,双流机场,11:28,11:30,2分钟,10分,1,13,0,0,0,0/0/0,0/0,0/0
+C6665,3,宜宾西,12:55,终点站,,1小时37分,1,268,0,0,0,0/0/0,0/0,107/171

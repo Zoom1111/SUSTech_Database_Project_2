@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G516,1,武汉,始发站,13:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G516,2,郑州东,15:15,15:18,3分钟,1小时45分,1,536,0,0,0,0/0/0,0/0,244/391
+G516,3,石家庄,16:40,16:42,2分钟,3小时10分,1,948,0,0,0,0/0/0,0/0,414.5/663.5
+G516,4,北京西,17:50,终点站,,4小时20分,1,1229,0,0,0,0/0/0,0/0,520.5/832.5

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7719,1,大连,始发站,18:34,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7719,2,庄河北,19:43,19:45,2分钟,1小时9分,1,163,0,0,0,0/0/0,0/0,60/96.5
+D7719,3,丹东,20:35,终点站,,2小时1分,1,310,0,0,0,0/0/0,0/0,108.5/173.5

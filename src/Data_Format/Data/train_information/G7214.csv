@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7214,1,上海,始发站,21:20,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7214,2,昆山南,21:39,21:44,5分钟,19分,1,50,0,0,0,0/0/0,0/0,24.5/34.5
+G7214,3,阳澄湖,21:51,21:52,1分钟,31分,1,5,0,0,0,0/0/0,0/0,24.5/44.5
+G7214,4,苏州,22:02,终点站,,42分,1,84,0,0,0,0/0/0,0/0,39.5/59.5

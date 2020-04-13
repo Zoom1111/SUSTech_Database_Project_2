@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7033,1,宜昌东,始发站,06:35,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7033,2,巴东,07:27,07:29,2分钟,52分,1,113,0,0,0,0/0/0,0/0,33.5/40
+D7033,3,建始,08:02,08:04,2分钟,1小时27分,1,179,0,0,0,0/0/0,0/0,52.5/84
+D7033,4,恩施,08:25,终点站,,1小时50分,1,214,0,0,0,0/0/0,0/0,62.5/75

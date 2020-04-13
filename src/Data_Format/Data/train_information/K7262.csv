@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7262,1,鸡西,始发站,10:45,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7262,2,林口,11:59,12:02,3分钟,1小时14分,1,84,7,-,0,41/44/46,61.5/65.5,0/0
+K7262,3,牡丹江,13:40,终点站,,2小时55分,1,194,16.5,-,0,50.5/53.5/55.5,76.5/80.5,0/0

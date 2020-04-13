@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6264,1,福田,始发站,20:14,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6264,2,深圳北,20:22,20:26,4分钟,8分,1,9,0,0,0,0/0/0,0/0,15/20
+G6264,3,虎门,20:43,20:45,2分钟,29分,1,61,0,0,0,0/0/0,0/0,45/60
+G6264,4,广州南,21:02,21:06,4分钟,48分,1,111,0,0,0,0/0/0,0/0,82/108
+G6264,5,广州北,21:23,终点站,,1小时9分,1,158,0,0,0,0/0/0,0/0,103.5/142.5

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6330/G6331,1,潮汕,始发站,20:47,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6330/G6331,2,普宁,21:08,21:10,2分钟,21分,1,53,0,0,0,0/0/0,0/0,19/29
+G6330/G6331,3,汕尾,21:45,21:47,2分钟,58分,1,149,0,0,0,0/0/0,0/0,52/83
+G6330/G6331,4,深圳北,22:51,23:00,9分钟,2小时4分,1,305,0,0,0,0/0/0,0/0,107/171
+G6330/G6331,5,广州南,23:29,终点站,,2小时42分,1,407,0,0,0,0/0/0,0/0,181.5/270.5

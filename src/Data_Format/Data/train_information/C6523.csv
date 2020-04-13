@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6522/C6523,1,青岛,始发站,18:51,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6522/C6523,2,青岛北,19:09,19:11,2分钟,18分,1,15,0,0,0,0/0/0,0/0,6/10
+C6522/C6523,3,夏格庄,19:35,19:37,2分钟,44分,1,74,0,0,0,0/0/0,0/0,0/0
+C6522/C6523,4,莱阳,19:56,19:58,2分钟,1小时5分,1,116,0,0,0,0/0/0,0/0,36/57
+C6522/C6523,5,烟台,20:42,终点站,,1小时51分,1,214,0,0,0,0/0/0,0/0,66/79

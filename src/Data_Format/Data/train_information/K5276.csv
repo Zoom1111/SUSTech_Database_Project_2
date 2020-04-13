@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K5276,1,阳泉,始发站,11:15,,-1分,0,0,-,-,0,0/0/0,0/0,0/0
+K5276,2,娘子关,12:05,12:07,2分钟,-1分,0,39,9,-,0,55/60/63,0/0,0/0
+K5276,3,井陉,12:43,12:45,2分钟,-1分,0,69,12.5,-,0,58.5/63.5/66.5,0/0,0/0
+K5276,4,石家庄北,13:29,终点站,,-1分,0,106,16.5,-,0,62.5/67.5/70.5,0/0,0/0

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6874,1,汉中,始发站,21:09,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6874,2,城固北,21:20,21:22,2分钟,11分,1,28,0,0,0,0/0/0,0/0,11/18
+D6874,3,洋县西,21:32,21:34,2分钟,23分,1,49,0,0,0,0/0/0,0/0,20/31
+D6874,4,西安北,22:31,终点站,,1小时22分,1,242,0,0,0,0/0/0,0/0,97/155

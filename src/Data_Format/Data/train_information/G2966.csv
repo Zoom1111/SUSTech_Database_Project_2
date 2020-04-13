@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G2966,1,昆明南,始发站,09:31,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G2966,2,曲靖北,10:06,10:08,2分钟,35分,1,128,0,0,0,0/0/0,0/0,59/99
+G2966,3,盘州,10:32,10:34,2分钟,1小时1分,1,212,0,0,0,0/0/0,0/0,97.5/164
+G2966,4,安顺西,11:20,11:22,2分钟,1小时49分,1,362,0,0,0,0/0/0,0/0,166/280
+G2966,5,贵阳北,11:52,终点站,,2小时21分,1,463,0,0,0,0/0/0,0/0,212.5/358

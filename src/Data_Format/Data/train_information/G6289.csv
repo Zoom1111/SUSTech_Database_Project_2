@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6289,1,天津西,始发站,06:08,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6289,2,唐山,06:45,06:47,2分钟,37分,1,119,0,0,0,0/0/0,0/0,54.5/92
+G6289,3,滦河,07:04,07:06,2分钟,56分,1,180,0,0,0,0/0/0,0/0,82.5/139
+G6289,4,秦皇岛,07:31,终点站,,1小时23分,1,266,0,0,0,0/0/0,0/0,122/205.5

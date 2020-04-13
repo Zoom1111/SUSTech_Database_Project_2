@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6488/G6489,1,怀化南,始发站,21:27,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6488/G6489,2,隆回,22:11,22:13,2分钟,44分,1,124,0,0,0,0/0/0,0/0,50/79
+G6488/G6489,3,邵阳,22:33,22:36,3分钟,1小时6分,1,169,0,0,0,0/0/0,0/0,68/108
+G6488/G6489,4,娄底南,23:16,23:18,2分钟,1小时49分,1,207,0,0,0,0/0/0,0/0,100.5/160
+G6488/G6489,5,长沙南,23:53,终点站,,2小时26分,1,382,0,0,0,0/0/0,0/0,158/256.5

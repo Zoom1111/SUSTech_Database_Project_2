@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D3110,1,福州,始发站,20:36,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D3110,2,宁德,21:20,21:21,1分钟,44分,1,96,0,0,0,0/0/0,0/0,32/45.5
+D3110,3,霞浦,21:42,21:44,2分钟,1小时6分,1,155,0,0,0,0/0/0,0/0,53/78.5
+D3110,4,福鼎,22:04,22:06,2分钟,1小时28分,1,208,0,0,0,0/0/0,0/0,71/109.5
+D3110,5,温州南,22:41,终点站,,2小时5分,1,302,0,0,0,0/0/0,0/0,88.5/105.5

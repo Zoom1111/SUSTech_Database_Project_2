@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G1652,1,厦门,始发站,09:00,,-1分,1,0,0,0,0,0/0/0,0/0,0/0
+G1652,2,福州,10:45,10:51,6分钟,-1分,1,276,0,0,0,0/0/0,0/0,93.5/144.5
+G1652,3,武夷山北,11:55,11:57,2分钟,-1分,1,501,0,0,0,0/0/0,0/0,213/352
+G1652,4,杭州东,13:41,13:44,3分钟,-1分,1,957,0,0,0,0/0/0,0/0,398/657
+G1652,5,上海虹桥,14:32,终点站,,-1分,1,1116,0,0,0,0/0/0,0/0,471/780.5

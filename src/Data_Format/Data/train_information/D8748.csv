@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8748,1,大理,始发站,21:01,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8748,2,祥云,21:22,21:25,3分钟,21分,1,37,0,0,0,0/0/0,0/0,0/0
+D8748,3,昆明,22:56,23:00,4分钟,1小时55分,1,328,0,0,0,0/0/0,0/0,145/231
+D8748,4,昆明南,23:18,终点站,,2小时17分,1,356,0,0,0,0/0/0,0/0,155.5/247.5

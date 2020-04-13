@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6173,1,犀浦,始发站,20:45,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6173,2,红光镇,20:49,20:51,2分钟,4分,1,3,0,0,0,0/0/0,0/0,0/5
+C6173,3,都江堰,21:09,21:11,2分钟,24分,1,42,0,0,0,0/0/0,0/0,0/10
+C6173,4,青城山,21:19,终点站,,34分,1,47,0,0,0,0/0/0,0/0,10/10

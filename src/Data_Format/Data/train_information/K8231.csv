@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8231,1,商南,始发站,08:28,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8231,2,商洛,10:01,10:03,2分钟,1小时33分,1,97,15.5,-,0,61.5/66.5/69.5,92.5/98.5,0/0
+K8231,3,渭南西,12:16,12:23,7分钟,3小时48分,1,226,-,-,0,0/0/0,0/0,0/0
+K8231,4,西安,14:00,终点站,,5小时32分,1,277,41.5,-,0,87.5/92.5/95.5,0/0,0/0

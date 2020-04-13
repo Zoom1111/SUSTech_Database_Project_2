@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6744,1,邯郸东,始发站,19:13,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6744,2,石家庄,19:52,19:55,3分钟,39分,1,175,0,0,0,0/0/0,0/0,80.5/128.5
+G6744,3,保定东,20:31,20:34,3分钟,1小时18分,1,317,0,0,0,0/0/0,0/0,145.5/232.5
+G6744,4,北京西,21:15,终点站,,2小时2分,1,456,0,0,0,0/0/0,0/0,209/335

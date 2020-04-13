@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7302,1,三亚,始发站,07:06,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7302,2,万宁,07:40,07:41,1分钟,34分,1,115,0,0,0,0/0/0,0/0,40/59
+C7302,3,文昌,08:11,08:13,2分钟,1小时5分,1,219,0,0,0,0/0/0,0/0,77/111
+C7302,4,美兰,08:30,08:32,2分钟,1小时24分,1,270,0,0,0,0/0/0,0/0,95/137
+C7302,5,海口东,08:42,终点站,,1小时36分,1,284,0,0,0,0/0/0,0/0,100/144

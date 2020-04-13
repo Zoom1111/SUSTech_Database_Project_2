@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6684,1,宜宾西,始发站,19:33,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6684,2,乐山,20:15,20:17,2分钟,42分,1,141,0,0,0,0/0/0,0/0,56/90
+C6684,3,眉山东,20:35,20:37,2分钟,1小时2分,1,194,0,0,0,0/0/0,0/0,77/124
+C6684,4,彭山北,20:45,20:47,2分钟,1小时12分,1,210,0,0,0,0/0/0,0/0,84/134
+C6684,5,成都南,21:10,终点站,,1小时37分,1,268,0,0,0,0/0/0,0/0,107/171

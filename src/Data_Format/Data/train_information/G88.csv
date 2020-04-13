@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G88,1,西安北,始发站,13:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G88,2,郑州东,15:20,15:23,3分钟,1小时50分,1,523,0,0,0,0/0/0,0/0,239/382
+G88,3,石家庄,16:45,16:48,3分钟,3小时15分,1,935,0,0,0,0/0/0,0/0,408.5/654.5
+G88,4,北京西,17:55,终点站,,4小时25分,1,1216,0,0,0,0/0/0,0/0,515.5/824.5

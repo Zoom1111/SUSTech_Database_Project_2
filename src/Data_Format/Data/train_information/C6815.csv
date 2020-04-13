@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6815,1,惠州南,始发站,19:04,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6815,2,深圳坪山,19:14,19:20,6分钟,10分,1,20,0,0,0,0/0/0,0/0,7/11
+C6815,3,深圳北,19:44,终点站,,40分,1,56,0,0,0,0/0/0,0/0,21/33

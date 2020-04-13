@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5334,1,临汾西,始发站,20:23,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5334,2,霍州东,20:46,20:48,2分钟,23分,1,64,0,0,0,0/0/0,0/0,19.5/23.5
+D5334,3,平遥古城,21:14,21:16,2分钟,51分,1,140,0,0,0,0/0/0,0/0,43/52
+D5334,4,晋中,21:42,21:44,2分钟,1小时19分,1,217,0,0,0,0/0/0,0/0,67/80.5
+D5334,5,太原南,21:56,终点站,,1小时33分,1,233,0,0,0,0/0/0,0/0,72/86.5

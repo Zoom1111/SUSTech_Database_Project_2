@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5184,1,成都东,始发站,13:43,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5184,2,南充,15:12,15:14,2分钟,1小时29分,1,213,0,0,0,0/0/0,0/0,65/103
+D5184,3,达州,16:27,终点站,,2小时44分,1,372,0,0,0,0/0/0,0/0,111/133

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7571,1,长春,始发站,05:54,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7571,2,双阳,06:41,06:44,3分钟,47分,1,63,12.5,-,0,58.5/63.5/66.5,0/0,0/0
+K7571,3,辽源,08:04,08:12,8分钟,2小时10分,1,172,28.5,-,0,74.5/79.5/82.5,0/0,0/0
+K7571,4,梅河口,09:30,终点站,,3小时36分,1,346,40.5,-,0,86.5/91.5/94.5,0/0,0/0

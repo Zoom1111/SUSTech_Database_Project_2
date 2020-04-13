@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G586,1,武汉,始发站,10:42,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G586,2,郑州东,12:28,12:31,3分钟,1小时46分,1,536,0,0,0,0/0/0,0/0,244/391
+G586,3,石家庄,13:59,14:02,3分钟,3小时17分,1,948,0,0,0,0/0/0,0/0,414.5/663.5
+G586,4,保定东,14:38,14:40,2分钟,3小时56分,1,1090,0,0,0,0/0/0,0/0,469.5/750.5
+G586,5,北京西,15:21,终点站,,4小时39分,1,1229,0,0,0,0/0/0,0/0,520.5/832.5

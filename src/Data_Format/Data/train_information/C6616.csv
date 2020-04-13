@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6616,1,雅安,始发站,11:48,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6616,2,朝阳湖,12:08,12:10,2分钟,20分,1,42,0,0,0,0/0/0,0/0,16/0
+C6616,3,大邑,12:30,12:32,2分钟,42分,1,91,0,0,0,0/0/0,0/0,34/0
+C6616,4,崇州,12:41,12:43,2分钟,53分,1,107,0,0,0,0/0/0,0/0,40/0
+C6616,5,成都西,13:00,终点站,,1小时12分,1,140,0,0,0,0/0/0,0/0,52/83

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D716,1,南京,始发站,21:29,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D716,2,蚌埠,23:01,23:03,2分钟,1小时32分,1,184,0,0,0,0/0/0,0/0,31/0
+D716,3,北京南,06:48,终点站,,9小时19分,2,1153,0,0,0,0/0/0,0/0,196/0

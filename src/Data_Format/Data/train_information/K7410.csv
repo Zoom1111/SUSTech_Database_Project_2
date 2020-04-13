@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7410,1,五女山,始发站,10:22,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7410,2,八里甸子,10:55,10:57,2分钟,33分,1,,-,-,0,0/0/0,0/0,0/0
+K7410,3,大阳,11:20,11:22,2分钟,58分,1,,-,-,0,0/0/0,0/0,0/0
+K7410,4,铁刹山,11:43,11:45,2分钟,1小时21分,1,,-,-,0,0/0/0,0/0,0/0
+K7410,5,小市,12:10,12:12,2分钟,1小时48分,1,,-,-,0,0/0/0,0/0,0/0
+K7410,6,本溪,13:04,终点站,,2小时42分,1,,-,-,0,0/0/0,0/0,0/0

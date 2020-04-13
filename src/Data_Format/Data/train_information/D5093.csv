@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5093,1,华山北,始发站,09:22,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D5093,2,渭南北,09:40,09:42,-,18分,-,58,0,0/0,0,0/0/0,0/0,0/0
+D5093,3,西安北,10:03,终点站,-,41分,-,121,0,59.5/34.5,0,0/0/0,0/0,59.5/34.5

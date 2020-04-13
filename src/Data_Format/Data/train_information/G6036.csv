@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6036,1,深圳北,始发站,20:41,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6036,2,虎门,20:58,21:00,2分钟,17分,1,52,0,0,0,0/0/0,0/0,39.5/54.5
+G6036,3,广州南,21:17,21:21,4分钟,36分,1,102,0,0,0,0/0/0,0/0,74.5/99.5
+G6036,4,清远,21:45,21:47,2分钟,1小时4分,1,185,0,0,0,0/0/0,0/0,114/159
+G6036,5,衡阳东,23:13,终点站,,2小时32分,1,632,0,0,0,0/0/0,0/0,318.5/488.5

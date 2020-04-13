@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+S8015,1,海口,始发站,16:31,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+S8015,2,长流,16:39,16:40,1分钟,8分,1,8,2,-,0,0/0/0,0/0,0/0
+S8015,3,秀英,16:45,16:46,1分钟,14分,1,16,4,-,0,0/0/0,0/0,0/0
+S8015,4,城西,16:51,16:52,1分钟,20分,1,22,6,-,0,0/0/0,0/0,0/0
+S8015,5,海口东,16:56,终点站,,25分,1,24,7,-,0,0/0/0,0/0,0/0

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7635,1,沈阳,始发站,17:22,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7635,2,沈阳南,17:33,17:34,1分钟,11分,1,15,0,0,0,0/0/0,0/0,6/10
+D7635,3,本溪,17:58,18:00,2分钟,36分,1,76,0,0,0,0/0/0,0/0,25/40
+D7635,4,通远堡西,18:20,18:21,1分钟,58分,1,138,0,0,0,0/0/0,0/0,44/71
+D7635,5,丹东,18:48,终点站,,1小时26分,1,223,0,0,0,0/0/0,0/0,70/113

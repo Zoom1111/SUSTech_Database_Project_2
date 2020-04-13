@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G331,1,北京南,始发站,18:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G331,2,天津南,19:04,19:06,2分钟,34分,1,122,0,0,0,0/0/0,0/0,54.5/94.5
+G331,3,德州东,19:50,19:52,2分钟,1小时20分,1,314,0,0,0,0/0/0,0/0,144.5/244.5
+G331,4,济南西,20:16,终点站,,1小时46分,1,406,0,0,0,0/0/0,0/0,184.5/314.5

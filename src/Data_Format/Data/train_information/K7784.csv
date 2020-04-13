@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7784,1,蓟州北,始发站,09:46,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7784,2,蓟州,09:58,10:18,20分钟,12分,1,5,8,-,0,54/59/62,0/0,0/0
+K7784,3,燕郊,10:47,10:58,11分钟,1小时1分,1,52,11,-,0,57/62/65,0/0,0/0
+K7784,4,北京东,11:27,终点站,,1小时41分,1,83,14.5,-,0,60.5/65.5/68.5,0/0,0/0

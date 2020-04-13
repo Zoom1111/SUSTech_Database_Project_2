@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6473,1,长沙南,始发站,21:37,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6473,2,娄底南,22:12,22:14,2分钟,35分,1,125,0,0,0,0/0/0,0/0,57.5/96.5
+G6473,3,怀化南,23:06,终点站,,1小时29分,1,382,0,0,0,0/0/0,0/0,158/256.5

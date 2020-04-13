@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5946,1,宜昌东,始发站,15:07,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5946,2,荆州,15:41,15:43,2分钟,34分,1,88,0,0,0,0/0/0,0/0,33/52
+D5946,3,潜江,16:08,16:10,2分钟,1小时1分,1,158,0,0,0,0/0/0,0/0,59/94
+D5946,4,天门南,16:30,16:32,2分钟,1小时23分,1,209,0,0,0,0/0/0,0/0,77/124
+D5946,5,汉口,17:07,终点站,,2小时0分,1,292,0,0,0,0/0/0,0/0,108/173

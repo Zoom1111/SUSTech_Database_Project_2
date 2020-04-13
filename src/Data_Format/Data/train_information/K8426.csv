@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8426,1,合肥,始发站,13:45,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8426,2,淮南,14:46,14:51,5分钟,1小时1分,1,40,15.5,-,0,61.5/66.5/69.5,92.5/98.5,0/0
+K8426,3,颍上,15:39,15:43,4分钟,1小时54分,1,173,28.5,-,0,74.5/79.5/82.5,112.5/118.5,0/0
+K8426,4,阜阳,16:17,终点站,,2小时32分,1,221,37.5,-,0,83.5/88.5/91.5,125.5/131.5,0/0

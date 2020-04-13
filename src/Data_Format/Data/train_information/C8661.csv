@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C8661,1,兰州西,始发站,18:29,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C8661,2,兰州新区,19:01,19:03,2分钟,32分,1,56,0,0,0,0/0/0,0/0,17.5/28
+C8661,3,中川机场,19:08,终点站,,39分,1,60,0,0,0,0/0/0,0/0,18.5/22

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+7008,1,西安,始发站,13:42,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+7008,2,砚川,17:08,17:10,-,3小时26分,-,5,-,-,0,0/0/0,0/0,0/0
+7008,3,商洛,17:35,17:38,-,3小时53分,-,35,-,-,0,0/0/0,0/0,0/0
+7008,4,丹凤,18:14,18:16,-,4小时32分,-,74,-,-,0,0/0/0,0/0,0/0
+7008,5,商南,20:20,终点站,-,6小时38分,-,132,-,-,0,0/0/0,0/0,0/0

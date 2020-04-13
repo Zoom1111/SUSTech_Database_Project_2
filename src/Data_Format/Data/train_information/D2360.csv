@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D2360,1,深圳北,始发站,18:41,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D2360,2,深圳坪山,19:01,19:03,-,20分,-,36,0,12/20,0,0/0/0,0/0,12/20
+D2360,3,惠东,19:23,19:25,-,42分,-,88,0,31/49,0,0/0/0,0/0,31/49
+D2360,4,普宁,20:21,20:23,-,1小时40分,-,252,0,88/141,0,0/0/0,0/0,88/141
+D2360,5,潮汕,20:48,终点站,-,2小时7分,-,305,0,107/171,0,0/0/0,0/0,107/171

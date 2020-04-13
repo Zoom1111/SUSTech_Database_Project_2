@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5658,1,安庆,始发站,13:38,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5658,2,池州,13:57,13:59,2分钟,19分,1,46,0,0,0,0/0/0,0/0,17/27.5
+D5658,3,铜陵,14:19,14:21,2分钟,41分,1,96,0,0,0,0/0/0,0/0,35.5/57
+D5658,4,无为,14:43,14:45,2分钟,1小时5分,1,152,0,0,0,0/0/0,0/0,54/86.5
+D5658,5,合肥南,15:17,终点站,,1小时39分,1,257,0,0,0,0/0/0,0/0,86.5/138

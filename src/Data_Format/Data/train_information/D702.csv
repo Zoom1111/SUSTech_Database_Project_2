@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D702,1,上海,始发站,19:09,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D702,2,镇江,21:01,21:03,2分钟,1小时52分,1,237,0,0,0,120/129/140,165/186,47/0
+D702,3,南京,21:40,21:46,6分钟,2小时31分,1,301,0,0,0,0/0/0,0/0,87.5/0
+D702,4,沧州,04:56,04:58,2分钟,9小时47分,2,1199,0,0,0,305/326/356,457/517,204/0
+D702,5,北京,07:12,终点站,,12小时3分,2,1463,0,0,0,372/397/435,558/631,248/0

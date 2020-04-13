@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6108,1,青城山,始发站,07:16,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6108,2,都江堰,07:24,07:29,5分钟,8分,1,8,0,0,0,0/0/0,0/0,5/0
+C6108,3,郫县西,07:43,07:45,2分钟,27分,1,38,0,0,0,0/0/0,0/0,0/10
+C6108,4,犀浦,07:54,终点站,,38分,1,50,0,0,0,0/0/0,0/0,0/10

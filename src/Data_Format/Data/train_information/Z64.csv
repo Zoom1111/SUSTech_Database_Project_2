@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z64,1,长春,始发站,22:33,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+Z64,2,四平,23:37,23:40,-,1小时4分,-,115,-,-,0,0/0/0,0/0,0/0
+Z64,3,秦皇岛,04:41,04:47,-,6小时8分,-,704,-,-,0,0/0/0,0/0,0/0
+Z64,4,北京,07:50,终点站,-,9小时17分,-,1112,-,-,0,0/0/0,0/0,0/0

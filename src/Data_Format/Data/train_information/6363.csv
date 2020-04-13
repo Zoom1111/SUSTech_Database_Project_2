@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+6363,1,沙岭,始发站,15:53,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+6363,2,马三家,16:15,16:17,2分钟,22分,1,24,2,-,0,0/0/0,0/0,0/0
+6363,3,兰家屯,16:30,16:30,,37分,1,26,2,-,0,0/0/0,0/0,0/0
+6363,4,裕国,16:40,16:40,,47分,1,28,3,-,0,0/0/0,0/0,0/0
+6363,5,沈阳,16:50,终点站,,57分,1,49,3,-,0,0/0/0,0/0,0/0

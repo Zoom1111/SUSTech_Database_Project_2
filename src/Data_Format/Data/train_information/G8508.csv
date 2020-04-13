@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8508,1,重庆北,始发站,12:15,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8508,2,璧山,12:41,12:43,2分钟,26分,1,44,0,0,0,0/0/0,0/0,21.5/34
+G8508,3,资中北,13:19,13:21,2分钟,1小时4分,1,195,0,0,0,0/0/0,0/0,94/151
+G8508,4,成都东,13:56,终点站,,1小时41分,1,319,0,0,0,0/0/0,0/0,154/246.5

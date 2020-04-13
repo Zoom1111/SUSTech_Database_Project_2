@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7612,1,珠海,始发站,22:41,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7612,2,唐家湾,22:56,22:58,2分钟,15分,1,19,0,0,0,0/0/0,0/0,10/0
+C7612,3,小榄,23:17,23:19,2分钟,36分,1,71,0,0,0,0/0/0,0/0,40/0
+C7612,4,广州南,23:39,终点站,,58分,1,116,0,0,0,0/0/0,0/0,70/90

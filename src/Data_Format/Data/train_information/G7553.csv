@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7553,1,上海虹桥,始发站,21:11,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7553,2,嘉兴南,21:38,21:40,2分钟,27分,1,84,0,0,0,0/0/0,0/0,38.5/61.5
+G7553,3,杭州东,22:03,22:18,15分钟,52分,1,159,0,0,0,0/0/0,0/0,73/117
+G7553,4,千岛湖,23:07,终点站,,1小时56分,1,325,0,0,0,0/0/0,0/0,143/230.5

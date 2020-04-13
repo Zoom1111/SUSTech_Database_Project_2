@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8521/K8524,1,合肥,始发站,09:15,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8521/K8524,2,庐江,10:15,10:20,5分钟,1小时0分,1,79,6,-,0,0/0/0,0/0,0/0
+K8521/K8524,3,龙桥,10:55,11:00,5分钟,1小时40分,1,128,10.5,-,0,0/0/0,0/0,0/0
+K8521/K8524,4,无为南,11:33,11:39,6分钟,2小时18分,1,179,15.5,-,0,0/0/0,0/0,0/0
+K8521/K8524,5,芜湖,13:10,终点站,,3小时55分,1,276,22.5,-,0,0/0/0,0/0,0/0

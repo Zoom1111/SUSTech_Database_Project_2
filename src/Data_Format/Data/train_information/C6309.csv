@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6309,1,绵阳,始发站,12:12,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6309,2,德阳,12:29,12:33,4分钟,17分,1,47,0,0,0,0/0/0,0/0,19/23
+C6309,3,成都东,12:57,13:05,8分钟,45分,1,113,0,0,0,0/0/0,0/0,45/54
+C6309,4,眉山东,13:36,13:38,2分钟,1小时24分,1,195,0,0,0,0/0/0,0/0,78/94
+C6309,5,乐山,13:57,终点站,,1小时45分,1,275,0,0,0,0/0/0,0/0,99/119

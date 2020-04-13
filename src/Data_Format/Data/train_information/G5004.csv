@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G5004,1,南昌,始发站,19:22,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G5004,2,鹰潭北,20:05,20:07,2分钟,43分,1,140,0,0,0,0/0/0,0/0,60.5/101
+G5004,3,上饶,20:33,终点站,,1小时11分,1,260,0,0,0,0/0/0,0/0,107/179.5

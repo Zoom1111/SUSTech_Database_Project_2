@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6507,1,广州南,始发站,13:14,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6507,2,虎门,13:31,13:33,2分钟,17分,1,50,0,0,0,0/0/0,0/0,25/35
+G6507,3,深圳北,13:50,13:54,4分钟,36分,1,102,0,0,0,0/0/0,0/0,74.5/99.5
+G6507,4,福田,14:02,终点站,,48分,1,111,0,0,0,0/0/0,0/0,82/108

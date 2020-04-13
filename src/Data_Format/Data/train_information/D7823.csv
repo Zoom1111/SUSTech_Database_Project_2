@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7823,1,哈尔滨,始发站,15:37,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7823,2,方正,16:39,16:41,2分钟,1小时2分,1,174,0,0,0,0/0/0,0/0,61/98
+D7823,3,得莫利,16:51,16:52,1分钟,1小时14分,1,192,0,0,0,0/0/0,0/0,67/108
+D7823,4,依兰,17:16,17:18,2分钟,1小时39分,1,256,0,0,0,0/0/0,0/0,90/144
+D7823,5,佳木斯,17:52,终点站,,2小时15分,1,343,0,0,0,0/0/0,0/0,120/192

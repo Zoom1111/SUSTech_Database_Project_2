@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6276,1,邯郸东,始发站,20:25,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6276,2,邢台东,20:41,20:49,8分钟,16分,1,53,0,0,0,0/0/0,0/0,203/325
+G6276,3,石家庄,21:17,21:23,6分钟,52分,1,175,0,0,0,0/0/0,0/0,80.5/128.5
+G6276,4,保定东,21:59,22:01,2分钟,1小时34分,1,317,0,0,0,0/0/0,0/0,145.5/232.5
+G6276,5,天津西,22:54,终点站,,2小时29分,1,467,0,0,0,0/0/0,0/0,203/325

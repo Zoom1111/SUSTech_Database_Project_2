@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G5258,1,福州,始发站,20:40,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G5258,2,延平,21:14,21:16,2分钟,34分,1,121,0,0,0,0/0/0,0/0,55.5/93.5
+G5258,3,建瓯西,21:32,21:34,2分钟,52分,1,174,0,0,0,0/0/0,0/0,80/134.5
+G5258,4,南平市,21:50,终点站,,1小时10分,1,225,0,0,0,0/0/0,0/0,103.5/174

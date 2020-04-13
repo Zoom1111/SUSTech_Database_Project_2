@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6547,1,南昌西,始发站,06:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6547,2,抚州,07:07,07:09,2分钟,37分,1,101,0,0,0,0/0/0,0/0,20/33
+D6547,3,南城,07:28,07:30,2分钟,58分,1,149,0,0,0,0/0/0,0/0,30/48
+D6547,4,南丰,07:44,终点站,,1小时14分,1,181,0,0,0,0/0/0,0/0,53/63.5

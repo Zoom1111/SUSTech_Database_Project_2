@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8520,1,重庆北,始发站,18:23,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8520,2,璧山,18:49,18:52,3分钟,26分,1,44,0,0,0,0/0/0,0/0,21.5/34
+G8520,3,大足南,19:07,19:10,3分钟,44分,1,22,0,0,0,0/0/0,0/0,46.5/74
+G8520,4,简阳南,19:51,19:53,2分钟,1小时28分,1,266,0,0,0,0/0/0,0/0,128.5/205.5
+G8520,5,成都东,20:12,终点站,,1小时49分,1,319,0,0,0,0/0/0,0/0,154/246.5

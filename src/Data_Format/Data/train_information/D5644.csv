@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5644,1,芜湖,始发站,18:17,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5644,2,马鞍山东,18:35,18:37,2分钟,18分,1,43,0,0,0,0/0/0,0/0,16/25.5
+D5644,3,南京南,18:54,终点站,,37分,1,85,0,0,0,0/0/0,0/0,31.5/50.5

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6864,1,汉中,始发站,11:48,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6864,2,佛坪,12:18,12:20,2分钟,30分,1,102,0,0,0,0/0/0,0/0,30/36
+D6864,3,阿房宫,12:56,13:04,8分钟,1小时8分,1,220,0,0,0,0/0/0,0/0,88/141
+D6864,4,西安北,13:17,终点站,,1小时29分,1,242,0,0,0,0/0/0,0/0,97/155

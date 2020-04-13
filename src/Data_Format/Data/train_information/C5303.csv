@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C5303,1,汉口,始发站,13:12,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C5303,2,后湖,13:17,13:19,2分钟,5分,1,3,0,0,0,0/0/0,0/0,0/0
+C5303,3,金银潭,13:23,13:25,2分钟,11分,1,6,0,0,0,0/0/0,0/0,0/0
+C5303,4,毛陈,13:44,13:46,2分钟,32分,1,52,0,0,0,0/0/0,0/0,0/0
+C5303,5,孝感东,13:53,终点站,,41分,1,61,0,0,0,0/0/0,0/0,20/24

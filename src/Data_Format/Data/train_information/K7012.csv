@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7012,1,绥化,始发站,14:12,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7012,2,兴隆镇,14:33,14:36,3分钟,21分,1,28,9,-,0,55/60/63,80/86,0/0
+K7012,3,呼兰,15:17,15:20,3分钟,1小时5分,1,93,15.5,-,0,61.5/66.5/69.5,92.5/98.5,0/0
+K7012,4,哈尔滨东,16:18,终点站,,2小时6分,1,128,19.5,-,0,65.5/70.5/73.5,99.5/105.5,0/0

@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7702,1,珠海,始发站,22:01,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7702,2,明珠,22:11,22:13,2分钟,10分,1,7,0,0,0,0/0/0,0/0,15/0
+C7702,3,中山北,22:31,22:33,2分钟,30分,1,52,0,0,0,0/0/0,0/0,30/0
+C7702,4,小榄,22:42,22:44,2分钟,41分,1,71,0,0,0,0/0/0,0/0,40/0
+C7702,5,顺德,22:57,23:04,7分钟,56分,1,101,0,0,0,0/0/0,0/0,60/0
+C7702,6,广州南,23:13,终点站,,1小时12分,1,116,0,0,0,0/0/0,0/0,70/90

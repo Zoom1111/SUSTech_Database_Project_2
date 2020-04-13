@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+5005,1,枣庄西,始发站,07:42,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+5005,2,枣庄东,08:12,08:15,3分钟,30分,1,31,7,-,0,53/58/61,79.5/85.5,0/0
+5005,3,兰陵北,08:53,08:56,3分钟,1小时11分,1,80,10.5,-,0,56.5/61.5/64.5,87.5/93.5,0/0
+5005,4,临沂,09:37,终点站,,1小时55分,1,135,18.5,-,0,64.5/69.5/72.5,99.5/105.5,0/0

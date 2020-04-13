@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K6877,1,西宁,始发站,13:05,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K6877,2,天棚,15:41,15:43,2分钟,2小时36分,1,293,43.5,-,0,89.5/94.5/97.5,135.5/141.5,0/0
+K6877,3,乌兰,16:29,16:31,2分钟,3小时24分,1,406,62.5,-,0,110.5/114.5/117.5,166.5/174.5,0/0
+K6877,4,德令哈,17:35,终点站,,4小时30分,1,521,72,-,0,129/132/136,197/204,0/0

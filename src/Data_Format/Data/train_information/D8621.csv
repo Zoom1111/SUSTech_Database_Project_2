@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8621,1,弥勒,始发站,11:08,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8621,2,石林西,11:25,11:28,3分钟,17分,1,43,0,0,0,0/0/0,0/0,16/25.5
+D8621,3,昆明南,11:46,终点站,,38分,1,92,0,0,0,0/0/0,0/0,34/54.5

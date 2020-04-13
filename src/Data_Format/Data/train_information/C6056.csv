@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6056,1,彭州,始发站,09:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6056,2,郫县西,09:15,09:18,3分钟,15分,1,21,0,0,0,0/0/0,0/0,10/0
+C6056,3,红光镇,09:27,09:29,2分钟,27分,1,30,0,0,0,0/0/0,0/0,0/10
+C6056,4,犀浦,09:33,终点站,,33分,1,33,0,0,0,0/0/0,0/0,0/10

@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+5801,1,乌鲁木齐,始发站,23:44,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+5801,2,阿拉山口,07:40,终点站,,7小时56分,2,466,61,-,0,115/118/122,178/186,0/0

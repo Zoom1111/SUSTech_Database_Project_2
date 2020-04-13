@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5282/D5283,1,武昌,始发站,12:36,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5282/D5283,2,随州,14:00,14:02,2分钟,1小时24分,1,179,0,0,0,0/0/0,0/0,54/87
+D5282/D5283,3,襄州,15:06,15:13,7分钟,2小时30分,1,,0,0,0,0/0/0,0/0,0/0
+D5282/D5283,4,谷城,16:02,16:05,3分钟,3小时26分,1,402,0,0,0,0/0/0,0/0,119/192
+D5282/D5283,5,十堰,17:05,终点站,,4小时29分,1,493,0,0,0,0/0/0,0/0,146/234

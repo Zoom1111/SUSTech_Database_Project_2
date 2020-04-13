@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7437/D7440,1,深圳北,始发站,19:40,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7437/D7440,2,深圳坪山,20:00,20:02,2分钟,20分,1,36,0,0,0,0/0/0,0/0,12/20
+D7437/D7440,3,普宁,21:15,21:17,2分钟,1小时35分,1,252,0,0,0,0/0/0,0/0,88/141
+D7437/D7440,4,潮汕,21:40,21:42,2分钟,2小时0分,1,305,0,0,0,0/0/0,0/0,107/171
+D7437/D7440,5,汕头,22:05,终点站,,2小时25分,1,334,0,0,0,0/0/0,0/0,117/187

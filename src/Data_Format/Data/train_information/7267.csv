@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+7267,1,澧县,始发站,17:08,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+7267,2,石门县北,17:42,17:45,3分钟,34分,1,35,2,-,0,0/0/0,0/0,0/0
+7267,3,慈利,18:51,18:54,3分钟,1小时43分,1,77,4,-,0,0/0/0,0/0,0/0
+7267,4,张家界,20:40,终点站,,3小时32分,1,153,9.5,-,0,0/0/0,0/0,0/0

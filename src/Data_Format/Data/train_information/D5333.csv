@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5333,1,太原南,始发站,16:10,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5333,2,平遥古城,16:41,16:53,12分钟,31分,1,93,0,0,0,0/0/0,0/0,28.5/34.5
+D5333,3,霍州东,17:19,17:21,2分钟,1小时9分,1,169,0,0,0,0/0/0,0/0,52/83
+D5333,4,闻喜西,18:08,终点站,,1小时58分,1,324,0,0,0,0/0/0,0/0,100/160

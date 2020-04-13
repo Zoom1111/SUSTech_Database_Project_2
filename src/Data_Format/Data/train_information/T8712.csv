@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T8712/T8713,1,北海,始发站,09:27,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+T8712/T8713,2,合浦,09:42,09:45,3分钟,15分,1,23,9,-,0,0/0/0,0/0,0/0
+T8712/T8713,3,钦州东,10:18,10:20,2分钟,51分,1,91,15.5,-,0,0/0/0,0/0,0/0
+T8712/T8713,4,防城港北,10:52,终点站,,1小时25分,1,139,21.5,-,0,0/0/0,0/0,0/0

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9091,1,常德,始发站,09:19,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9091,2,益阳,10:19,10:25,6分钟,1小时0分,1,101,16.5,-,0,62.5/67.5/70.5,96.5/102.5,0/0
+K9091,3,长沙,11:41,终点站,,2小时22分,1,198,29.5,-,0,75.5/80.5/83.5,115.5/121.5,0/0

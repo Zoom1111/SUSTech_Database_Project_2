@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6391/G6390,1,汕头,始发站,17:59,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6391/G6390,2,潮汕,18:22,18:25,3分钟,23分,1,29,0,0,0,0/0/0,0/0,10/16
+G6391/G6390,3,陆丰,19:06,19:08,2分钟,1小时7分,1,143,0,0,0,0/0/0,0/0,50/80
+G6391/G6390,4,惠州南,19:55,19:57,2分钟,1小时56分,1,278,0,0,0,0/0/0,0/0,97/156
+G6391/G6390,5,深圳北,20:29,终点站,,2小时30分,1,334,0,0,0,0/0/0,0/0,117/187

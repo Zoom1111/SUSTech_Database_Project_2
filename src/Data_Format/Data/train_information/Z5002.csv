@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z5002,1,白城,始发站,05:28,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z5002,2,大安,06:25,06:31,6分钟,57分,1,120,-,28.5,0,0/0/0,0/0,0/0
+Z5002,3,松原,07:02,07:07,5分钟,1小时34分,1,183,-,44.5,0,0/0/0,0/0,0/0
+Z5002,4,长春,08:30,终点站,,3小时2分,1,333,-,77.5,0,0/0/0,0/0,0/0

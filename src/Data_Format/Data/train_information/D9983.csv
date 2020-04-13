@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D9983,1,武夷山东,始发站,21:13,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D9983,2,南平北,21:44,21:46,-,31分,-,104,0,32/51.5,0,0/0/0,0/0,32/51.5
+D9983,3,福州,22:26,终点站,-,1小时13分,-,225,0,69.5/111,0,0/0/0,0/0,69.5/111

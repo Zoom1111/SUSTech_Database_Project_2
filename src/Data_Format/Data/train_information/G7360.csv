@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7360,1,杭州,始发站,20:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7360,2,嘉兴南,20:29,20:31,2分钟,29分,1,85,0,0,0,0/0/0,0/0,38.5/62.5
+G7360,3,上海虹桥,21:01,21:03,2分钟,1小时1分,1,169,0,0,0,0/0/0,0/0,77.5/123.5
+G7360,4,上海西,21:22,21:24,2分钟,1小时22分,1,197,0,0,0,0/0/0,0/0,89.5/144.5
+G7360,5,上海,21:34,终点站,,1小时34分,1,202,0,0,0,0/0/0,0/0,92.5/147.5

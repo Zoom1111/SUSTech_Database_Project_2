@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5181,1,达州,始发站,10:48,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5181,2,遂宁,12:26,12:28,2分钟,1小时38分,1,226,0,0,0,0/0/0,0/0,65.5/79.5
+D5181,3,成都东,13:25,终点站,,2小时37分,1,372,0,0,0,0/0/0,0/0,111/178

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6218,1,成都东,始发站,19:39,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6218,2,新都东,19:50,19:52,2分钟,11分,1,21,0,0,0,0/0/0,0/0,8/10
+C6218,3,广汉北,20:03,20:05,2分钟,24分,1,46,0,0,0,0/0/0,0/0,18/22
+C6218,4,德阳,20:14,终点站,,35分,1,66,0,0,0,0/0/0,0/0,26/32

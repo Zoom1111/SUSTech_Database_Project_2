@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6065,1,安靖,始发站,17:28,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6065,2,犀浦,17:34,17:38,4分钟,6分,1,7,0,0,0,0/0/0,0/0,5/0
+C6065,3,红光镇,17:42,17:44,2分钟,14分,1,10,0,0,0,0/0/0,0/0,10/0
+C6065,4,彭州南,18:01,18:03,2分钟,33分,1,35,0,0,0,0/0/0,0/0,10/0
+C6065,5,彭州,18:11,终点站,,43分,1,40,0,0,0,0/0/0,0/0,0/0

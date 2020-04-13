@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7650,1,珠海,始发站,10:06,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7650,2,珠海北,10:22,10:29,7分钟,16分,1,33,0,0,0,0/0/0,0/0,0/0
+C7650,3,南朗,10:35,10:37,2分钟,29分,1,33,0,0,0,0/0/0,0/0,20/25
+C7650,4,顺德,11:02,11:04,2分钟,56分,1,101,0,0,0,0/0/0,0/0,60/0
+C7650,5,广州南,11:14,终点站,,1小时8分,1,116,0,0,0,0/0/0,0/0,70/90

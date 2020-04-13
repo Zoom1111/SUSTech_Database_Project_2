@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C1118/C1119,1,沈阳北,始发站,15:49,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C1118/C1119,2,新民北,16:16,16:18,2分钟,27分,1,60,0,0,0,0/0/0,0/0,24/38
+C1118/C1119,3,彰武,16:39,16:41,2分钟,50分,1,114,0,0,0,0/0/0,0/0,44/70
+C1118/C1119,4,甘旗卡,17:01,17:03,2分钟,1小时12分,1,181,0,0,0,0/0/0,0/0,69/110
+C1118/C1119,5,通辽,17:28,终点站,,1小时39分,1,257,0,0,0,0/0/0,0/0,97/155

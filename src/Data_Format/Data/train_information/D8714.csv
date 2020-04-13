@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8714/D8715,1,昆明南,始发站,15:37,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8714/D8715,2,昆明,15:55,16:00,5分钟,18分,1,28,0,0,0,0/0/0,0/0,10.5/16.5
+D8714/D8715,3,楚雄,16:55,16:58,3分钟,1小时18分,1,208,0,0,0,0/0/0,0/0,81.5/129.5
+D8714/D8715,4,祥云,17:37,17:39,2分钟,2小时0分,1,319,0,0,0,0/0/0,0/0,136.5/217.5
+D8714/D8715,5,大理,18:01,终点站,,2小时24分,1,356,0,0,0,0/0/0,0/0,155.5/247.5

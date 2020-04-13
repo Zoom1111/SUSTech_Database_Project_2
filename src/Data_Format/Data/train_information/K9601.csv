@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9601/K9604,1,丽江,始发站,22:23,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9601/K9604,2,广通北,06:04,06:22,18分钟,7小时41分,2,364,-,-,0,69.5/74.5/77.5,105.5/111.5,0/0
+K9601/K9604,3,昆明,09:38,终点站,,11小时15分,2,478,89,-,0,141.5/147/154,217/226,0/0

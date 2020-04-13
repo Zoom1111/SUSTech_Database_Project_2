@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D9644,1,玉林,始发站,20:56,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D9644,2,兴业,21:17,21:20,3分钟,21分,1,33,0,0,0,0/0/0,0/0,9.5/15
+D9644,3,贵港,21:52,21:57,5分钟,56分,1,89,0,0,0,0/0/0,0/0,26/42
+D9644,4,宾阳,22:21,22:24,3分钟,1小时25分,1,146,0,0,0,0/0/0,0/0,43/68
+D9644,5,南宁东,22:50,终点站,,1小时54分,1,229,0,0,0,0/0/0,0/0,67/81

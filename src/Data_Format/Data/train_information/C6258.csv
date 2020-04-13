@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6258,1,峨眉山,始发站,09:38,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6258,2,乐山,09:53,09:55,2分钟,15分,1,27,0,0,0,0/0/0,0/0,11/13
+C6258,3,新津,10:30,10:32,2分钟,52分,1,126,0,0,0,0/0/0,0/0,50/60
+C6258,4,双流机场,10:41,10:43,2分钟,1小时3分,1,141,0,0,0,0/0/0,0/0,56/68
+C6258,5,成都南,10:53,终点站,,1小时15分,1,154,0,0,0,0/0/0,0/0,82/100

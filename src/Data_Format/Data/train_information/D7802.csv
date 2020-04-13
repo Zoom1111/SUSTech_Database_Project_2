@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7802,1,佳木斯,始发站,05:27,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7802,2,依兰,06:00,06:02,2分钟,33分,1,87,0,0,0,0/0/0,0/0,30/49
+D7802,3,方正,06:32,06:34,2分钟,1小时5分,1,169,0,0,0,0/0/0,0/0,60/95
+D7802,4,宾州,07:11,07:12,1分钟,1小时44分,1,276,0,0,0,0/0/0,0/0,97/155
+D7802,5,哈尔滨,07:42,终点站,,2小时15分,1,343,0,0,0,0/0/0,0/0,120/192

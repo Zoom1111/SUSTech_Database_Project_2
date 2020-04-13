@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8635/D8638,1,楚雄,始发站,21:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8635/D8638,2,广通北,21:44,21:46,2分钟,14分,1,27,0,0,0,0/0/0,0/0,0/0
+D8635/D8638,3,禄丰南,22:02,22:04,2分钟,32分,1,81,0,0,0,0/0/0,0/0,34/54
+D8635/D8638,4,昆明,22:40,22:44,4分钟,1小时10分,1,180,0,0,0,0/0/0,0/0,71/113
+D8635/D8638,5,昆明南,23:02,终点站,,1小时32分,1,208,0,0,0,0/0/0,0/0,81.5/129.5

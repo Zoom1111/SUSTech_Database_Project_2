@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C8784,1,博尔塔拉,始发站,13:20,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C8784,2,奎屯,15:22,15:23,1分钟,2小时2分,1,256,0,0,0,0/0/0,0/0,54/86
+C8784,3,沙湾县,15:50,15:51,1分钟,2小时30分,1,315,0,0,0,0/0/0,0/0,67/106
+C8784,4,石河子,16:09,16:10,1分钟,2小时49分,1,135,0,0,0,0/0/0,0/0,75/120
+C8784,5,乌鲁木齐,17:09,终点站,,3小时49分,1,488,0,0,0,0/0/0,0/0,0/0

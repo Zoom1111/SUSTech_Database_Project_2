@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8219,1,安康,始发站,06:57,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8219,2,紫阳,07:40,07:42,2分钟,43分,1,57,11,-,0,57/62/65,0/0,0/0
+K8219,3,万源,09:29,终点站,,2小时32分,1,151,23.5,-,0,69.5/74.5/77.5,0/0,0/0

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5114/D5115,1,阆中,始发站,18:32,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5114/D5115,2,南部,18:45,18:48,3分钟,13分,1,21,0,0,0,0/0/0,0/0,8/12.5
+D5114/D5115,3,南充北,19:16,19:19,3分钟,44分,1,82,0,0,0,0/0/0,0/0,30.5/48.5
+D5114/D5115,4,遂宁,19:50,19:55,5分钟,1小时18分,1,147,0,0,0,0/0/0,0/0,50/80.5
+D5114/D5115,5,成都东,20:53,终点站,,2小时21分,1,293,0,0,0,0/0/0,0/0,87/115

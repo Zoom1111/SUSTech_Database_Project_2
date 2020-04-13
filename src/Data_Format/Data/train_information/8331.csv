@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+8331,1,淮滨,始发站,10:20,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+8331,2,潢川,11:15,11:17,2分钟,55分,1,55,3,-,0,0/0/0,0/0,0/0
+8331,3,光山,11:34,11:36,2分钟,1小时14分,1,72,4,-,0,0/0/0,0/0,0/0
+8331,4,新县,12:11,12:13,2分钟,1小时51分,1,115,7.5,-,0,0/0/0,0/0,0/0
+8331,5,麻城,13:23,终点站,,3小时3分,1,175,11.5,-,0,0/0/0,0/0,0/0

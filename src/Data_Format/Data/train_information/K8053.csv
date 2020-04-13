@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8053/K8056,1,平顶山,始发站,06:10,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8053/K8056,2,漯河,07:17,07:23,6分钟,1小时7分,1,78,12.5,-,0,58.5/63.5/66.5,89.5/95.5,0/0
+K8053/K8056,3,驻马店,08:02,08:06,4分钟,1小时52分,1,144,23.5,-,0,69.5/74.5/77.5,104.5/110.5,0/0
+K8053/K8056,4,信阳,09:05,终点站,,2小时55分,1,240,37.5,-,0,83.5/88.5/91.5,125.5/131.5,0/0

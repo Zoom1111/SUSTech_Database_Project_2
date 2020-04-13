@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5610,1,铜陵,始发站,18:33,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5610,2,芜湖,19:04,19:06,2分钟,31分,1,76,0,0,0,0/0/0,0/0,95/152.5
+D5610,3,马鞍山东,19:24,19:26,2分钟,51分,1,119,0,0,0,0/0/0,0/0,44/70.5
+D5610,4,南京南,19:44,终点站,,1小时11分,1,161,0,0,0,0/0/0,0/0,95/152.5

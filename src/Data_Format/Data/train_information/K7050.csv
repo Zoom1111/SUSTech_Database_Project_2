@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7050,1,鹤岗,始发站,07:48,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7050,2,佳木斯,09:09,终点站,,1小时21分,1,68,12.5,-,0,0/0/0,0/0,0/0

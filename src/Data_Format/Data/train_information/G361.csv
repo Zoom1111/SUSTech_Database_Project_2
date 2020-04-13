@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G360/G361,1,上海虹桥,始发站,08:36,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G360/G361,2,南京南,09:44,09:46,2分钟,1小时8分,1,295,0,0,0,0/0/0,0/0,134.5/229.5
+G360/G361,3,徐州东,11:01,11:06,5分钟,2小时25分,1,626,0,0,0,0/0/0,0/0,279/474
+G360/G361,4,郑州东,12:37,12:41,4分钟,4小时1分,1,986,0,0,0,0/0/0,0/0,447/739
+G360/G361,5,西安北,14:29,终点站,,5小时53分,1,1509,0,0,0,0/0/0,0/0,669.5/1095

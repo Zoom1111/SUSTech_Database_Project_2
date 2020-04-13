@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8361,1,南宁东,始发站,07:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8361,2,南宁,07:41,07:45,4分钟,11分,1,11,0,0,0,0/0/0,0/0,5.5/10
+D8361,3,隆安东,08:16,08:18,2分钟,46分,1,94,0,0,0,0/0/0,0/0,36/59
+D8361,4,田阳,08:50,08:52,2分钟,1小时20分,1,203,0,0,0,0/0/0,0/0,76.5/124
+D8361,5,百色,09:08,终点站,,1小时38分,1,234,0,0,0,0/0/0,0/0,88/142

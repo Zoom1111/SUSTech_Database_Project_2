@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6870,1,宁强南,始发站,16:32,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6870,2,汉中,16:57,17:09,12分钟,25分,1,76,0,0,0,0/0/0,0/0,30/49
+D6870,3,城固北,17:20,17:22,2分钟,48分,1,104,0,0,0,0/0/0,0/0,42/67
+D6870,4,佛坪,17:45,17:47,2分钟,1小时13分,1,178,0,0,0,0/0/0,0/0,71/114
+D6870,5,西安北,18:36,终点站,,2小时4分,1,318,0,0,0,0/0/0,0/0,97/155

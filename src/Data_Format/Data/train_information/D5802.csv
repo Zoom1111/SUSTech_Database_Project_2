@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5802/D5803,1,武汉,始发站,05:33,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5802/D5803,2,汉口,05:54,06:04,10分钟,21分,1,36,0,0,0,0/0/0,0/0,8/14
+D5802/D5803,3,枝江北,07:31,07:33,2分钟,1小时58分,1,284,0,0,0,0/0/0,0/0,83.5/99.5
+D5802/D5803,4,宜昌东,07:53,终点站,,2小时20分,1,323,0,0,0,0/0/0,0/0,91/146

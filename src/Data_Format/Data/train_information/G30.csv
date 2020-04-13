@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G30,1,合肥南,始发站,19:56,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G30,2,济南西,22:07,22:09,2分钟,2小时11分,1,594,0,0,0,0/0/0,0/0,268.5/452
+G30,3,北京南,23:33,终点站,,3小时37分,1,1000,0,0,0,0/0/0,0/0,436/734.5

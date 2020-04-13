@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7674,1,珠海,始发站,13:10,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7674,2,中山北,13:35,13:37,2分钟,25分,1,52,0,0,0,0/0/0,0/0,30/0
+C7674,3,小榄,13:46,13:48,2分钟,36分,1,71,0,0,0,0/0/0,0/0,40/0
+C7674,4,容桂,13:55,13:57,2分钟,45分,1,84,0,0,0,0/0/0,0/0,50/0
+C7674,5,碧江,14:09,14:11,2分钟,59分,1,111,0,0,0,0/0/0,0/0,0/0
+C7674,6,广州南,14:18,终点站,,1小时8分,1,116,0,0,0,0/0/0,0/0,70/90

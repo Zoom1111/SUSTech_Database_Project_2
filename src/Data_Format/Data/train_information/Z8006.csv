@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z8006,1,深圳,始发站,15:36,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z8006,2,东莞东,16:22,16:28,6分钟,46分,1,61,12.5,-,0,58.5/63.5/66.5,87.5/93.5,0/0
+Z8006,3,惠州,17:08,17:14,6分钟,1小时32分,1,115,18.5,-,0,64.5/69.5/72.5,97.5/103.5,0/0
+Z8006,4,河源,18:02,终点站,,2小时26分,1,195,29.5,-,0,75.5/80.5/83.5,115.5/121.5,0/0

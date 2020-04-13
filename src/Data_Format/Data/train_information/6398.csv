@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+6398,1,本溪,始发站,17:43,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+6398,2,寒岭,18:26,18:30,4分钟,43分,1,25,2,-,0,0/0/0,0/0,0/0
+6398,3,新寒岭,18:36,18:39,3分钟,53分,1,29,2,-,0,0/0/0,0/0,0/0
+6398,4,安平,18:50,终点站,,1小时7分,1,37,2,-,0,0/0/0,0/0,0/0

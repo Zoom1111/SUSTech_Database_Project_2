@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D4062,1,兰州西,始发站,06:35,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D4062,2,天水南,07:52,07:54,-,1小时17分,-,269,0,83/99,0,0/0/0,0/0,83/99
+D4062,3,宝鸡南,08:35,08:37,-,2小时0分,-,401,0,0/0,0,0/0/0,0/0,0/0
+D4062,4,西安北,09:26,终点站,-,2小时51分,-,568,0,174.5/231.5,0,0/0/0,0/0,174.5/231.5

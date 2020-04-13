@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9634,1,霍尔果斯,始发站,15:00,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9634,2,霍城,15:25,15:27,2分钟,25分,1,34,9,-,0,0/0/0,0/0,0/0
+K9634,3,伊宁,15:53,终点站,,53分,1,73,12.5,-,0,0/0/0,0/0,0/0

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7517,1,上海虹桥,始发站,14:56,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7517,2,杭州东,15:44,15:51,7分钟,48分,1,159,0,0,0,0/0/0,0/0,73/117
+G7517,3,绍兴北,16:10,16:12,2分钟,1小时14分,1,202,0,0,0,0/0/0,0/0,92.5/150.5
+G7517,4,余姚北,16:30,16:32,2分钟,1小时34分,1,265,0,0,0,0/0/0,0/0,121.5/199
+G7517,5,宁波,16:51,终点站,,1小时55分,1,314,0,0,0,0/0/0,0/0,144/237

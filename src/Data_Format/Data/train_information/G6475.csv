@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6475,1,长沙南,始发站,08:28,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6475,2,娄底南,09:03,09:05,2分钟,35分,1,125,0,0,0,0/0/0,0/0,57.5/96.5
+G6475,3,新化南,09:29,09:31,2分钟,1小时1分,1,214,0,0,0,0/0/0,0/0,98.5/165.5
+G6475,4,怀化南,10:04,终点站,,1小时36分,1,382,0,0,0,0/0/0,0/0,158/256.5

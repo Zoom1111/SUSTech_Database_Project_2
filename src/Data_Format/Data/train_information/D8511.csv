@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8511,1,哈尔滨,始发站,09:25,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8511,2,牡丹江,10:53,10:57,4分钟,1小时28分,1,300,0,0,0,0/0/0,0/0,111/178
+D8511,3,绥芬河,11:56,终点站,,2小时31分,1,437,0,0,0,0/0/0,0/0,162/259

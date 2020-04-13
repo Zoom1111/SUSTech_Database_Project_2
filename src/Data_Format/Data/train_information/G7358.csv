@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7358,1,杭州,始发站,06:10,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7358,2,嘉兴南,06:39,06:41,2分钟,29分,1,85,0,0,0,0/0/0,0/0,38.5/62.5
+G7358,3,上海虹桥,07:08,07:10,2分钟,58分,1,169,0,0,0,0/0/0,0/0,77.5/123.5
+G7358,4,上海,07:36,终点站,,1小时26分,1,202,0,0,0,0/0/0,0/0,92.5/147.5

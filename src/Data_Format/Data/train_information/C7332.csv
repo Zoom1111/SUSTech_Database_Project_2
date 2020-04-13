@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7332,1,三亚,始发站,16:04,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7332,2,美兰,17:17,17:20,3分钟,1小时13分,1,270,0,0,0,0/0/0,0/0,95/129
+C7332,3,海口东,17:31,终点站,,1小时27分,1,284,0,0,0,0/0/0,0/0,83/0

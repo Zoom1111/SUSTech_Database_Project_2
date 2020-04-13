@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6363,1,贵阳北,始发站,11:15,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6363,2,百宜,11:36,11:38,2分钟,21分,1,39,0,0,0,0/0/0,0/0,12/14.5
+C6363,3,南江,11:47,11:49,2分钟,32分,1,48,0,0,0,0/0/0,0/0,15/18
+C6363,4,开阳,12:02,终点站,,47分,1,65,0,0,0,0/0/0,0/0,20/24

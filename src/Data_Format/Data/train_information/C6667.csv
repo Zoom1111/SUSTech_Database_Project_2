@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6667,1,成都东,始发站,15:08,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6667,2,新津,15:28,15:30,2分钟,20分,1,36,0,0,0,0/0/0,0/0,0/0
+C6667,3,宜宾西,16:50,终点站,,1小时42分,1,276,0,0,0,0/0/0,0/0,110/176

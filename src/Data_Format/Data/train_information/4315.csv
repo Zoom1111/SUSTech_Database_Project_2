@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+4315,1,本溪,始发站,09:45,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+4315,2,偏岭,10:30,10:32,2分钟,45分,1,28,3,-,0,0/0/0,0/0,0/0
+4315,3,松树台,10:43,10:43,,58分,1,35,3,-,0,0/0/0,0/0,0/0
+4315,4,温泉寺,10:53,10:53,,1小时8分,1,40,3,-,0,0/0/0,0/0,0/0
+4315,5,小市,11:04,终点站,,1小时19分,1,48,4,-,0,0/0/0,0/0,0/0

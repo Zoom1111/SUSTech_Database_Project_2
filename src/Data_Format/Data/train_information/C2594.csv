@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2594,1,滨海,始发站,20:37,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2594,2,塘沽,20:46,20:48,2分钟,9分,1,5,0,0,0,0/0/0,0/0,5/9
+C2594,3,天津,21:06,21:10,4分钟,29分,1,45,0,0,0,0/0/0,0/0,12/20
+C2594,4,北京南,21:40,终点站,,1小时3分,1,165,0,0,0,0/0/0,0/0,66.5/108

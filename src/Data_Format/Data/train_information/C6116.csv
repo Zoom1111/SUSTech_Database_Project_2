@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6116,1,青城山,始发站,09:51,,-1分,1,0,0,0,0,0/0/0,0/0,0/0
+C6116,2,都江堰,09:59,10:04,5分钟,-1分,1,8,0,0,0,0/0/0,0/0,5/0
+C6116,3,犀浦,10:25,终点站,,-1分,1,47,0,0,0,0/0/0,0/0,0/10

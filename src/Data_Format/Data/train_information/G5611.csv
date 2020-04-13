@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G5611,1,深圳北,始发站,06:45,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G5611,2,香港西九龙,07:03,终点站,,18分,1,39,0,0,0,0/0/0,0/0,75/120

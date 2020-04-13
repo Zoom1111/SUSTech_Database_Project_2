@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G23,1,北京南,始发站,13:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G23,2,天津南,13:31,13:34,3分钟,31分,1,122,0,0,0,0/0/0,0/0,54.5/94.5
+G23,3,济南西,14:31,14:33,2分钟,1小时31分,1,406,0,0,0,0/0/0,0/0,184.5/314.5
+G23,4,合肥南,16:44,终点站,,3小时44分,1,1000,0,0,0,0/0/0,0/0,553/933

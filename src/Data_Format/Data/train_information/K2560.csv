@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K2560,1,赤峰南,始发站,20:23,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K2560,2,隆化,23:21,23:36,15分钟,2小时58分,1,212,-,-,0,78.5/83.5/86.5,118.5/124.5,0/0
+K2560,3,北京,04:56,终点站,,8小时33分,2,477,-,-,0,123/126/130,186/194,0/0

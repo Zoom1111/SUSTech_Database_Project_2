@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G5400,1,贵阳北,始发站,07:09,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G5400,2,凯里南,07:47,07:49,2分钟,38分,1,127,0,0,0,0/0/0,0/0,58.5/98
+G5400,3,铜仁南,08:25,终点站,,1小时16分,1,267,0,0,0,0/0/0,0/0,122.5/206.5

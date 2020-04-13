@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5949,1,汉口,始发站,09:03,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5949,2,汉川,09:26,09:28,2分钟,23分,1,46,0,0,0,0/0/0,0/0,17/27
+D5949,3,潜江,10:01,10:04,3分钟,58分,1,134,0,0,0,0/0/0,0/0,63/101
+D5949,4,宜昌东,11:00,终点站,,1小时57分,1,292,0,0,0,0/0/0,0/0,103/165

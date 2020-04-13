@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7641,1,沈阳,始发站,06:10,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7641,2,沈阳南,06:21,06:23,2分钟,11分,1,15,0,0,0,0/0/0,0/0,6/10
+D7641,3,本溪,06:47,06:49,2分钟,37分,1,76,0,0,0,0/0/0,0/0,25/40
+D7641,4,凤城东,07:19,07:21,2分钟,1小时9分,1,178,0,0,0,0/0/0,0/0,56.5/90
+D7641,5,丹东,07:38,终点站,,1小时28分,1,223,0,0,0,0/0/0,0/0,70/113

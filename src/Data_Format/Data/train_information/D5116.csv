@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5113/D5116,1,成都东,始发站,15:42,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5113/D5116,2,遂宁,16:39,16:43,4分钟,57分,1,146,0,0,0,0/0/0,0/0,45/72
+D5113/D5116,3,南充北,17:17,17:20,3分钟,1小时35分,1,211,0,0,0,0/0/0,0/0,69/86
+D5113/D5116,4,南部,17:49,17:52,3分钟,2小时7分,1,272,0,0,0,0/0/0,0/0,87/115
+D5113/D5116,5,阆中,18:05,终点站,,2小时23分,1,293,0,0,0,0/0/0,0/0,95/127.5

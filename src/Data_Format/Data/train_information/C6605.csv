@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6605,1,成都西,始发站,08:04,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6605,2,崇州,08:20,08:22,2分钟,16分,1,33,0,0,0,0/0/0,0/0,12/0
+C6605,3,邛崃,08:36,08:38,2分钟,32分,1,67,0,0,0,0/0/0,0/0,25/0
+C6605,4,蒲江,08:50,08:52,2分钟,46分,1,92,0,0,0,0/0/0,0/0,0/0
+C6605,5,雅安,09:16,终点站,,1小时12分,1,140,0,0,0,0/0/0,0/0,52/83

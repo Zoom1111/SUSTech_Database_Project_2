@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2841,1,郑州,始发站,09:05,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2841,2,新郑机场,09:32,终点站,,27分,1,37,0,0,0,0/0/0,0/0,16/0

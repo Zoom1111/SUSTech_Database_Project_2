@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6666,1,宜宾西,始发站,13:10,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6666,2,成都东,14:46,终点站,,1小时36分,1,276,0,0,0,0/0/0,0/0,110/176

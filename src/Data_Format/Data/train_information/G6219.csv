@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6219,1,广州北,始发站,12:32,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6219,2,广州南,12:54,12:58,4分钟,22分,1,57,0,0,0,0/0/0,0/0,19.5/34.5
+G6219,3,深圳北,13:28,终点站,,56分,1,149,0,0,0,0/0/0,0/0,94/134

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7631/G7634,1,合肥南,始发站,12:43,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7631/G7634,2,南京南,13:35,13:41,6分钟,52分,1,157,0,0,0,0/0/0,0/0,67/107
+G7631/G7634,3,溧水,13:57,13:59,2分钟,1小时14分,1,203,0,0,0,0/0/0,0/0,88/142.5
+G7631/G7634,4,湖州,14:34,14:36,2分钟,1小时51分,1,342,0,0,0,0/0/0,0/0,152/250
+G7631/G7634,5,杭州东,14:57,终点站,,2小时14分,1,611,0,0,0,0/0/0,0/0,275.5/452

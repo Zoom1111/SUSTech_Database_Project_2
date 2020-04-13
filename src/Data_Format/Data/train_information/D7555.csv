@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7555,1,广州南,始发站,07:04,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7555,2,新会,07:37,07:39,2分钟,33分,1,72,0,0,0,0/0/0,0/0,45/60
+D7555,3,阳江,08:34,08:36,2分钟,1小时30分,1,223,0,0,0,0/0/0,0/0,122/182
+D7555,4,茂名,09:19,09:21,2分钟,2小时15分,1,340,0,0,0,0/0/0,0/0,181/278
+D7555,5,湛江西,09:57,终点站,,2小时53分,1,430,0,0,0,0/0/0,0/0,228/352

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D2980,1,广州南,始发站,17:19,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D2980,2,佛山西,17:38,17:40,2分钟,19分,1,33,0,0,0,0/0/0,0/0,10/16
+D2980,3,怀集,18:25,18:27,2分钟,1小时6分,1,171,0,0,0,0/0/0,0/0,63/101
+D2980,4,恭城,19:20,19:22,2分钟,2小时1分,1,345,0,0,0,0/0/0,0/0,128/204
+D2980,5,桂林北,19:57,终点站,,2小时38分,1,766,0,0,0,0/0/0,0/0,137.5/165

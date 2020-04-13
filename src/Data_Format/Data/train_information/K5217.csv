@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K5217,1,北京西,始发站,21:50,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K5217,2,保定,23:42,23:48,6分钟,1小时52分,1,146,23.5,-,0,69.5/77/80,0/0,0/0
+K5217,3,石家庄,01:14,01:34,20分钟,3小时24分,2,281,43.5,-,0,89.5/99/103,0/0,0/0
+K5217,4,邢台,02:40,02:42,2分钟,4小时50分,2,390,54.5,-,0,100.5/111/116,0/0,0/0
+K5217,5,邯郸,03:20,终点站,,5小时30分,2,442,64.5,-,0,115.5/128/133,0/0,0/0

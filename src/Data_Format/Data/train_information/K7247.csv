@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7247,1,齐齐哈尔,始发站,10:55,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7247,2,大民屯,11:05,11:07,2分钟,10分,1,9,3,-,0,0/0/0,0/0,0/0
+K7247,3,昂昂溪,11:24,11:25,1分钟,29分,1,28,4,-,0,0/0/0,0/0,0/0
+K7247,4,富拉尔基,11:39,11:41,2分钟,44分,1,42,5,-,0,0/0/0,0/0,0/0
+K7247,5,碾子山,12:45,终点站,,1小时50分,1,113,9.5,-,0,0/0/0,0/0,0/0

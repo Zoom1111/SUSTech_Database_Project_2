@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7570,1,长沙,始发站,12:12,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7570,2,益阳,13:05,13:07,2分钟,53分,1,97,0,0,0,0/0/0,0/0,26/0
+D7570,3,常德,14:05,14:08,3分钟,1小时53分,1,198,0,0,0,0/0/0,0/0,53/0
+D7570,4,临澧,14:38,14:40,2分钟,2小时26分,1,246,0,0,0,0/0/0,0/0,66/0
+D7570,5,石门县北,15:02,终点站,,2小时50分,1,279,0,0,0,0/0/0,0/0,74/0

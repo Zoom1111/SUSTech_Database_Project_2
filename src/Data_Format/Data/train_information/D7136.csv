@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7136,1,珠海,始发站,21:16,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7136,2,中山,21:39,21:46,7分钟,23分,1,46,0,0,0,0/0/0,0/0,30/40
+D7136,3,广州南,22:14,终点站,,58分,1,116,0,0,0,0/0/0,0/0,70/90

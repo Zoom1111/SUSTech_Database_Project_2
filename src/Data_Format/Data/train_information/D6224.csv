@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6224,1,厦门,始发站,18:11,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6224,2,泉州,18:57,18:59,2分钟,46分,1,102,0,0,0,0/0/0,0/0,34/54
+D6224,3,莆田,19:24,19:26,2分钟,1小时13分,1,171,0,0,0,0/0/0,0/0,58/89
+D6224,4,福州,20:09,终点站,,1小时58分,1,276,0,0,0,0/0/0,0/0,80.5/97.5

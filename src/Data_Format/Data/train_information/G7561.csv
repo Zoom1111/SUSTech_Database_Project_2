@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7561,1,上海虹桥,始发站,19:16,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7561,2,嘉兴南,19:45,19:47,2分钟,29分,1,84,0,0,0,0/0/0,0/0,38.5/61.5
+G7561,3,杭州东,20:10,20:15,5分钟,54分,1,159,0,0,0,0/0/0,0/0,73/117
+G7561,4,绍兴北,20:34,20:36,2分钟,1小时18分,1,202,0,0,0,0/0/0,0/0,92.5/150.5
+G7561,5,宁波,21:08,终点站,,1小时52分,1,314,0,0,0,0/0/0,0/0,144/237

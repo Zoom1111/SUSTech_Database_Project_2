@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2951,1,焦作,始发站,10:34,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2951,2,武陟,10:50,10:52,2分钟,16分,1,34,0,0,0,0/0/0,0/0,12/19
+C2951,3,郑州,11:16,终点站,,42分,1,78,0,0,0,0/0/0,0/0,28/45

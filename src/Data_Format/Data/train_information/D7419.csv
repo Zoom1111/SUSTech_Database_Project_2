@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7419,1,潮汕,始发站,07:24,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7419,2,普宁,07:45,07:47,2分钟,21分,1,53,0,0,0,0/0/0,0/0,20/31
+D7419,3,陆丰,08:11,08:13,2分钟,47分,1,114,0,0,0,0/0/0,0/0,40/64
+D7419,4,惠东,08:49,08:51,2分钟,1小时25分,1,217,0,0,0,0/0/0,0/0,76/122
+D7419,5,深圳北,09:33,终点站,,2小时9分,1,305,0,0,0,0/0/0,0/0,107/171

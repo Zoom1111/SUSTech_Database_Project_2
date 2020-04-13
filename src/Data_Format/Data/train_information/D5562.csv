@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5562,1,南京,始发站,05:31,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D5562/D5563,1,南京,始发站,05:31,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D5562/D5563,2,扬州,06:20,终点站,-,49分,-,0,0,37.5/61,0,0/0/0,0/0,37.5/61
+D5562,2,扬州,06:20,终点站,-,49分,-,101,0,37.5/58,0,0/0/0,0/0,37.5/58

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7696,1,珠海,始发站,13:20,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7696,2,唐家湾,13:35,13:37,2分钟,15分,1,19,0,0,0,0/0/0,0/0,0/0
+C7696,3,小榄,13:56,13:58,2分钟,36分,1,71,0,0,0,0/0/0,0/0,40/0
+C7696,4,顺德学院,14:08,14:10,2分钟,48分,1,93,0,0,0,0/0/0,0/0,55/0
+C7696,5,广州南,14:23,终点站,,1小时3分,1,116,0,0,0,0/0/0,0/0,70/90

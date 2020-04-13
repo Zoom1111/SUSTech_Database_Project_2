@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7605,1,广州南,始发站,12:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7605,2,顺德学院,12:41,12:43,2分钟,11分,1,23,0,0,0,0/0/0,0/0,15/0
+C7605,3,明珠,13:14,13:16,2分钟,44分,1,109,0,0,0,0/0/0,0/0,65/0
+C7605,4,珠海,13:29,终点站,,59分,1,116,0,0,0,0/0/0,0/0,70/90

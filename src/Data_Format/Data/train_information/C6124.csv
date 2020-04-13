@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6124,1,青城山,始发站,11:36,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6124,2,都江堰,11:44,11:48,4分钟,8分,1,8,0,0,0,0/0/0,0/0,0/5
+C6124,3,犀浦,12:08,12:13,5分钟,32分,1,47,0,0,0,0/0/0,0/0,0/10
+C6124,4,安靖,12:19,终点站,,43分,1,57,0,0,0,0/0/0,0/0,15/0

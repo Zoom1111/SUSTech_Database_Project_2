@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8313,1,南宁东,始发站,16:18,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8313,2,钦州东,17:00,17:02,2分钟,42分,1,106,0,0,0,0/0/0,0/0,31/37
+D8313,3,合浦,17:29,17:37,8分钟,1小时11分,1,174,0,0,0,0/0/0,0/0,51/61.5
+D8313,4,北海,17:51,终点站,,1小时33分,1,197,0,0,0,0/0/0,0/0,58/92

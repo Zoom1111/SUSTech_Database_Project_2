@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G26,1,西安北,始发站,09:18,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G26,2,郑州东,11:08,11:11,3分钟,1小时50分,1,519,0,0,0,0/0/0,0/0,239/382
+G26,3,石家庄,12:39,12:41,2分钟,3小时21分,1,931,0,0,0,0/0/0,0/0,408.5/654.5
+G26,4,北京西,13:50,终点站,,4小时32分,1,1212,0,0,0,0/0/0,0/0,515.5/824.5

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8048,1,沈阳北,始发站,09:13,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8048,2,沈阳,09:21,09:24,3分钟,8分,1,5,0,0,0,0/0/0,0/0,8.5/14.5
+G8048,3,辽阳,09:48,09:50,2分钟,35分,1,70,0,0,0,0/0/0,0/0,31.5/51.5
+G8048,4,大连,11:20,终点站,,2小时7分,1,400,0,0,0,0/0/0,0/0,183.5/293.5

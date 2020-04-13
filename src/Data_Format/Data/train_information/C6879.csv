@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6879,1,广州,始发站,21:40,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6879,2,佛山西,22:00,22:02,2分钟,20分,1,30,0,0,0,0/0/0,0/0,20/0
+C6879,3,三水北,22:11,22:12,1分钟,31分,1,48,0,0,0,0/0/0,0/0,30/0
+C6879,4,肇庆,22:43,终点站,,1小时3分,1,111,0,0,0,0/0/0,0/0,65/0

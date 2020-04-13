@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6125,1,长沙南,始发站,20:11,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6125,2,衡阳东,20:48,20:50,2分钟,37分,1,177,0,0,0,0/0/0,0/0,79.5/129.5
+G6125,3,祁东,21:19,21:21,2分钟,1小时8分,1,250,0,0,0,0/0/0,0/0,103/155.5
+G6125,4,祁阳,21:35,21:37,2分钟,1小时24分,1,279,0,0,0,0/0/0,0/0,111.5/166
+G6125,5,永州,21:54,终点站,,1小时43分,1,312,0,0,0,0/0/0,0/0,121/177.5

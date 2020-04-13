@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G2906,1,深圳北,始发站,14:24,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G2906,2,广州南,14:54,14:58,4分钟,30分,1,102,0,0,0,0/0/0,0/0,74.5/99.5
+G2906,3,肇庆东,15:34,15:36,2分钟,1小时10分,1,178,0,0,0,0/0/0,0/0,102.5/144.5
+G2906,4,贺州,16:29,16:31,2分钟,2小时5分,1,363,0,0,0,0/0/0,0/0,171.5/254.5
+G2906,5,桂林北,17:29,终点站,,3小时5分,1,548,0,0,0,0/0/0,0/0,239.5/363.5

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7908,1,东胜西,始发站,11:56,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7908,2,包头,13:16,13:24,8分钟,1小时20分,1,111,18.5,-,0,64.5/69.5/72.5,97.5/103.5,0/0
+K7908,3,包头东,13:39,13:43,4分钟,1小时43分,1,127,19.5,-,0,65.5/70.5/73.5,99.5/105.5,0/0
+K7908,4,呼和浩特,15:11,终点站,,3小时15分,1,276,41.5,-,0,87.5/92.5/95.5,132.5/138.5,0/0

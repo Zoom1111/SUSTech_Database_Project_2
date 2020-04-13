@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7430/D7431,1,汕头,始发站,18:29,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7430/D7431,2,潮汕,18:53,19:01,8分钟,24分,1,29,0,0,0,0/0/0,0/0,11/17
+D7430/D7431,3,鲘门,20:04,20:06,2分钟,1小时35分,1,211,0,0,0,0/0/0,0/0,0/0
+D7430/D7431,4,深圳坪山,20:37,20:39,2分钟,2小时8分,1,298,0,0,0,0/0/0,0/0,104/167
+D7430/D7431,5,深圳北,21:05,终点站,,2小时36分,1,334,0,0,0,0/0/0,0/0,117/187

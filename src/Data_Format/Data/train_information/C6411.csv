@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6411,1,万州北,始发站,11:42,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6411,2,复盛,12:54,12:56,2分钟,1小时12分,1,219,0,0,0,0/0/0,0/0,88/140
+C6411,3,重庆北,13:12,终点站,,1小时30分,1,245,0,0,0,0/0/0,0/0,98/157

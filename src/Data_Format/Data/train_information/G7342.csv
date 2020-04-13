@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7342,1,青田,21:33,21:35,2分钟,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7342,2,丽水,21:55,21:57,2分钟,20分,1,,0,0,0,0/0/0,0/0,227.5/363
+G7342,3,义乌,22:45,22:47,2分钟,1小时10分,1,188,0,0,0,0/0/0,0/0,73/118.5
+G7342,4,杭州东,23:19,终点站,,1小时44分,1,297,0,0,0,0/0/0,0/0,123/202.5

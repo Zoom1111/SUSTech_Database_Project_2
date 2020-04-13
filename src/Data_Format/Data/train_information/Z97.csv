@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z97,1,北京西,始发站,12:40,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z97,2,郑州,18:25,18:31,6分钟,5小时45分,1,689,-,-,0,163/168/174,251/263,0/0
+Z97,3,长沙,02:29,02:35,6分钟,13小时49分,2,1587,-,-,0,322.5/333.5/343.5,504.5/527.5,0/0
+Z97,4,广州东,10:00,终点站,,21小时20分,2,2302,-,-,0,426/441/456,750/784,0/0

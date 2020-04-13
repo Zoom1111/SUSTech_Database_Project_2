@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5033,1,重庆北,始发站,15:28,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5033,2,合川,16:03,16:06,3分钟,35分,1,56,0,0,0,0/0/0,0/0,19.5/24.5
+D5033,3,南充北,17:01,17:04,3分钟,1小时33分,1,165,0,0,0,0/0/0,0/0,51/84
+D5033,4,阆中,17:47,17:50,3分钟,2小时19分,1,247,0,0,0,0/0/0,0/0,88/133.5
+D5033,5,广元,18:46,终点站,,3小时18分,1,353,0,0,0,0/0/0,0/0,114/184

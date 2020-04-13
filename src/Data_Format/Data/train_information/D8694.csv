@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8691/D8694,1,大理,始发站,18:44,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8691/D8694,2,南华,19:29,19:31,2分钟,45分,1,116,0,0,0,0/0/0,0/0,58/93
+D8691/D8694,3,广通北,19:56,20:08,12分钟,1小时12分,1,175,0,0,0,0/0/0,0/0,88/140
+D8691/D8694,4,昆明,20:55,21:02,7分钟,2小时11分,1,328,0,0,0,0/0/0,0/0,145/231
+D8691/D8694,5,昆明南,21:20,终点站,,2小时36分,1,356,0,0,0,0/0/0,0/0,155.5/247.5

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6282,1,成都东,始发站,22:32,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6282,2,德阳,22:55,22:57,2分钟,23分,1,66,0,0,0,0/0/0,0/0,26/32
+C6282,3,绵阳,23:15,终点站,,43分,1,113,0,0,0,0/0/0,0/0,45/54

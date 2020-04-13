@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6020,1,潍坊,始发站,06:20,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6020,2,青州市,06:41,06:43,2分钟,21分,1,57,0,0,0,0/0/0,0/0,17.5/20.5
+D6020,3,淄博,07:00,07:03,3分钟,40分,1,100,0,0,0,0/0/0,0/0,30.5/49
+D6020,4,济南,07:50,07:55,5分钟,1小时30分,1,210,0,0,0,0/0/0,0/0,64.5/104
+D6020,5,济南西,08:11,终点站,,1小时51分,1,230,0,0,0,0/0/0,0/0,70.5/114

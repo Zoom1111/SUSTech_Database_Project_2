@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6620,1,秦皇岛,始发站,15:17,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6620,2,北戴河,15:34,15:36,2分钟,17分,1,21,0,0,0,0/0/0,0/0,6.5/10.5
+D6620,3,北京,17:41,终点站,,2小时24分,1,299,0,0,0,0/0/0,0/0,87.5/141

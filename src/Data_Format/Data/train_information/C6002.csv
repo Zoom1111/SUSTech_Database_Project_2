@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6002,1,重庆西,始发站,09:17,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6002,2,永川东,09:42,09:49,7分钟,25分,1,57,0,0,0,0/0/0,0/0,0/0
+C6002,3,大足南,09:59,10:07,8分钟,42分,1,79,0,0,0,0/0/0,0/0,32/51
+C6002,4,荣昌北,10:15,10:22,7分钟,58分,1,89,0,0,0,0/0/0,0/0,36/57
+C6002,5,成都东,11:24,终点站,,2小时7分,1,302,0,0,0,0/0/0,0/0,121/193

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7251,1,双城堡,始发站,06:35,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7251,2,五家,06:48,07:10,22分钟,13分,1,18,3,-,0,37/40/42,0/0,0/0
+K7251,3,王岗,07:26,07:29,3分钟,51分,1,38,4,-,0,38/41/43,0/0,0/0
+K7251,4,哈尔滨,07:47,07:57,10分钟,1小时12分,1,51,5,-,0,39/42/44,0/0,0/0
+K7251,5,哈尔滨东,08:24,终点站,,1小时49分,1,60,5,-,0,39/42/44,0/0,0/0

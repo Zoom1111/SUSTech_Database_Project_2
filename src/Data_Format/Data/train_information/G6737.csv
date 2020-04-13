@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6737,1,北京西,始发站,05:34,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6737,2,保定东,06:15,06:17,2分钟,41分,1,139,0,0,0,0/0/0,0/0,63.5/101.5
+G6737,3,石家庄,06:53,06:56,3分钟,1小时19分,1,281,0,0,0,0/0/0,0/0,128.5/206.5
+G6737,4,邯郸东,07:34,终点站,,2小时0分,1,456,0,0,0,0/0/0,0/0,209/335

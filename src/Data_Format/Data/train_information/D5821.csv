@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5821/D5824,1,汉口,始发站,19:08,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5821/D5824,2,汉川,19:31,19:33,2分钟,23分,1,46,0,0,0,0/0/0,0/0,17/27
+D5821/D5824,3,仙桃西,19:58,20:00,2分钟,50分,1,114,0,0,0,0/0/0,0/0,42/68
+D5821/D5824,4,潜江,20:11,20:13,2分钟,1小时3分,1,134,0,0,0,0/0/0,0/0,63/101
+D5821/D5824,5,荆州,20:39,终点站,,1小时31分,1,204,0,0,0,0/0/0,0/0,76/121

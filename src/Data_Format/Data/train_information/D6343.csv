@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6343,1,九江,始发站,08:41,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6343,2,庐山,08:52,08:54,2分钟,11分,1,19,0,0,0,0/0/0,0/0,5.5/6.5
+D6343,3,德安,09:08,09:10,2分钟,27分,1,55,0,0,0,0/0/0,0/0,5.5/6.5
+D6343,4,永修,09:24,09:26,2分钟,43分,1,89,0,0,0,0/0/0,0/0,26.5/42
+D6343,5,南昌,09:48,终点站,,1小时7分,1,135,0,0,0,0/0/0,0/0,39.5/46.5

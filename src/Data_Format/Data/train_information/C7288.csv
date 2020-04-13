@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7288,1,深圳北,始发站,16:33,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7288,2,惠州南,16:59,17:01,2分钟,26分,1,56,0,0,0,0/0/0,0/0,20/31
+C7288,3,汕尾,17:36,终点站,,1小时3分,1,156,0,0,0,0/0/0,0/0,55/87

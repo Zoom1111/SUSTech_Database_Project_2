@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6628,1,邛崃,始发站,16:04,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6628,2,大邑,16:13,16:15,2分钟,9分,1,18,0,0,0,0/0/0,0/0,7/0
+C6628,3,羊马,16:26,16:28,2分钟,22分,1,41,0,0,0,0/0/0,0/0,15/0
+C6628,4,成都西,16:43,终点站,,39分,1,67,0,0,0,0/0/0,0/0,0/0

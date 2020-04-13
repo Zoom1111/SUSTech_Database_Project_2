@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7787,1,北京东,始发站,19:21,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7787,2,燕郊,19:43,19:45,2分钟,22分,1,31,9,-,0,55/60/63,0/0,0/0
+K7787,3,蓟州北,20:23,终点站,,1小时2分,1,83,14.5,-,0,60.5/65.5/68.5,0/0,0/0

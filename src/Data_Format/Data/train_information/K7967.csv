@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7966/K7967,1,濮阳,始发站,15:48,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7966/K7967,2,安阳,17:17,17:44,27分钟,1小时29分,1,99,15.5,-,0,61.5/66.5/69.5,92.5/98.5,0/0
+K7966/K7967,3,新乡,18:49,18:55,6分钟,3小时1分,1,206,25.5,-,0,71.5/76.5/79.5,108.5/114.5,0/0
+K7966/K7967,4,郑州,19:54,终点站,,4小时6分,1,286,40.5,-,0,86.5/91.5/94.5,129.5/135.5,0/0

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7542,1,西丰,始发站,07:30,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7542,2,开原,08:27,08:32,5分钟,57分,1,67,6,10.5,0,40/44/46,0/0,0/0
+K7542,3,铁岭,08:58,09:01,3分钟,1小时28分,1,101,8.5,15.5,0,42.5/47/49,0/0,0/0
+K7542,4,沈阳,09:56,终点站,,2小时26分,1,168,28.5,39.5,0,74.5/79.5/82.5,0/0,0/0

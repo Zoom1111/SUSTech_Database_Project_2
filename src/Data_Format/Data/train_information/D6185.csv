@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6185/D6188,1,万州北,始发站,19:37,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6185/D6188,2,梁平南,20:03,20:05,2分钟,26分,1,65,0,0,0,0/0/0,0/0,26/42
+D6185/D6188,3,垫江,20:25,20:27,2分钟,48分,1,118,0,0,0,0/0/0,0/0,47/76
+D6185/D6188,4,重庆北,21:13,21:21,8分钟,1小时36分,1,245,0,0,0,0/0/0,0/0,98/157
+D6185/D6188,5,重庆西,21:44,终点站,,2小时7分,1,275,0,0,0,0/0/0,0/0,0/0

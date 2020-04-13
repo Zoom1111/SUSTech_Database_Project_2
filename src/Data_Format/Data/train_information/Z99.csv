@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z99,1,上海,始发站,17:45,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z99,2,金华,20:55,20:59,4分钟,3小时10分,1,390,54.5,-,0,100.5/105.5/108.5,0/0,0/0
+Z99,3,株洲,02:57,03:14,17分钟,9小时12分,2,1155,148.5,-,0,254.5/263.5/272.5,0/0,0/0
+Z99,4,广州东,10:06,11:04,58分钟,16小时21分,2,1818,206,-,0,353/365/377,640/679,0/0
+Z99,5,香港红磡,13:01,终点站,,19小时16分,2,1991,224,-,0,381/393/407,0/0,0/0

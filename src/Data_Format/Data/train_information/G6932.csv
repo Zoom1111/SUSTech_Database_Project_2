@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6932,1,威海,始发站,07:43,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6932,2,烟台南,08:10,08:12,2分钟,27分,1,73,0,0,0,0/0/0,0/0,22.5/36
+G6932,3,海阳北,08:35,08:37,2分钟,52分,1,132,0,0,0,0/0/0,0/0,40.5/65
+G6932,4,济南东,10:30,10:33,3分钟,2小时47分,1,547,0,0,0,0/0/0,0/0,218/348
+G6932,5,济南西,10:56,终点站,,3小时13分,1,591,0,0,0,0/0/0,0/0,234/374

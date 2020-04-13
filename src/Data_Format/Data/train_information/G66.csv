@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G66,1,广州南,始发站,10:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G66,2,长沙南,12:17,12:20,3分钟,2小时17分,1,707,0,0,0,0/0/0,0/0,314/504
+G66,3,郑州东,15:25,15:28,3分钟,5小时25分,1,1605,0,0,0,0/0/0,0/0,653/1046
+G66,4,石家庄,16:50,16:53,3分钟,6小时50分,1,2017,0,0,0,0/0/0,0/0,785.5/1256.5
+G66,5,北京西,18:00,终点站,,8小时0分,1,2298,0,0,0,0/0/0,0/0,862/1380

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T7781/T7784,1,盐城,始发站,18:55,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+T7781/T7784,2,东台,19:46,19:49,3分钟,51分,1,63,-,18.5,0,0/0/0,0/0,0/0
+T7781/T7784,3,泰州,20:43,20:51,8分钟,1小时48分,1,157,23.5,-,0,69.5/74.5/77.5,105.5/111.5,0/0
+T7781/T7784,4,扬州,21:27,21:30,3分钟,2小时32分,1,221,-,56.5,0,0/0/0,0/0,0/0
+T7781/T7784,5,南京,22:30,终点站,,3小时35分,1,322,-,77.5,0,0/0/0,0/0,0/0

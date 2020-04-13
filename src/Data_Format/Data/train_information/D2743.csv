@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D2743,1,兰州西,始发站,06:40,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D2743,2,西宁,08:47,08:57,10分钟,2小时7分,1,188,0,0,0,0/0/0,0/0,58/69.5
+D2743,3,张掖西,10:41,10:43,2分钟,4小时1分,1,485,0,0,0,0/0/0,0/0,149.5/179.5
+D2743,4,嘉峪关南,11:55,终点站,,5小时15分,1,697,0,0,0,0/0/0,0/0,215/258

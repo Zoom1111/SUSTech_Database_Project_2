@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6113,1,丰都,始发站,19:33,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6113,2,涪陵北,19:52,20:01,9分钟,19分,1,42,0,0,0,0/0/0,0/0,12.5/14.5
+D6113,3,重庆北,20:39,终点站,,1小时6分,1,134,0,0,0,0/0/0,0/0,39.5/47

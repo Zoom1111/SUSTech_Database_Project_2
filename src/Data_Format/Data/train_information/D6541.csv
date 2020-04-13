@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6541,1,泰宁,始发站,07:45,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6541,2,将乐,08:02,08:04,2分钟,17分,1,42,0,0,0,0/0/0,0/0,0/0
+D6541,3,三明北,08:23,08:25,2分钟,38分,1,92,0,0,0,0/0/0,0/0,27/32.5
+D6541,4,尤溪,08:44,08:46,2分钟,59分,1,134,0,0,0,0/0/0,0/0,0/0
+D6541,5,福州,09:41,终点站,,1小时56分,1,287,0,0,0,0/0/0,0/0,0/0

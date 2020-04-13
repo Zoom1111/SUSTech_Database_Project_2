@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6635,1,北京,始发站,10:57,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6635,2,蓟州,11:44,11:47,3分钟,47分,1,83,0,0,0,0/0/0,0/0,24/39
+D6635,3,唐山北,12:22,12:25,3分钟,1小时25分,1,151,0,0,0,0/0/0,0/0,44.5/52.5
+D6635,4,北戴河,13:24,13:31,7分钟,2小时27分,1,277,0,0,0,0/0/0,0/0,81.5/97.5
+D6635,5,秦皇岛,13:48,终点站,,2小时51分,1,299,0,0,0,0/0/0,0/0,87.5/104.5

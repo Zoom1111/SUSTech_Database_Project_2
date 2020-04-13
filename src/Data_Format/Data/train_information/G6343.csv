@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6342/G6343,1,潮汕,始发站,06:08,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6342/G6343,2,惠州南,07:32,07:34,2分钟,1小时24分,1,249,0,0,0,0/0/0,0/0,87/140
+G6342/G6343,3,深圳坪山,07:44,07:46,2分钟,1小时36分,1,269,0,0,0,0/0/0,0/0,95/150
+G6342/G6343,4,深圳北,08:11,08:14,3分钟,2小时3分,1,305,0,0,0,0/0/0,0/0,107/171
+G6342/G6343,5,广州南,08:44,终点站,,2小时36分,1,407,0,0,0,0/0/0,0/0,181.5/270.5

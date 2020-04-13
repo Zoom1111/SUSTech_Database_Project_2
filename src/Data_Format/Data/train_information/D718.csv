@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D718,1,杭州,始发站,17:32,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D718,2,海宁,18:06,18:08,2分钟,34分,1,65,0,0,0,102/109/119,153/172,11/0
+D718,3,南京,21:34,21:40,6分钟,4小时2分,1,471,0,0,0,120/128/140,179/203,80/0
+D718,4,天津西,05:51,05:53,2分钟,12小时19分,2,1485,0,0,0,378/403/441,566/640,252/0
+D718,5,北京,07:07,终点站,,13小时35分,2,1633,0,0,0,416/443/485,622/704,277/0

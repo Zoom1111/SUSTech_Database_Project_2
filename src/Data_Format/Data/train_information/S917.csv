@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+S917,1,蓟州北,始发站,21:32,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+S917,2,宝坻,22:06,22:09,3分钟,34分,1,40,9,-,0,0/0/0,0/0,0/0
+S917,3,天津,23:11,终点站,,1小时39分,1,113,27.5,-,0,0/0/0,0/0,0/0

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5767/D5770,1,武昌,始发站,12:20,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5767/D5770,2,天门南,13:05,13:07,2分钟,45分,1,103,0,0,0,0/0/0,0/0,36/57
+D5767/D5770,3,潜江,13:27,13:29,2分钟,1小时7分,1,147,0,0,0,0/0/0,0/0,54/87
+D5767/D5770,4,荆州,13:55,13:57,2分钟,1小时35分,1,224,0,0,0,0/0/0,0/0,80/129
+D5767/D5770,5,宜昌东,14:31,终点站,,2小时11分,1,312,0,0,0,0/0/0,0/0,113/181

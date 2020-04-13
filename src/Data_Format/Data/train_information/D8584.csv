@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8584,1,贵阳北,始发站,20:50,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8584,2,遵义,21:36,21:38,2分钟,46分,1,126,0,0,0,0/0/0,0/0,50/81
+D8584,3,珞璜南,22:47,22:56,9分钟,1小时57分,1,325,0,0,0,0/0/0,0/0,0/0
+D8584,4,重庆西,23:10,终点站,,2小时20分,1,347,0,0,0,0/0/0,0/0,0/0

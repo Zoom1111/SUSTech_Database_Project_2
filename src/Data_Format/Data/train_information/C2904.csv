@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2904,1,南阳寨,始发站,10:20,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2904,2,黄河景区,10:29,10:31,2分钟,9分,1,15,0,0,0,0/0/0,0/0,7/11
+C2904,3,焦作,10:55,终点站,,35分,1,70,0,0,0,0/0/0,0/0,25/39

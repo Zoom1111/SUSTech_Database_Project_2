@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G2883,1,成都东,始发站,08:50,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G2883,2,重庆西,10:08,10:16,8分钟,1小时18分,1,302,0,0,0,0/0/0,0/0,146/233.5
+G2883,3,贵阳北,12:17,12:22,5分钟,3小时27分,1,649,0,0,0,0/0/0,0/0,269/430
+G2883,4,曲靖北,13:52,13:54,2分钟,5小时2分,1,984,0,0,0,0/0/0,0/0,429/698.5
+G2883,5,昆明南,14:29,终点站,,5小时39分,1,1112,0,0,0,0/0/0,0/0,487.5/797.5

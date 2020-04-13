@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G11,1,北京南,始发站,15:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G11,2,济南西,16:22,16:24,2分钟,1小时22分,1,406,0,0,0,0/0/0,0/0,184.5/314.5
+G11,3,南京南,18:21,18:23,2分钟,3小时21分,1,1023,0,0,0,0/0/0,0/0,443.5/748.5
+G11,4,上海虹桥,19:28,终点站,,4小时28分,1,1318,0,0,0,0/0/0,0/0,553/933

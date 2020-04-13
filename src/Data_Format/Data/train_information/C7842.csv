@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7842,1,株洲南,始发站,14:51,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7842,2,大丰,15:00,15:01,1分钟,9分,1,13,0,0,0,0/0/0,0/0,7/0
+C7842,3,田心东,15:04,15:06,2分钟,13分,1,16,0,0,0,0/0/0,0/0,6/0
+C7842,4,先锋,15:20,15:22,2分钟,29分,1,42,0,0,0,0/0/0,0/0,21/0
+C7842,5,香樟路,15:28,15:30,2分钟,37分,1,51,0,0,0,0/0/0,0/0,21/0
+C7842,6,长沙,15:36,终点站,,45分,1,58,0,0,0,0/0/0,0/0,23/0

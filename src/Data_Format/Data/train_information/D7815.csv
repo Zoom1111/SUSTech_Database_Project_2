@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7815,1,哈尔滨,始发站,10:50,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7815,2,宾州,11:19,11:20,1分钟,29分,1,67,0,0,0,0/0/0,0/0,24/38
+D7815,3,方正,11:57,11:58,1分钟,1小时7分,1,174,0,0,0,0/0/0,0/0,61/98
+D7815,4,依兰,12:28,12:29,1分钟,1小时38分,1,256,0,0,0,0/0/0,0/0,90/144
+D7815,5,佳木斯,13:03,终点站,,2小时13分,1,343,0,0,0,0/0/0,0/0,120/192

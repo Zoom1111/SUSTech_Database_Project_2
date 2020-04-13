@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7121,1,广州东,始发站,11:25,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+C7121,2,东莞,11:51,11:53,-,26分,-,63,0,0/0,0,0/0/0,0/0,0/0
+C7121,3,常平,12:03,12:04,-,38分,-,82,0,0/0,0,0/0/0,0/0,0/0
+C7121,4,樟木头,12:11,12:13,-,46分,-,95,0,0/0,0,0/0/0,0/0,0/0
+C7121,5,平湖,12:24,12:25,-,59分,-,100,0,0/0,0,0/0/0,0/0,0/0
+C7121,6,深圳,12:44,终点站,-,1小时19分,-,105,0,0/0,0,0/0/0,0/0,0/0

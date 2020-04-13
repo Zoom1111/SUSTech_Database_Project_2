@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C1041,1,长春,始发站,17:50,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C1041,2,龙嘉,18:04,18:05,1分钟,14分,1,32,0,0,0,0/0/0,0/0,8.5/15
+C1041,3,吉林,18:35,18:38,3分钟,45分,1,111,0,0,0,0/0/0,0/0,31.5/52
+C1041,4,敦化,19:32,19:34,2分钟,1小时42分,1,267,0,0,0,0/0/0,0/0,15.5/138.5
+C1041,5,延吉西,20:13,终点站,,2小时23分,1,380,0,0,0,0/0/0,0/0,115.5/138.5

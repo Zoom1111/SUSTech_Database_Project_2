@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6477,1,长沙南,始发站,07:04,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6477,2,韶山南,07:27,07:33,6分钟,23分,1,66,0,0,0,0/0/0,0/0,30.5/51
+G6477,3,娄底南,07:50,07:52,2分钟,46分,1,125,0,0,0,0/0/0,0/0,57.5/96.5
+G6477,4,新化南,08:16,08:18,2分钟,1小时12分,1,214,0,0,0,0/0/0,0/0,98.5/165.5
+G6477,5,怀化南,08:51,终点站,,1小时47分,1,382,0,0,0,0/0/0,0/0,158/256.5

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D1944,1,成都东,始发站,17:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D1944,2,德阳,17:23,17:26,3分钟,23分,1,66,0,0,0,0/0/0,0/0,26/32
+D1944,3,广元,18:32,18:38,6分钟,1小时32分,1,399,0,0,0,0/0/0,0/0,111/154
+D1944,4,汉中,19:22,19:25,3分钟,2小时22分,1,416,0,0,0,0/0/0,0/0,167/242
+D1944,5,西安北,20:36,终点站,,3小时36分,1,658,0,0,0,0/0/0,0/0,263/421

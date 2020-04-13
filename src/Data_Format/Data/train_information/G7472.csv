@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7472,1,义乌,始发站,08:23,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7472,2,诸暨,08:40,08:45,5分钟,17分,1,43,0,0,0,0/0/0,0/0,19.5/33.5
+G7472,3,杭州东,09:08,终点站,,45分,1,109,0,0,0,0/0/0,0/0,50/84.5

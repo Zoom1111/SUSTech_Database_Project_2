@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G2869,1,重庆西,始发站,07:43,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G2869,2,贵阳北,09:44,09:48,4分钟,2小时1分,1,347,0,0,0,0/0/0,0/0,129/206
+G2869,3,富源北,11:06,11:08,2分钟,3小时23分,1,630,0,0,0,0/0/0,0/0,291/466
+G2869,4,昆明南,11:55,终点站,,4小时12分,1,810,0,0,0,0/0/0,0/0,341.5/564

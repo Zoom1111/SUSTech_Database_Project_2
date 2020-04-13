@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8208,1,南宁东,始发站,17:25,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8208,2,宾阳,17:51,17:53,2分钟,26分,1,83,0,0,0,0/0/0,0/0,24/29
+D8208,3,来宾北,18:13,18:15,2分钟,48分,1,106,0,0,0,0/0/0,0/0,54/87
+D8208,4,柳州,18:41,18:49,8分钟,1小时16分,1,212,0,0,0,0/0/0,0/0,62/74.5
+D8208,5,桂林北,20:03,终点站,,2小时38分,1,376,0,0,0,0/0/0,0/0,127/203

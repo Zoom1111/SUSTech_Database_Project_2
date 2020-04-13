@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7007,1,武汉,始发站,08:01,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7007,2,黄石北,08:32,08:34,2分钟,31分,1,85,0,0,0,0/0/0,0/0,29/46
+D7007,3,大冶北,08:43,终点站,,42分,1,95,0,0,0,0/0/0,0/0,32/51

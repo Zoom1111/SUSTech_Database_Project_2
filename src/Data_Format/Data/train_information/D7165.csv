@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7165,1,广州南,始发站,08:46,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7165,2,中山,09:15,09:17,2分钟,29分,1,70,0,0,0,0/0/0,0/0,40/50
+D7165,3,珠海,09:43,终点站,,57分,1,116,0,0,0,0/0/0,999/1190,779/0

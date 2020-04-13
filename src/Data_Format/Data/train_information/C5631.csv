@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C5631,1,武汉,始发站,06:53,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C5631,2,黄冈西,07:17,07:19,2分钟,24分,1,54,0,0,0,0/0/0,0/0,18/22
+C5631,3,黄冈,07:24,07:26,2分钟,31分,1,60,0,0,0,0/0/0,0/0,20/24
+C5631,4,黄冈东,07:34,终点站,,41分,1,65,0,0,0,0/0/0,0/0,22/26

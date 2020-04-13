@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Y501,1,北京西,始发站,07:51,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Y501,2,霸州,08:48,09:01,13分钟,57分,1,92,15.5,-,0,0/0/0,0/0,0/0
+Y501,3,任丘,09:36,09:39,3分钟,1小时45分,1,147,23.5,-,0,0/0/0,0/0,0/0
+Y501,4,肃宁,10:12,10:34,22分钟,2小时21分,1,239,28.5,-,0,74.5/79.5/82.5,113.5/119.5,0/0
+Y501,5,衡水,11:32,终点站,,3小时41分,1,274,41.5,-,0,0/0/0,0/0,0/0

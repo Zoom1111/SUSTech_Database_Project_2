@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T9581,1,乌鲁木齐,始发站,09:00,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+T9581,2,石河子,10:20,10:23,-,1小时20分,-,16,-,-,0,0/0/0,0/0,0/0
+T9581,3,沙湾县,10:44,10:46,-,1小时44分,-,54,-,-,0,0/0/0,0/0,0/0
+T9581,4,奎屯,11:17,11:25,-,2小时17分,-,113,-,-,0,0/0/0,0/0,0/0
+T9581,5,克拉玛依,12:48,终点站,-,3小时48分,-,255,-,-,0,0/0/0,0/0,0/0

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8186,1,青岛北,始发站,12:47,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8186,2,潍坊,13:44,13:48,4分钟,57分,1,183,0,0,0,0/0/0,0/0,52/62
+D8186,3,淄博,14:23,14:28,5分钟,1小时36分,1,283,0,0,0,0/0/0,0/0,82.5/99
+D8186,4,济南,15:16,15:20,4分钟,2小时29分,1,393,0,0,0,0/0/0,0/0,116.5/140
+D8186,5,济南西,15:36,终点站,,2小时49分,1,398,0,0,0,0/0/0,0/0,122.5/150

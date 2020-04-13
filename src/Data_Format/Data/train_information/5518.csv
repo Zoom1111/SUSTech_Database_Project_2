@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+5518,1,凭祥,始发站,14:00,,-1分,1,0,-,-,0,0/0/0,0/0,0/0
+5518,2,宁明,14:47,14:51,4分钟,-1分,1,43,9,-,0,0/0/0,0/0,0/0
+5518,3,崇左,15:52,16:00,8分钟,-1分,1,98,13.5,-,0,0/0/0,0/0,0/0
+5518,4,扶绥,17:11,17:16,5分钟,-1分,1,165,21.5,-,0,0/0/0,0/0,0/0
+5518,5,南宁,18:17,终点站,,-1分,1,220,29.5,-,0,0/0/0,0/0,0/0

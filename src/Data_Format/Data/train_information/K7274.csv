@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7274,1,牡丹江,始发站,11:58,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7274,2,宁安,12:25,12:28,3分钟,27分,1,32,4,-,0,38/41/43,0/0,0/0
+K7274,3,东京城,12:57,13:00,3分钟,59分,1,70,6,-,0,40/43/45,59.5/63.5,0/0
+K7274,4,马莲河,13:13,13:15,2分钟,1小时15分,1,81,7,-,0,41/44/46,61.5/65.5,0/0
+K7274,5,斗沟子,13:32,终点站,,1小时34分,1,92,8.5,-,0,42.5/45.5/47.5,62.5/66.5,0/0

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z38,1,武昌,始发站,19:50,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z38,2,孝感,20:44,20:48,4分钟,54分,1,90,-,-,0,0/0/0,90.5/96.5,0/0
+Z38,3,北京西,06:40,终点站,,10小时50分,2,1225,-,-,0,263/272/281,411/429,0/0

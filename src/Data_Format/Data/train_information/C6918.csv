@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6918,1,湘潭,始发站,09:47,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6918,2,板塘,09:53,09:55,2分钟,6分,1,5,0,0,0,0/0/0,0/0,4/0
+C6918,3,昭山,10:02,10:03,1分钟,15分,1,16,0,0,0,0/0/0,0/0,8/0
+C6918,4,暮云,10:10,10:12,2分钟,23分,1,24,0,0,0,0/0/0,0/0,10/0
+C6918,5,洞井,10:21,10:22,1分钟,34分,1,37,0,0,0,0/0/0,0/0,0/0
+C6918,6,长沙,10:31,终点站,,44分,1,49,0,0,0,0/0/0,0/0,20/0

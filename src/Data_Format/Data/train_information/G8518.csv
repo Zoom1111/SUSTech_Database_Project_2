@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8518,1,重庆北,始发站,13:25,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8518,2,荣昌北,14:04,14:06,2分钟,39分,1,106,0,0,0,0/0/0,0/0,51/82
+G8518,3,资中北,14:30,14:32,2分钟,1小时5分,1,195,0,0,0,0/0/0,0/0,94/151
+G8518,4,成都东,15:06,终点站,,1小时41分,1,319,0,0,0,0/0/0,0/0,154/246.5

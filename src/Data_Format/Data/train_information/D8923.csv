@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8923,1,东岔,始发站,09:31,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8923,2,天水南,09:58,10:02,4分钟,27分,1,65,0,0,0,0/0/0,0/0,20/24
+D8923,3,秦安,10:17,10:19,2分钟,46分,1,105,0,0,0,0/0/0,0/0,32/39
+D8923,4,通渭,10:38,10:40,2分钟,1小时7分,1,161,0,0,0,0/0/0,0/0,50/59
+D8923,5,兰州西,11:32,终点站,,2小时1分,1,334,0,0,0,0/0/0,0/0,0/0

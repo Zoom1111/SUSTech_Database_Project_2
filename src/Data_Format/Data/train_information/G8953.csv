@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8953,1,北京西,始发站,21:17,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8953,2,保定东,21:58,22:11,13分钟,41分,1,139,0,0,0,0/0/0,0/0,63.5/101.5
+G8953,3,石家庄,22:47,终点站,,1小时30分,1,281,0,0,0,0/0/0,0/0,128.5/206.5

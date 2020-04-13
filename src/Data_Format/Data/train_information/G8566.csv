@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8566,1,沙坪坝,始发站,13:44,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8566,2,大足南,14:08,14:10,2分钟,24分,1,76,0,0,0,0/0/0,0/0,35/55
+G8566,3,隆昌北,14:24,14:26,2分钟,40分,1,120,0,0,0,0/0/0,0/0,0/0
+G8566,4,成都东,15:12,终点站,,1小时28分,1,299,0,0,0,0/0/0,0/0,144.5/231

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6555,1,青岛北,始发站,07:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6555,2,莱阳,07:39,07:41,2分钟,39分,1,101,0,0,0,0/0/0,0/0,31/37
+C6555,3,烟台南,08:14,08:16,2分钟,1小时14分,1,187,0,0,0,0/0/0,0/0,57/69
+C6555,4,威海,08:43,08:45,2分钟,1小时43分,1,260,0,0,0,0/0/0,0/0,80/96
+C6555,5,荣成,09:06,终点站,,2小时6分,1,301,0,0,0,0/0/0,0/0,93/111

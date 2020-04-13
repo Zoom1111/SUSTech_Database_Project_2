@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+5836,1,霍尔果斯,始发站,17:55,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+5836,2,霍城,18:20,18:22,-,25分,-,34,-,-,0,0/0/0,0/0,0/0
+5836,3,伊宁,18:48,终点站,-,53分,-,73,-,-,0,0/0/0,0/0,0/0

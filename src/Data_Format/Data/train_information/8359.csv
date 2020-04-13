@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+8359,1,宝鸡,始发站,08:05,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+8359,2,福临堡,08:14,08:16,-,9分,-,5,1,-,0,0/0/0,0/0,0/0
+8359,3,元龙,11:27,终点站,-,3小时22分,-,125,8.5,-,0,0/0/0,0/0,0/0

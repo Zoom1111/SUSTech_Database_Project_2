@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6141,1,安靖,始发站,14:32,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6141,2,犀浦,14:38,14:41,3分钟,6分,1,7,0,0,0,0/0/0,0/0,5/0
+C6141,3,郫县西,14:49,14:51,2分钟,17分,1,19,0,0,0,0/0/0,0/0,5/0
+C6141,4,都江堰,15:05,15:07,2分钟,33分,1,49,0,0,0,0/0/0,0/0,10/10
+C6141,5,青城山,15:15,终点站,,43分,1,57,0,0,0,0/0/0,0/0,10/0

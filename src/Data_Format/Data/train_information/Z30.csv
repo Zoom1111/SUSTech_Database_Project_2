@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z30,1,扬州,始发站,21:22,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z30,2,北京,07:31,终点站,,10小时9分,2,1228,-,-,0,263/272/281,411/429,0/0

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8611,1,普者黑,始发站,09:40,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8611,2,弥勒,10:13,10:15,2分钟,33分,1,111,0,0,0,0/0/0,0/0,41/66
+D8611,3,石林西,10:32,10:35,3分钟,52分,1,154,0,0,0,0/0/0,0/0,57/91
+D8611,4,昆明南,10:54,终点站,,1小时14分,1,203,0,0,0,0/0/0,0/0,75/120.5

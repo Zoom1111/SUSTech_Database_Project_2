@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G1572,1,周口东,始发站,07:16,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G1572,2,西华,07:26,07:28,2分钟,10分,1,22,0,0,0,0/0/0,0/0,0/0
+G1572,3,郑州东,08:21,08:24,3分钟,1小时5分,1,178,0,0,0,0/0/0,0/0,0/0
+G1572,4,石家庄,09:46,09:55,9分钟,2小时30分,1,590,0,0,0,0/0/0,0/0,0/0
+G1572,5,北京西,11:05,终点站,,3小时49分,1,871,0,0,0,0/0/0,0/0,0/0

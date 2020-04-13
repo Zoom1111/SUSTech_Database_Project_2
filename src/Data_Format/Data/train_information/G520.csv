@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G520,1,汉口,始发站,07:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G520,2,郑州东,08:50,08:53,3分钟,1小时50分,1,540,0,0,0,0/0/0,0/0,243/385
+G520,3,石家庄,10:15,10:18,3分钟,3小时15分,1,924,0,0,0,0/0/0,0/0,412.5/656.5
+G520,4,北京西,11:27,终点站,,4小时27分,1,1233,0,0,0,0/0/0,0/0,519.5/827.5

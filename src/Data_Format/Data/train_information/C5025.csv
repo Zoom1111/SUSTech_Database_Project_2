@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C5025,1,武昌,始发站,15:18,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C5025,2,庙山,15:36,15:38,2分钟,18分,1,22,0,0,0,0/0/0,0/0,8/13
+C5025,3,纸坊东,15:44,15:46,2分钟,26分,1,30,0,0,0,0/0/0,0/0,10/16
+C5025,4,山坡东,15:57,15:59,2分钟,39分,1,60,0,0,0,0/0/0,0/0,20/32
+C5025,5,咸宁南,16:14,终点站,,56分,1,91,0,0,0,0/0/0,0/0,30/36

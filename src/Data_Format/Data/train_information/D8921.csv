@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8921,1,东岔,始发站,13:35,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8921,2,天水南,14:02,14:05,3分钟,27分,1,65,0,0,0,0/0/0,0/0,20/24
+D8921,3,秦安,14:20,14:22,2分钟,45分,1,105,0,0,0,0/0/0,0/0,32/39
+D8921,4,定西北,15:01,15:03,2分钟,1小时26分,1,240,0,0,0,0/0/0,0/0,74/89
+D8921,5,兰州西,15:33,终点站,,1小时58分,1,334,0,0,0,0/0/0,0/0,1033/124

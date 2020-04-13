@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8720,1,鹰潭,始发站,14:20,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8720,2,贵溪,14:36,14:39,3分钟,16分,1,21,9,-,0,55/60/63,80/86,0/0
+K8720,3,弋阳,14:59,15:02,3分钟,39分,1,51,11,-,0,57/62/65,86.5/92.5,0/0
+K8720,4,横峰,15:15,15:19,4分钟,55分,1,68,12.5,-,0,58.5/63.5/66.5,87.5/93.5,0/0
+K8720,5,上饶,15:45,终点站,,1小时25分,1,116,18.5,-,0,0/0/0,0/0,0/0

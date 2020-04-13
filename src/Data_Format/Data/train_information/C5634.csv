@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C5634,1,黄冈东,始发站,21:17,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C5634,2,武汉,21:48,终点站,,31分,1,65,0,0,0,0/0/0,0/0,22/26

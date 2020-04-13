@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G9161/G9164,1,通辽,始发站,17:26,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G9161/G9164,2,甘旗卡,17:50,17:52,2分钟,24分,1,76,0,0,0,0/0/0,0/0,28/45
+G9161/G9164,3,彰武,18:13,18:15,2分钟,47分,1,143,0,0,0,0/0/0,0/0,53/85
+G9161/G9164,4,沈阳,18:57,19:02,5分钟,1小时31分,1,256,0,0,0,0/0/0,0/0,102/163
+G9161/G9164,5,沈阳南,19:14,终点站,,1小时48分,1,271,0,0,0,0/0/0,0/0,133/213

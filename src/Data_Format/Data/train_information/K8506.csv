@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8506,1,启东,始发站,19:40,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+K8506,2,海门,20:10,20:14,-,30分,-,45,-,-,0,0/0/0,0/0,0/0
+K8506,3,南通,20:41,终点站,-,1小时1分,-,83,14.5,-,0,60.5/65.5/68.5,0/0,0/0

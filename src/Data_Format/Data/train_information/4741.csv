@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+4741,1,南阳,始发站,06:47,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+4741,2,邓州,08:46,终点站,,1小时59分,1,56,9,-,0,55/60/63,84.5/90.5,0/0

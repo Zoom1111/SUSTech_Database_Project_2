@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G2884,1,昆明南,始发站,12:16,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G2884,2,贵阳北,14:16,14:22,6分钟,2小时0分,1,463,0,0,0,0/0/0,0/0,212.5/358
+G2884,3,重庆西,16:23,16:27,4分钟,4小时7分,1,810,0,0,0,0/0/0,0/0,341.5/564
+G2884,4,成都东,17:45,终点站,,5小时29分,1,1112,0,0,0,0/0/0,0/0,487.5/797.5

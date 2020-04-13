@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7151,1,牡丹江,始发站,12:43,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7151,2,柴河,13:07,13:09,2分钟,24分,1,24,4,-,0,38/41/43,0/0,0/0
+K7151,3,朱家沟,13:29,13:31,2分钟,46分,1,45,5,-,0,39/42/44,56/60,0/0
+K7151,4,林口,14:29,终点站,,1小时46分,1,110,8.5,15.5,0,42.5/45.5/47.5,64.5/69,0/0

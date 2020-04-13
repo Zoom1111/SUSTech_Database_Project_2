@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7802,1,太原,始发站,11:36,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7802,2,忻州,12:39,12:45,6分钟,1小时3分,1,88,14.5,-,0,60.5/65.5/68.5,90.5/96.5,0/0
+K7802,3,大同,14:51,终点站,,3小时15分,1,300,43.5,-,0,89.5/94.5/97.5,135.5/141.5,0/0

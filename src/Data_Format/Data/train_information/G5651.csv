@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G5651,1,深圳北,始发站,18:26,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G5651,2,福田,18:34,18:39,5分钟,8分,1,9,0,0,0,0/0/0,0/0,15/20
+G5651,3,香港西九龙,18:53,终点站,,27分,1,39,0,0,0,0/0/0,0/0,75/120

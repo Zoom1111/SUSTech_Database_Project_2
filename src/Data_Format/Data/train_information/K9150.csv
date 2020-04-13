@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9150,1,茂名,始发站,20:05,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9150,2,高州,20:34,20:38,4分钟,29分,1,44,25.5,-,0,0/0/0,0/0,0/0
+K9150,3,信宜,21:12,终点站,,1小时7分,1,97,30.5,-,0,0/0/0,0/0,0/0

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+7564,1,兰州新区,始发站,19:00,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+7564,2,西固,19:27,19:29,2分钟,27分,1,42,3,-,0,0/0/0,0/0,0/0
+7564,3,福利区,19:34,19:36,2分钟,34分,1,45,-,-,0,0/0/0,0/0,0/0
+7564,4,兰州西,19:50,19:52,2分钟,50分,1,56,3,-,0,0/0/0,0/0,0/0
+7564,5,兰州,20:04,终点站,,1小时4分,1,66,4,-,0,0/0/0,0/0,0/0

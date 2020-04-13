@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6003,1,成都东,始发站,21:14,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6003,2,资中北,21:53,22:05,12分钟,39分,1,124,0,0,0,0/0/0,0/0,0/0
+C6003,3,内江北,22:17,22:28,11分钟,1小时3分,1,153,0,0,0,0/0/0,0/0,61/98
+C6003,4,重庆北,23:26,终点站,,2小时12分,1,319,0,0,0,0/0/0,0/0,128/204

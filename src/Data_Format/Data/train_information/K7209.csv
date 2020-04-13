@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7209,1,佳木斯,始发站,11:37,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7209,2,鹤立,12:06,12:08,2分钟,29分,1,32,9,-,0,55/60/63,81.5/87.5,0/0
+K7209,3,鹤岗,13:04,终点站,,1小时27分,1,68,12.5,-,0,58.5/63.5/66.5,87.5/93.5,0/0

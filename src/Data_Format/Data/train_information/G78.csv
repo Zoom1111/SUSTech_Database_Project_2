@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G78,1,深圳北,始发站,13:51,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G78,2,虎门,14:09,14:11,2分钟,18分,1,52,0,0,0,0/0/0,0/0,39.5/54.5
+G78,3,广州南,14:28,14:34,6分钟,37分,1,102,0,0,0,0/0/0,0/0,74.5/99.5
+G78,4,韶关,15:25,15:27,2分钟,1小时34分,1,329,0,0,0,0/0/0,0/0,179/264
+G78,5,长沙南,17:04,终点站,,3小时13分,1,809,0,0,0,0/0/0,0/0,388.5/603.5

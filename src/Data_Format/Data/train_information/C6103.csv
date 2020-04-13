@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6103,1,成都,始发站,06:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6103,2,犀浦,06:12,06:17,5分钟,12分,1,15,0,0,0,0/0/0,0/0,0/5
+C6103,3,都江堰,06:36,终点站,,36分,1,57,0,0,0,0/0/0,0/0,0/15

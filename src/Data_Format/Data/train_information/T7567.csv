@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T7567,1,平度,始发站,15:40,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+T7567,2,胶州,16:18,16:21,3分钟,38分,1,64,12.5,18.5,0,58.5/63.5/66.5,0/0,0/0
+T7567,3,蓝村,16:37,16:40,3分钟,57分,1,85,14.5,21.5,0,0/0/0,0/0,0/0
+T7567,4,青岛北,17:09,终点站,,1小时29分,1,122,19.5,-,0,65.5/70.5/73.5,0/0,0/0

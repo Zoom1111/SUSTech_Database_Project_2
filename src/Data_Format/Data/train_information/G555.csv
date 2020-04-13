@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G555,1,北京西,始发站,12:56,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G555,2,石家庄,14:03,14:06,3分钟,1小时7分,1,281,0,0,0,0/0/0,0/0,128.5/206.5
+G555,3,郑州东,15:27,终点站,,2小时31分,1,693,0,0,0,0/0/0,0/0,309/495

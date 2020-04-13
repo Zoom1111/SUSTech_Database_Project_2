@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+6285/6288,1,长汀镇,始发站,06:35,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+6285/6288,2,敖头,07:53,07:55,2分钟,1小时18分,1,42,3,-,0,0/0/0,0/0,0/0
+6285/6288,3,海林,08:08,08:11,3分钟,1小时33分,1,52,3,-,0,0/0/0,0/0,0/0
+6285/6288,4,拉古,08:24,08:26,2分钟,1小时49分,1,62,4,-,0,0/0/0,0/0,0/0
+6285/6288,5,牡丹江,08:43,终点站,,2小时8分,1,74,4,-,0,0/0/0,0/0,0/0

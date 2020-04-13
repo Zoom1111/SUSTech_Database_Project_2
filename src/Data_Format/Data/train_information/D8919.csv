@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8919,1,天水南,始发站,09:09,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8919,2,秦安,09:24,09:26,2分钟,15分,1,40,0,0,0,0/0/0,0/0,12/15
+D8919,3,通渭,09:45,09:47,2分钟,36分,1,96,0,0,0,0/0/0,0/0,32/48
+D8919,4,定西北,10:13,10:15,2分钟,1小时4分,1,175,0,0,0,0/0/0,0/0,59/88
+D8919,5,兰州西,10:45,终点站,,1小时36分,1,269,0,0,0,0/0/0,0/0,90/135

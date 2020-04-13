@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6878,1,肇庆,始发站,16:40,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6878,2,鼎湖东,16:53,16:54,1分钟,13分,1,27,0,0,0,0/0/0,0/0,15/0
+C6878,3,大旺,17:03,17:05,2分钟,23分,1,46,0,0,0,0/0/0,0/0,24/0
+C6878,4,三水北,17:14,17:15,1分钟,34分,1,63,0,0,0,0/0/0,0/0,34/0
+C6878,5,佛山西,17:25,17:27,2分钟,45分,1,81,0,0,0,0/0/0,0/0,42/50
+C6878,6,广州,17:49,终点站,,1小时9分,1,111,0,0,0,0/0/0,0/0,0/65

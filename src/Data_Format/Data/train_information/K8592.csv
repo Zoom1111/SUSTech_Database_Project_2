@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8592,1,芜湖,始发站,07:00,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8592,2,巢湖,07:47,07:52,5分钟,47分,1,212,12.5,-,0,58.5/63.5/66.5,0/0,0/0
+K8592,3,合肥,08:41,终点站,,1小时41分,1,276,15.5,-,0,0/0/0,0/0,0/0

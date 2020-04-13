@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9618,1,丽江,始发站,20:00,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9618,2,鹤庆,20:23,20:26,3分钟,23分,1,32,9.5,-,0,55.5/60.5/63.5,82.5/88.5,0/0
+K9618,3,昆明,04:40,终点站,,8小时40分,2,478,129,-,0,205/226/236,314/333,0/0

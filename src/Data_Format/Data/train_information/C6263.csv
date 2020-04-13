@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6263,1,成都东,始发站,21:11,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6263,2,成都南,21:20,21:22,2分钟,9分,1,8,0,0,0,0/0/0,0/0,0/0
+C6263,3,双流机场,21:32,21:34,2分钟,21分,1,21,0,0,0,0/0/0,0/0,8/10
+C6263,4,眉山东,21:54,21:56,2分钟,43分,1,82,0,0,0,0/0/0,0/0,33/39
+C6263,5,乐山,22:15,终点站,,1小时4分,1,135,0,0,0,0/0/0,0/0,14/17

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8191,1,阜新,始发站,15:31,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+G8191,2,新民北,15:56,15:58,-,25分,-,98,0,47/76,0,0/0/0,0/0,47/76
+G8191,3,沈阳,16:24,16:29,-,53分,-,157,0,76/121,0,0/0/0,0/0,76/121
+G8191,4,沈阳南,16:40,终点站,-,1小时9分,-,172,0,183/292,0,0/0/0,0/0,183/292

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7290,1,深圳北,始发站,19:35,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7290,2,深圳坪山,19:55,19:57,2分钟,20分,1,36,0,0,0,0/0/0,0/0,12/20
+C7290,3,鲘门,20:28,20:42,14分钟,53分,1,123,0,0,0,0/0/0,0/0,43/69
+C7290,4,汕尾,20:56,终点站,,1小时21分,1,156,0,0,0,0/0/0,0/0,55/87

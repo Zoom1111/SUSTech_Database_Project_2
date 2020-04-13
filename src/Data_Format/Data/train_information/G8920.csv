@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8920,1,唐山,始发站,09:02,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8920,2,天津西,09:37,09:44,7分钟,35分,1,119,0,0,0,0/0/0,0/0,54.5/92
+G8920,3,北京南,10:22,终点站,,1小时20分,1,241,0,0,0,0/0/0,0/0,110.5/184

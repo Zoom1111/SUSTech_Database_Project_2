@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6638,1,雅安,始发站,18:49,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6638,2,蒲江,19:11,19:13,2分钟,22分,1,48,0,0,0,0/0/0,0/0,0/0
+C6638,3,崇州,19:36,19:38,2分钟,47分,1,107,0,0,0,0/0/0,0/0,40/0
+C6638,4,温江,19:46,19:48,2分钟,57分,1,120,0,0,0,0/0/0,0/0,44/0
+C6638,5,成都西,20:01,终点站,,1小时12分,1,140,0,0,0,0/0/0,0/0,52/0

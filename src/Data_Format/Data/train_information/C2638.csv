@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2638,1,天津西,始发站,12:19,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2638,2,武清,12:34,12:36,2分钟,15分,1,33,0,0,0,0/0/0,0/0,11/13
+C2638,3,北京南,12:58,终点站,,39分,1,117,0,0,0,0/0/0,0/0,54.5/65.5

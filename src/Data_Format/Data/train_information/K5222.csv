@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K5222,1,清河城,始发站,14:08,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K5222,2,霸州,17:18,17:20,2分钟,3小时10分,1,262,41.5,-,0,87.5/92.5/95.5,132.5/138.5,0/0
+K5222,3,北京,18:55,终点站,,4小时47分,1,364,53.5,-,0,99.5/104.5/107.5,152.5/158.5,0/0

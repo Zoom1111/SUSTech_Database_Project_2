@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9307,1,南宁,始发站,18:20,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9307,2,平果,19:38,19:43,5分钟,1小时18分,1,113,18.5,-,0,64.5/69.5/72.5,0/0,0/0
+K9307,3,德保,21:22,21:26,4分钟,3小时2分,1,244,40.5,-,0,86.5/91.5/94.5,0/0,0/0
+K9307,4,靖西,21:58,终点站,,3小时38分,1,284,43.5,-,0,89.5/94.5/97.5,0/0,0/0

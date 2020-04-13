@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D2252,1,重庆北,始发站,15:19,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D2252,2,长寿北,15:49,15:51,2分钟,30分,1,68,0,0,0,0/0/0,0/0,20/24
+D2252,3,涪陵北,16:03,16:05,2分钟,44分,1,92,0,0,0,0/0/0,0/0,27/32.5
+D2252,4,丰都,16:24,16:26,2分钟,1小时5分,1,134,0,0,0,0/0/0,0/0,39.5/47
+D2252,5,石柱县,16:46,终点站,,1小时27分,1,183,0,0,0,0/0/0,0/0,53.5/64.5

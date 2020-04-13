@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2953,1,郑州东,始发站,09:14,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2953,2,郑州,09:29,09:36,7分钟,15分,1,14,0,0,0,0/0/0,0/0,0/0
+C2953,3,焦作,10:11,终点站,,57分,1,92,0,0,0,0/0/0,0/0,0/0

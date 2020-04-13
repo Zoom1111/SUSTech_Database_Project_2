@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5251,1,汉口,始发站,07:50,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5251,2,枣阳,09:35,09:37,2分钟,1小时45分,1,243,0,0,0,0/0/0,0/0,84.5/135
+D5251,3,襄阳,10:10,终点站,,2小时20分,1,315,0,0,0,0/0/0,0/0,103.5/166

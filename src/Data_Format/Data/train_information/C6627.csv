@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6627,1,成都西,始发站,14:57,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6627,2,崇州,15:13,15:15,2分钟,16分,1,33,0,0,0,0/0/0,0/0,12/0
+C6627,3,雅安,15:57,终点站,,1小时0分,1,140,0,0,0,0/0/0,0/0,52/83

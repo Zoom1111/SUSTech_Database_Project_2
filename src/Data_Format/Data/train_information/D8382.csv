@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8382,1,陆川,始发站,08:18,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8382,2,玉林,08:46,08:50,4分钟,28分,1,36,0,0,0,0/0/0,0/0,0/0
+D8382,3,兴业,09:11,09:13,2分钟,53分,1,69,0,0,0,0/0/0,0/0,0/0
+D8382,4,贵港,09:45,09:47,2分钟,1小时27分,1,125,0,0,0,0/0/0,0/0,0/0
+D8382,5,南宁东,10:34,终点站,,2小时16分,1,265,0,0,0,0/0/0,0/0,0/0

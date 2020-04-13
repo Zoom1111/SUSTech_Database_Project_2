@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6203,1,广州南,始发站,07:12,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6203,2,庆盛,07:25,07:27,2分钟,13分,1,31,0,0,0,0/0/0,0/0,24.5/34.5
+G6203,3,光明城,07:44,07:46,2分钟,32分,1,86,0,0,0,0/0/0,0/0,40/65
+G6203,4,深圳北,07:56,终点站,,44分,1,102,0,0,0,0/0/0,0/0,74.5/99.5

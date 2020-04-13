@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6935,1,长沙,始发站,14:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6935,2,香樟路,14:05,14:07,2分钟,5分,1,7,0,0,0,0/0/0,0/0,0/0
+C6935,3,先锋,14:13,14:15,2分钟,13分,1,16,0,0,0,0/0/0,0/0,6/0
+C6935,4,芙蓉南,14:19,14:20,1分钟,19分,1,20,0,0,0,0/0/0,0/0,0/0
+C6935,5,板塘,14:36,14:38,2分钟,36分,1,44,0,0,0,0/0/0,0/0,18/0
+C6935,6,湘潭,14:46,终点站,,46分,1,49,0,0,0,0/0/0,0/0,25/0

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8548,1,沙坪坝,始发站,09:24,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8548,2,璧山,09:36,09:38,2分钟,12分,1,24,0,0,0,0/0/0,0/0,11.5/18.5
+G8548,3,隆昌北,10:03,10:06,3分钟,39分,1,120,0,0,0,0/0/0,0/0,0/0
+G8548,4,成都东,10:52,终点站,,1小时28分,1,299,0,0,0,0/0/0,0/0,144.5/231

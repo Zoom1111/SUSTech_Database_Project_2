@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G48,1,哈尔滨西,始发站,08:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G48,2,长春西,09:24,09:26,2分钟,54分,1,240,0,0,0,0/0/0,0/0,109.5/176.5
+G48,3,沈阳北,10:30,10:33,3分钟,2小时0分,1,538,0,0,0,0/0/0,0/0,245/392
+G48,4,大连北,12:06,终点站,,3小时36分,1,921,0,0,0,0/0/0,0/0,403.5/645.5

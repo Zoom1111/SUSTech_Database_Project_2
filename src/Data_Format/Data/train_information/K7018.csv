@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7018,1,双鸭山,始发站,22:08,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7018,2,福利屯,22:22,22:25,3分钟,14分,1,11,8,-,0,54/59/62,78/84,0/0
+K7018,3,佳木斯,23:26,23:50,24分钟,1小时18分,1,79,12.5,-,0,58.5/63.5/66.5,89.5/95.5,0/0
+K7018,4,绥化,04:21,04:31,10分钟,6小时13分,2,461,69,-,0,123/126/130,186/194,0/0
+K7018,5,哈尔滨东,06:15,终点站,,8小时7分,2,589,81,-,0,144/148/154,222/231,0/0

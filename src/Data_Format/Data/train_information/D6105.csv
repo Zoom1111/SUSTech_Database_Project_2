@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6105,1,石柱县,始发站,20:42,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6105,2,丰都,21:01,21:03,2分钟,19分,1,49,0,0,0,0/0/0,0/0,14.5/17
+D6105,3,长寿北,21:31,21:33,2分钟,49分,1,115,0,0,0,0/0/0,0/0,33.5/40.5
+D6105,4,重庆北,22:03,终点站,,1小时21分,1,183,0,0,0,0/0/0,0/0,53.5/64.5

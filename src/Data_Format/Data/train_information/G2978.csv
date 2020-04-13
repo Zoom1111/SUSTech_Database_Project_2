@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G2978,1,昆明南,始发站,15:04,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G2978,2,嵩明,15:22,15:24,2分钟,18分,1,52,0,0,0,0/0/0,0/0,24/40
+G2978,3,曲靖北,15:46,15:48,2分钟,42分,1,128,0,0,0,0/0/0,0/0,59/99
+G2978,4,贵阳北,17:18,终点站,,2小时14分,1,463,0,0,0,0/0/0,0/0,212.5/358

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K695,1,北京,始发站,23:32,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K695,2,张家口,02:53,02:59,6分钟,3小时21分,2,196,-,-,0,0/0/0,0/0,0/0
+K695,3,阳高,04:48,05:12,24分钟,5小时16分,2,317,46.5,-,0,92.5/97.5/100.5,140.5/146.5,0/0
+K695,4,大同,06:05,终点站,,6小时33分,2,374,53.5,-,0,99.5/104.5/107.5,152.5/158.5,0/0

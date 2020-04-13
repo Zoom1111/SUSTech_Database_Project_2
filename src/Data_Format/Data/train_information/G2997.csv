@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G2997,1,铜仁,始发站,20:20,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G2997,2,铜仁南,20:49,20:51,2分钟,29分,1,60,0,0,0,0/0/0,0/0,21.5/35.5
+G2997,3,凯里南,21:27,21:29,2分钟,1小时7分,1,200,0,0,0,0/0/0,0/0,89/148.5
+G2997,4,贵阳北,22:07,终点站,,1小时47分,1,327,0,0,0,0/0/0,0/0,147/247

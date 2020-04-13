@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+S916,1,天津北,始发站,18:10,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+S916,2,宝坻,19:25,19:28,3分钟,1小时15分,1,69,12.5,-,0,0/0/0,0/0,0/0
+S916,3,蓟州北,20:02,终点站,,1小时52分,1,109,26.5,-,0,0/0/0,0/0,0/0

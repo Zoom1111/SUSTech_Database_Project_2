@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7218,1,香坊,始发站,19:04,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7218,2,孙家,19:14,19:16,2分钟,10分,1,5,3,-,0,37/40/42,0/0,0/0
+K7218,3,平房,19:29,19:32,3分钟,25分,1,18,3,-,0,37/40/42,0/0,0/0
+K7218,4,五常,20:36,终点站,,1小时32分,1,108,8.5,-,0,42.5/45.5/47.5,0/0,0/0

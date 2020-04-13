@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7002,1,阳新,始发站,07:23,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7002,2,白沙铺,07:32,07:34,2分钟,9分,1,17,0,0,0,0/0/0,0/0,7/11
+D7002,3,大冶北,07:43,07:45,2分钟,20分,1,37,0,0,0,0/0/0,0/0,13/20
+D7002,4,黄石北,07:52,07:54,2分钟,29分,1,47,0,0,0,0/0/0,0/0,18/28
+D7002,5,花湖,07:59,08:01,2分钟,36分,1,53,0,0,0,0/0/0,0/0,19/30
+D7002,6,武汉,08:30,终点站,,1小时7分,1,131,0,0,0,0/0/0,0/0,45/71

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G588,1,武汉,始发站,08:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G588,2,郑州东,10:14,10:17,3分钟,1小时44分,1,536,0,0,0,0/0/0,0/0,244/391
+G588,3,北京西,12:42,终点站,,4小时12分,1,1229,0,0,0,0/0/0,0/0,520.5/832.5

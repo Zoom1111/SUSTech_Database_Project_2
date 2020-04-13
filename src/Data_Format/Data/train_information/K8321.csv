@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8321/K8324,1,聊城,始发站,08:30,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8321/K8324,2,晏城,10:11,10:15,4分钟,1小时41分,1,92,15.5,-,0,61.5/66.5/69.5,92.5/98.5,0/0
+K8321/K8324,3,济南,11:28,终点站,,2小时58分,1,124,19.5,-,0,65.5/70.5/73.5,99.5/105.5,0/0

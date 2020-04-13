@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T8310,1,广州,始发站,22:37,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+T8310,2,株洲,05:53,06:05,-,7小时16分,-,655,-,-,0,0/0/0,0/0,0/0
+T8310,3,长沙,06:44,06:58,-,8小时7分,-,707,-,-,0,0/0/0,0/0,0/0
+T8310,4,岳阳,08:22,终点站,-,9小时45分,-,854,112,-,0,194/200/208,0/0,0/0

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8729/D8732,1,大理,始发站,19:58,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8729/D8732,2,楚雄,20:54,20:56,2分钟,56分,1,148,0,0,0,0/0/0,0/0,74/118
+D8729/D8732,3,禄丰南,21:21,21:23,2分钟,1小时23分,1,229,0,0,0,0/0/0,0/0,108/172
+D8729/D8732,4,昆明,21:59,22:03,4分钟,2小时1分,1,328,0,0,0,0/0/0,0/0,145/231
+D8729/D8732,5,昆明南,22:21,终点站,,2小时23分,1,356,0,0,0,0/0/0,0/0,155.5/247.5

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6509,1,广州南,始发站,20:20,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6509,2,虎门,20:37,20:39,2分钟,17分,1,50,0,0,0,0/0/0,0/0,25/35
+G6509,3,深圳北,20:56,21:00,4分钟,36分,1,102,0,0,0,0/0/0,0/0,74.5/99.5
+G6509,4,福田,21:08,终点站,,48分,1,111,0,0,0,0/0/0,0/0,82/108

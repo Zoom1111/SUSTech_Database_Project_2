@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9837,1,和静,始发站,12:00,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9837,2,焉耆,12:43,12:47,4分钟,43分,1,31,4,-,0,0/0/0,0/0,0/0
+K9837,3,库尔勒,13:23,终点站,,1小时23分,1,87,7,-,0,0/0/0,0/0,0/0

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+4247,1,通化,始发站,17:30,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+4247,2,水洞,17:48,17:50,2分钟,18分,1,16,2,-,0,0/0/0,0/0,0/0
+4247,3,道清,18:15,18:17,2分钟,45分,1,38,3,-,0,0/0/0,0/0,0/0
+4247,4,老营,18:27,18:29,2分钟,57分,1,44,4.5,-,0,0/0/0,0/0,0/0
+4247,5,白山市,18:45,终点站,,1小时15分,1,60,4,-,0,38/41/43,57.5/61.5,0/0

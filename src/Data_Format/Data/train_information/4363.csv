@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+4363,1,通化,始发站,12:49,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+4363,2,东通化,12:59,13:01,2分钟,10分,1,8,2,-,0,0/0/0,0/0,0/0
+4363,3,铁厂,13:24,13:26,2分钟,35分,1,27,3,-,0,0/0/0,0/0,0/0
+4363,4,黄柏,14:34,14:36,2分钟,1小时45分,1,54,6,-,0,0/0/0,0/0,0/0
+4363,5,集安,15:18,终点站,,2小时29分,1,115,8.5,-,0,0/0/0,0/0,0/0

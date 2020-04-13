@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G2993,1,铜仁,始发站,17:27,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G2993,2,凯里南,18:28,18:30,2分钟,1小时1分,1,200,0,0,0,0/0/0,0/0,89/148.5
+G2993,3,贵定北,18:53,18:55,2分钟,1小时26分,1,327,0,0,0,0/0/0,0/0,0/0
+G2993,4,贵阳北,19:15,终点站,,1小时48分,1,327,0,0,0,0/0/0,0/0,147/247

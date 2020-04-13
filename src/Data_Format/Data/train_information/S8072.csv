@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+S8072,1,美兰,始发站,12:57,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+S8072,2,海口东,13:05,13:06,1分钟,8分,1,14,4,-,0,0/0/0,0/0,0/0
+S8072,3,城西,13:10,13:11,1分钟,13分,1,16,4,-,0,0/0/0,0/0,0/0
+S8072,4,秀英,13:16,13:17,1分钟,19分,1,22,6,-,0,0/0/0,0/0,0/0
+S8072,5,长流,13:22,13:23,1分钟,25分,1,30,8,-,0,0/0/0,0/0,0/0
+S8072,6,海口,13:32,终点站,,35分,1,38,10,-,0,0/0/0,0/0,0/0

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C5310,1,孝感东,始发站,14:07,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C5310,2,槐荫,14:12,14:14,2分钟,5分,1,4,0,0,0,0/0/0,0/0,0/0
+C5310,3,天河机场,14:30,14:32,2分钟,23分,1,40,0,0,0,0/0/0,0/0,13/21
+C5310,4,金银潭,14:41,14:43,2分钟,34分,1,55,0,0,0,0/0/0,0/0,18/29
+C5310,5,汉口,14:51,终点站,,44分,1,61,0,0,0,0/0/0,0/0,20/32

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6352,1,宜宾西,始发站,13:18,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6352,2,彭山北,14:18,14:21,3分钟,1小时0分,1,210,0,0,0,0/0/0,0/0,84/134
+C6352,3,成都东,14:49,14:56,7分钟,1小时31分,1,276,0,0,0,0/0/0,0/0,110/176
+C6352,4,德阳,15:20,终点站,,2小时2分,1,342,0,0,0,0/0/0,0/0,0/0

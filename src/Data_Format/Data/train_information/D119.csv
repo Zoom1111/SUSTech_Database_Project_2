@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D119,1,长春西,始发站,07:36,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D119,2,哈尔滨西,08:41,08:45,4分钟,1小时5分,1,240,0,0,0,0/0/0,0/0,73.5/118.5
+D119,3,海林北,10:12,10:14,2分钟,2小时36分,1,526,0,0,0,0/0/0,0/0,184/294.5
+D119,4,牡丹江,10:25,终点站,,2小时49分,1,547,0,0,0,0/0/0,0/0,192/307.5

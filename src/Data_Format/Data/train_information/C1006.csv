@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+c1006,1,延吉西,始发站,09:58,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+c1006,2,敦化,10:36,10:38,2分钟,38分,1,113,0,0,0,0/0/0,0/0,0/0
+c1006,3,蛟河西,11:10,11:12,2分钟,1小时12分,1,204,0,0,0,0/0/0,0/0,0/0
+c1006,4,吉林,11:39,11:42,3分钟,1小时41分,1,269,0,0,0,0/0/0,0/0,0/0
+c1006,5,长春,12:22,终点站,,2小时24分,1,380,0,0,0,0/0/0,0/0,0/0

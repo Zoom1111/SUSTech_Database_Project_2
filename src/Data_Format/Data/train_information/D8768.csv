@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8768,1,丽江,始发站,19:05,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8768,2,昆明,22:18,22:22,4分钟,3小时13分,1,478,0,0,0,0/0/0,0/0,220/351
+D8768,3,昆明南,22:40,终点站,,3小时35分,1,506,0,0,0,0/0/0,0/0,230.5/367.5

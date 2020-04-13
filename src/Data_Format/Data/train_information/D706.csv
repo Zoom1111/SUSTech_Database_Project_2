@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D706,1,上海,始发站,21:18,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D706,2,无锡,22:24,22:26,2分钟,1小时6分,1,165,0,0,0,0/0/0,170/190,38.5/0
+D706,3,南京,23:51,23:57,6分钟,2小时33分,1,301,0,0,0,0/0/0,0/0,87.5/0
+D706,4,天津西,08:08,08:10,2分钟,10小时50分,2,1315,0,0,0,0/0/0,0/0,223/0
+D706,5,北京,09:24,终点站,,12小时6分,2,1463,0,0,0,0/0/0,0/0,248/0

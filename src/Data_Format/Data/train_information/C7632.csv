@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7632,1,珠海,始发站,17:39,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7632,2,明珠,17:49,17:51,2分钟,10分,1,7,0,0,0,0/0/0,0/0,15/0
+C7632,3,南朗,18:03,18:05,2分钟,24分,1,33,0,0,0,0/0/0,0/0,20/25
+C7632,4,小榄,18:20,18:23,3分钟,41分,1,71,0,0,0,0/0/0,0/0,40/0
+C7632,5,南头,18:28,18:30,2分钟,49分,1,79,0,0,0,0/0/0,0/0,45/0
+C7632,6,广州南,18:49,终点站,,1小时10分,1,116,0,0,0,0/0/0,0/0,70/90

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G607,1,北京西,始发站,11:14,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G607,2,高碑店东,11:44,11:48,4分钟,30分,1,83,0,0,0,0/0/0,0/0,37.5/60.5
+G607,3,保定东,12:04,12:06,2分钟,50分,1,139,0,0,0,0/0/0,0/0,63.5/101.5
+G607,4,石家庄,12:42,12:45,3分钟,1小时28分,1,281,0,0,0,0/0/0,0/0,128.5/206.5
+G607,5,太原南,14:07,终点站,,2小时53分,1,513,0,0,0,0/0/0,0/0,197/288

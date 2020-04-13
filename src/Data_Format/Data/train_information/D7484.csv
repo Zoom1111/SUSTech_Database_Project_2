@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7484,1,湛江西,始发站,17:54,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D7484,2,茂名,18:26,18:28,-,32分,-,90,0,47/75,0,0/0/0,0/0,47/75
+D7484,3,阳江,19:08,19:10,-,1小时14分,-,207,0,106/170,0,0/0/0,0/0,106/170
+D7484,4,新会,20:05,20:07,-,2小时11分,-,358,0,183/292,0,0/0/0,0/0,183/292
+D7484,5,广州南,20:39,终点站,-,2小时45分,-,430,0,228/352,0,0/0/0,0/0,228/352

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+6336,1,长春,始发站,18:08,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+6336,2,大屯,18:30,18:32,2分钟,22分,1,20,1,-,0,0/0/0,0/0,0/0
+6336,3,范家屯,18:41,18:43,2分钟,33分,1,31,2,-,0,0/0/0,0/0,0/0
+6336,4,陶家屯,18:52,18:54,2分钟,44分,1,41,3,-,0,0/0/0,0/0,0/0
+6336,5,公主岭,19:09,终点站,,1小时1分,1,62,4,-,0,0/0/0,57.5/61.5,0/0

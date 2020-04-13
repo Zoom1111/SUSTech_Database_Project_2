@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8062,1,沈阳,始发站,18:10,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8062,2,辽阳,18:34,18:36,2分钟,24分,1,65,0,0,0,0/0/0,0/0,29.5/47.5
+G8062,3,海城西,18:55,18:57,2分钟,45分,1,134,0,0,0,0/0/0,0/0,61.5/98.5
+G8062,4,普湾,19:45,19:46,1分钟,1小时35分,1,337,0,0,0,0/0/0,0/0,154.5/247.5
+G8062,5,大连,20:16,终点站,,2小时6分,1,395,0,0,0,0/0/0,0/0,181.5/290.5

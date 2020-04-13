@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9621,1,大理,始发站,10:08,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9621,2,鹤庆,12:21,12:23,2分钟,2小时13分,1,485,25.5,-,0,65.5/73/76,99.5/106,0/0
+K9621,3,丽江,12:47,终点站,,2小时39分,1,159,34,-,0,69.5/74.5/77.5,105.5/111.5,0/0

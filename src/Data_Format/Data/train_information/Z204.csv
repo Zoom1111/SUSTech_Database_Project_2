@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z204,1,大庆东,始发站,18:06,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z204,2,哈尔滨,19:32,19:43,11分钟,1小时26分,1,148,-,35.5,0,0/0/0,104.5/110.5,0/0
+Z204,3,哈尔滨西,19:53,19:58,5分钟,1小时47分,1,155,-,-,0,0/0/0,105.5/111.5,0/0
+Z204,4,北京,06:25,终点站,,12小时19分,2,1397,-,-,0,0/0/0,450.5/470,0/0

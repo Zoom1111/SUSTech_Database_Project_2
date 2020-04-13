@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8261,1,济南,始发站,00:50,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8261,2,桃村,05:37,05:52,15分钟,4小时47分,1,470,38,-,0,77/79/82,119/124,0/0
+K8261,3,乳山,06:48,06:56,8分钟,5小时58分,1,521,43,-,0,88/91/94,138/144,0/0
+K8261,4,文登,07:52,07:58,6分钟,7小时2分,1,573,46,-,0,97/101/105,154/161,0/0
+K8261,5,威海,08:38,终点站,,7小时48分,1,608,50,-,0,101/105/109,159/166,0/0

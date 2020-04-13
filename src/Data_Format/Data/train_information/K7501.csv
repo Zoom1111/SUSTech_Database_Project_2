@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7501,1,锦州,始发站,17:33,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7501,2,义县,18:20,18:23,3分钟,47分,1,48,11,7,0,57/62/65,83.5/89.5,0/0
+K7501,3,清河门北,18:54,18:57,3分钟,1小时21分,1,92,15.5,-,0,61.5/66.5/69.5,92.5/98.5,0/0
+K7501,4,阜新南,19:18,终点站,,1小时45分,1,119,18.5,-,0,64.5/69.5/72.5,97.5/103.5,0/0

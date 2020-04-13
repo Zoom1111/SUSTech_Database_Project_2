@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7422,1,舒兰,始发站,07:05,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7422,2,吉舒,07:25,07:28,3分钟,20分,1,21,4,-,0,0/0/0,0/0,0/0
+K7422,3,吉林,08:36,终点站,,1小时31分,1,90,7,-,0,0/0/0,0/0,0/0

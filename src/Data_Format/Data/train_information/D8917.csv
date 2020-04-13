@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8917,1,天水南,始发站,22:14,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8917,2,秦安,22:29,22:31,2分钟,15分,1,40,0,0,0,0/0/0,0/0,12/15
+D8917,3,兰州西,23:36,终点站,,1小时22分,1,269,0,0,0,0/0/0,0/0,90/135

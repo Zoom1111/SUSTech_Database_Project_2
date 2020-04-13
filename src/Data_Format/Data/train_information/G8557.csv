@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8557,1,成都东,始发站,17:49,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8557,2,资中北,18:23,18:25,2分钟,34分,1,124,0,0,0,0/0/0,0/0,60/96
+G8557,3,荣昌北,18:48,18:51,3分钟,59分,1,213,0,0,0,0/0/0,0/0,103/164.5
+G8557,4,永川东,19:03,19:05,2分钟,1小时14分,1,223,0,0,0,0/0/0,0/0,118.5/189.5
+G8557,5,沙坪坝,19:24,终点站,,1小时35分,1,299,0,0,0,0/0/0,0/0,144.5/231

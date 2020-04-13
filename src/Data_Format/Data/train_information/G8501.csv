@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8501,1,成都东,始发站,10:01,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8501,2,内江北,10:41,10:43,2分钟,40分,1,153,0,0,0,0/0/0,0/0,74/118.5
+G8501,3,大足南,11:03,11:06,3分钟,1小时2分,1,223,0,0,0,0/0/0,0/0,0/0
+G8501,4,永川东,11:16,11:18,2分钟,1小时15分,1,245,0,0,0,0/0/0,0/0,118.5/189.5
+G8501,5,重庆北,11:50,终点站,,1小时49分,1,319,0,0,0,0/0/0,0/0,154/246.5

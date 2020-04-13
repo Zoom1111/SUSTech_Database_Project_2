@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D710,1,上海,始发站,21:24,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D710,2,苏州,22:09,22:11,2分钟,45分,1,84,0,0,0,0/0/0,170.5/189.5,24.5/0
+D710,3,南京,23:57,00:03,6分钟,2小时33分,1,301,0,0,0,0/0/0,0/0,87.5/0
+D710,4,沧州,07:13,07:15,2分钟,9小时49分,2,1199,0,0,0,305/326/356,457/517,204/0
+D710,5,北京南,09:22,终点站,,11小时58分,2,1454,0,0,0,0/0/0,0/0,247/0

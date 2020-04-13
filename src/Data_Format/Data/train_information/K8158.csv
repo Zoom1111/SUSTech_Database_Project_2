@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8158,1,宝鸡,始发站,07:40,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8158,2,虢镇,07:57,07:59,2分钟,17分,1,20,-,-,0,0/0/0,0/0,0/0
+K8158,3,武功,08:47,08:49,2分钟,1小时7分,1,100,15.5,-,0,61.5/66.5/69.5,92.5/98.5,0/0
+K8158,4,咸阳,09:22,09:30,8分钟,1小时42分,1,150,23.5,-,0,69.5/74.5/77.5,104.5/110.5,0/0
+K8158,5,西安,09:54,终点站,,2小时14分,1,173,28.5,-,0,74.5/79.5/82.5,112.5/118.5,0/0

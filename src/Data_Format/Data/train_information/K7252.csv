@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7252,1,哈尔滨,始发站,15:37,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7252,2,王岗,15:51,16:10,19分钟,14分,1,13,3,-,0,37/40/42,0/0,0/0
+K7252,3,五家,16:27,16:42,15分钟,50分,1,33,4,6,0,38/41/43,0/0,0/0
+K7252,4,双城堡,16:58,终点站,,1小时21分,1,51,5,9.5,0,39/42/44,0/0,0/0

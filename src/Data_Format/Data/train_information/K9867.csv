@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9866/K9867,1,玉溪,始发站,10:08,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9866/K9867,2,昆明南,10:58,11:02,4分钟,50分,1,79,12.5,-,0,58.5/63.5/66.5,89.5/95.5,0/0
+K9866/K9867,3,昆明,11:25,终点站,,1小时17分,1,104,16.5,-,0,62.5/67.5/70.5,96.5/102.5,0/0

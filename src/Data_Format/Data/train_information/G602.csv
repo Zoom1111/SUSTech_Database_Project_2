@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G602,1,太原南,始发站,06:48,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G602,2,石家庄,08:09,08:15,6分钟,1小时21分,1,224,0,0,0,0/0/0,0/0,68/81.5
+G602,3,保定东,08:50,08:54,4分钟,2小时2分,1,366,0,0,0,0/0/0,0/0,133/186
+G602,4,北京西,09:35,终点站,,2小时47分,1,513,0,0,0,0/0/0,0/0,197/288

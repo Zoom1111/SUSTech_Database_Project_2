@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6670,1,宜宾西,始发站,17:20,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6670,2,乐山,18:08,18:20,12分钟,48分,1,141,0,0,0,0/0/0,0/0,56/90
+C6670,3,眉山东,18:41,18:51,10分钟,1小时21分,1,194,0,0,0,0/0/0,0/0,77/124
+C6670,4,新津,19:10,19:17,7分钟,1小时50分,1,240,0,0,0,0/0/0,0/0,0/0
+C6670,5,成都南,19:32,终点站,,2小时12分,1,268,0,0,0,0/0/0,0/0,107/171

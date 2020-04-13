@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7252/G7253,1,上海,始发站,15:44,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7252/G7253,2,南京南,16:57,17:00,3分钟,1小时13分,1,302,0,0,0,0/0/0,0/0,144.5/229.5
+G7252/G7253,3,合肥南,17:52,终点站,,2小时8分,1,468,0,0,0,0/0/0,0/0,210/335.5

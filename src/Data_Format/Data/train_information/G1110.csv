@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G1110,1,广州南,始发站,10:31,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G1110,2,英德西,11:07,11:09,2分钟,36分,1,140,0,0,0,0/0/0,0/0,64.5/104.5
+G1110,3,郴州西,11:55,11:57,2分钟,1小时24分,1,377,0,0,0,0/0/0,0/0,174.5/274.5
+G1110,4,长沙南,13:07,终点站,,2小时36分,1,707,0,0,0,0/0/0,0/0,314/504

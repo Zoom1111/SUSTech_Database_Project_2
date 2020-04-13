@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z63,1,北京,始发站,20:50,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+Z63,2,秦皇岛,23:20,23:23,-,2小时30分,-,299,-,-,0,0/0/0,0/0,0/0
+Z63,3,四平,04:57,05:00,-,8小时7分,-,917,-,-,0,0/0/0,0/0,0/0
+Z63,4,长春,06:12,终点站,-,9小时22分,-,1032,-,-,0,0/0/0,0/0,0/0

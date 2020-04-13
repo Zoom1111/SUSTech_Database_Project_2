@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7712,1,承德,始发站,19:18,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7712,2,兴隆县,21:09,21:11,2分钟,1小时51分,1,101,16.5,-,0,62.5/67.5/70.5,96.5/102.5,0/0
+K7712,3,怀柔,22:37,22:39,2分钟,3小时19分,1,188,28.5,-,0,74.5/79.5/82.5,113.5/119.5,0/0
+K7712,4,北京,23:41,终点站,,4小时23分,1,256,40.5,-,0,86.5/91.5/94.5,129.5/135.5,0/0

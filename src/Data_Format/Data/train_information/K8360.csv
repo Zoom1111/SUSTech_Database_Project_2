@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8360,1,合肥,始发站,08:48,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8360,2,蚌埠,10:36,10:53,17分钟,1小时48分,1,131,21.5,-,0,67.5/75/78,102.5/109,0/0
+K8360,3,固镇,11:25,11:29,4分钟,2小时37分,1,174,15.5,25.5,0,0/0/0,0/0,0/0
+K8360,4,宿州,12:08,12:12,4分钟,3小时20分,1,221,21.5,33.5,0,0/0/0,0/0,0/0
+K8360,5,淮北,13:00,终点站,,4小时12分,1,273,23.5,37.5,0,0/0/0,0/0,0/0

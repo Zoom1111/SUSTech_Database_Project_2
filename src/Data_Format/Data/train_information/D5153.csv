@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5153,1,营山,始发站,19:42,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5153,2,南充,20:12,20:14,2分钟,30分,1,58,0,0,0,0/0/0,0/0,17/20.5
+D5153,3,蓬溪,20:37,20:40,3分钟,55分,1,102,0,0,0,0/0/0,0/0,30/48
+D5153,4,遂宁,20:53,20:57,4分钟,1小时11分,1,125,0,0,0,0/0/0,0/0,36.5/44
+D5153,5,成都东,21:54,终点站,,2小时12分,1,271,0,0,0,0/0/0,0/0,80/96

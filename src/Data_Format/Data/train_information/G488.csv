@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G488,1,南昌西,始发站,10:49,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G488,2,庐山,11:32,11:34,2分钟,43分,1,123,0,0,0,0/0/0,0/0,36/43
+G488,3,郑州东,14:31,14:34,3分钟,3小时42分,1,869,0,0,0,0/0/0,0/0,551/895
+G488,4,石家庄,15:57,15:59,2分钟,5小时8分,1,1281,0,0,0,0/0/0,0/0,707/1144.5
+G488,5,北京西,17:06,终点站,,6小时17分,1,1562,0,0,0,0/0/0,0/0,806/1303

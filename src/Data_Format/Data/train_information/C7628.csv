@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7628,1,珠海,始发站,11:55,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7628,2,中山,12:18,12:20,2分钟,23分,1,46,0,0,0,0/0/0,0/0,30/0
+C7628,3,小榄,12:31,12:33,2分钟,36分,1,71,0,0,0,0/0/0,0/0,40/0
+C7628,4,北滘,12:47,12:49,2分钟,52分,1,105,0,0,0,0/0/0,0/0,65/0
+C7628,5,广州南,12:58,终点站,,1小时3分,1,116,0,0,0,0/0/0,0/0,70/90

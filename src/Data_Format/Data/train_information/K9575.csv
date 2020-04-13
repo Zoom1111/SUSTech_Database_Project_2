@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9575,1,贵阳,始发站,17:28,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9575,2,安顺,18:41,18:49,8分钟,1小时13分,1,97,15.5,-,0,61.5/66.5/69.5,0/0,0/0
+K9575,3,六枝,19:30,19:38,8分钟,2小时2分,1,153,23.5,-,0,69.5/74.5/77.5,0/0,0/0
+K9575,4,六盘水,21:14,终点站,,3小时46分,1,249,40.5,-,0,86.5/91.5/94.5,0/0,0/0

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Y954,1,北屯市,始发站,23:00,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+Y954,2,福海,23:25,23:27,-,25分,-,33,-,-,0,0/0/0,0/0,0/0
+Y954,3,奎屯,04:49,05:03,-,5小时49分,-,462,-,107,0,123/126/130,186/194,0/0
+Y954,4,石河子,05:59,06:01,-,6小时59分,-,559,-,123,0,139/144/148,214/223,0/0
+Y954,5,乌鲁木齐,07:25,终点站,-,8小时25分,-,694,-,146,0,163/168/174,251/263,0/0

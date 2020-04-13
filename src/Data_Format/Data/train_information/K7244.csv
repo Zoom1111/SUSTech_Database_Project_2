@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7244,1,海伦,始发站,14:13,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7244,2,绥棱,14:39,14:42,3分钟,26分,1,32,4,-,0,38/41/43,0/0,0/0
+K7244,3,绥化,15:36,终点站,,1小时23分,1,102,8.5,-,0,42.5/45.5/47.5,0/0,0/0

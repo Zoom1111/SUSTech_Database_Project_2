@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6615/D6618,1,北京,始发站,18:01,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6615/D6618,2,唐山,19:28,19:31,3分钟,1小时27分,1,177,0,0,0,0/0/0,0/0,52/62
+D6615/D6618,3,曹妃甸港,20:20,终点站,,2小时19分,1,265,0,0,0,0/0/0,0/0,0/0

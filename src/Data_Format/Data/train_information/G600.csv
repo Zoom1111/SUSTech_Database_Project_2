@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G597/G600,1,武汉,始发站,15:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G597/G600,2,合肥南,16:34,16:49,15分钟,1小时34分,1,355,0,0,0,0/0/0,0/0,133.5/214
+G597/G600,3,南京南,17:42,17:44,2分钟,2小时42分,1,512,0,0,0,0/0/0,0/0,200.5/320
+G597/G600,4,上海虹桥,18:55,终点站,,3小时55分,1,807,0,0,0,0/0/0,0/0,301/425.5

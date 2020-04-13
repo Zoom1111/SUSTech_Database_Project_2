@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5215/D5218,1,襄阳,始发站,19:00,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D5215/D5218,2,枣阳,19:31,19:33,-,31分,-,72,0,0/0,0,0/0/0,0/0,0/0
+D5215/D5218,3,汉口,21:18,21:24,-,2小时18分,-,315,0,0/0,0,0/0/0,0/0,0/0
+D5215/D5218,4,武汉,21:47,终点站,-,2小时47分,-,351,0,0/0,0,0/0/0,0/0,0/0

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C5633,1,武汉,始发站,07:06,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C5633,2,葛店南,07:23,07:25,2分钟,17分,1,29,0,0,0,0/0/0,0/0,10/12
+C5633,3,黄冈东,07:43,终点站,,37分,1,65,0,0,0,0/0/0,0/0,22/26

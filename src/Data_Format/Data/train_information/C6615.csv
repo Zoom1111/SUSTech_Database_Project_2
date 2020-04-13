@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6615,1,成都西,始发站,11:08,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6615,2,崇州,11:24,11:26,2分钟,16分,1,33,0,0,0,0/0/0,0/0,12/0
+C6615,3,大邑,11:35,11:37,2分钟,27分,1,49,0,0,0,0/0/0,0/0,18/0
+C6615,4,邛崃,11:46,11:48,2分钟,38分,1,67,0,0,0,0/0/0,0/0,25/0
+C6615,5,名山,12:13,12:15,2分钟,1小时5分,1,127,0,0,0,0/0/0,0/0,47/0
+C6615,6,雅安,12:26,终点站,,1小时18分,1,140,0,0,0,0/0/0,0/0,52/83

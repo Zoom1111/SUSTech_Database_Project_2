@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G5387,1,贵阳北,始发站,20:43,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G5387,2,安顺西,21:12,终点站,,29分,1,101,0,0,0,0/0/0,0/0,46.5/78

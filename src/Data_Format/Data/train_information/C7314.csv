@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7314,1,三亚,始发站,09:33,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7314,2,美兰,10:46,10:48,2分钟,1小时13分,1,270,0,0,0,0/0/0,0/0,95/137
+C7314,3,海口东,10:58,终点站,,1小时25分,1,284,0,0,0,0/0/0,0/0,100/144

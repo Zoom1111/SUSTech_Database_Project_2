@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+4367/4370,1,通辽,始发站,06:45,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+4367/4370,2,甘旗卡,07:35,07:58,23分钟,50分,1,76,5,10.5,0,39/42/44,0/0,0/0
+4367/4370,3,大青沟,08:19,08:21,2分钟,1小时34分,1,99,7.5,12.5,0,41.5/44.5/46.5,0/0,0/0
+4367/4370,4,库伦,08:55,终点站,,2小时10分,1,133,10.5,18.5,0,44.5/47.5/49.5,0/0,0/0

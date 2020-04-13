@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T6552,1,邓州,始发站,17:03,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+T6552,2,南阳,17:50,18:16,26分钟,47分,1,56,17.5,-,0,0/0/0,86.5/92.5,0/0
+T6552,3,汝州,19:57,19:59,2分钟,2小时54分,1,220,49.5,-,0,0/0/0,118.5/124.5,0/0
+T6552,4,郑州,22:15,终点站,,5小时12分,1,426,62.5,96.5,0,0/0/0,166.5/174.5,0/0

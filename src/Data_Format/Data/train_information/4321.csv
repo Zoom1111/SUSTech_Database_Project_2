@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+4321,1,本溪,始发站,17:59,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+4321,2,桥头,18:20,18:22,2分钟,21分,1,13,2,-,0,0/0/0,0/0,0/0
+4321,3,南芬,18:34,终点站,,35分,1,25,3,-,0,37/40/42,0/0,0/0

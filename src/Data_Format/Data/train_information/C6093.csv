@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6093,1,犀浦,始发站,17:26,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6093,2,迎宾路,17:47,17:49,2分钟,21分,1,42,0,0,0,0/0/0,0/0,0/5
+C6093,3,离堆公园,17:54,终点站,,28分,1,44,0,0,0,0/0/0,0/0,0/0

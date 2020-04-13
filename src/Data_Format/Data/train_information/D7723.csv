@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7723,1,大连北,始发站,05:33,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D7723,2,金州,05:44,05:46,-,11分,-,16,0,0/0,0,0/0/0,0/0,0/0
+D7723,3,庄河北,06:34,终点站,-,1小时1分,-,26,0,0/0,0,0/0/0,0/0,0/0

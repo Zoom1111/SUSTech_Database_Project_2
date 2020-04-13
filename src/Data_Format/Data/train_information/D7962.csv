@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7962,1,绥芬河,始发站,19:25,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7962,2,穆棱,19:57,19:59,2分钟,32分,1,71,0,0,0,0/0/0,0/0,23/38
+D7962,3,牡丹江,20:29,终点站,,1小时4分,1,137,0,0,0,0/0/0,0/0,51/81

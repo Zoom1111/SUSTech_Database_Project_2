@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7214,1,香坊,始发站,11:43,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7214,2,周家,12:18,12:21,3分钟,35分,1,34,9,-,0,55/60/63,81.5/87.5,0/0
+K7214,3,拉林,12:43,12:45,2分钟,1小时0分,1,66,12.5,-,0,58.5/63.5/66.5,87.5/93.5,0/0
+K7214,4,五常,13:20,终点站,,1小时37分,1,108,16.5,-,0,62.5/67.5/70.5,96.5/102.5,0/0

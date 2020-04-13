@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8852,1,乌鲁木齐,始发站,10:17,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8852,2,乌鲁木齐南,10:28,10:29,1分钟,11分,1,9,0,0,0,0/0/0,0/0,6/10
+D8852,3,吐鲁番北,11:15,11:16,1分钟,58分,1,158,0,0,0,0/0/0,0/0,51.5/82
+D8852,4,鄯善北,11:44,终点站,,1小时27分,1,249,0,0,0,0/0/0,0/0,79.5/127

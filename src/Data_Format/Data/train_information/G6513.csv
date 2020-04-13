@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6513,1,广州南,始发站,17:42,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6513,2,深圳北,18:14,18:18,4分钟,32分,1,102,0,0,0,0/0/0,0/0,74.5/99.5
+G6513,3,福田,18:26,终点站,,44分,1,111,0,0,0,0/0/0,0/0,82/108

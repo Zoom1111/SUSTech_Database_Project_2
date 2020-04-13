@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8808,1,乌鲁木齐,始发站,13:11,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8808,2,吐鲁番北,14:03,14:04,1分钟,52分,1,167,0,0,0,0/0/0,0/0,51.5/62
+D8808,3,哈密,15:40,终点站,,2小时29分,1,539,0,0,0,0/0/0,0/0,166.5/199.5

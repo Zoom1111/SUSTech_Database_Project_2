@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2924,1,郑州,始发站,12:15,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2924,2,黄河景区,12:29,12:33,4分钟,14分,1,23,0,0,0,0/0/0,0/0,11/0
+C2924,3,修武西,12:49,12:51,2分钟,34分,1,58,0,0,0,0/0/0,0/0,22/35
+C2924,4,焦作,13:03,终点站,,48分,1,78,0,0,0,0/0/0,0/0,28/45

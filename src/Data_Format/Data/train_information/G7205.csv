@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7205,1,苏州,始发站,09:24,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7205,2,昆山南,09:36,09:38,2分钟,12分,1,34,0,0,0,0/0/0,0/0,14.5/24.5
+G7205,3,安亭北,09:49,09:50,1分钟,25分,1,55,0,0,0,0/0/0,0/0,24.5/39.5
+G7205,4,上海,10:03,终点站,,39分,1,84,0,0,0,0/0/0,0/0,39.5/59.5

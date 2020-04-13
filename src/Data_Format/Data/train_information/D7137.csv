@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7137,1,佛山西,始发站,08:26,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7137,2,广州南,08:45,08:56,11分钟,19分,1,33,0,0,0,0/0/0,0/0,10/16
+D7137,3,中山,09:29,09:31,2分钟,1小时3分,1,103,0,0,0,0/0/0,0/0,50/62
+D7137,4,珠海,09:57,终点站,,1小时31分,1,149,0,0,0,0/0/0,0/0,80/102

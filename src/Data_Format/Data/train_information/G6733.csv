@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6733,1,北京西,始发站,14:23,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6733,2,定州东,15:17,15:19,2分钟,54分,1,139,0,0,0,0/0/0,0/0,92.5/147.5
+G6733,3,石家庄,15:42,15:44,2分钟,1小时19分,1,281,0,0,0,0/0/0,0/0,128.5/206.5
+G6733,4,邢台东,16:12,16:14,2分钟,1小时49分,1,403,0,0,0,0/0/0,0/0,185.5/296.5
+G6733,5,邯郸东,16:30,终点站,,2小时7分,1,456,0,0,0,0/0/0,0/0,209/335

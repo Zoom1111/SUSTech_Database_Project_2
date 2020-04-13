@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6578,1,烟台,始发站,20:23,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6578,2,莱阳,21:09,21:11,2分钟,46分,1,98,0,0,0,0/0/0,0/0,30/36.5
+C6578,3,青岛北,21:50,终点站,,1小时27分,1,199,0,0,0,0/0/0,0/0,61/73

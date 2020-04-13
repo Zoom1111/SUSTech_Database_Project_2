@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9861,1,红果,始发站,18:25,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9861,2,富源,18:52,18:55,3分钟,27分,1,29,9,-,0,0/0/0,0/0,0/0
+K9861,3,曲靖,19:59,20:07,8分钟,1小时34分,1,104,16.5,-,0,0/0/0,0/0,0/0
+K9861,4,昆明,21:56,终点站,,3小时31分,1,261,41.5,-,0,87.5/92.5/95.5,132.5/138.5,0/0

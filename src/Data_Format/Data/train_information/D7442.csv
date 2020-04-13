@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7442/D7443,1,汕头,始发站,12:58,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7442/D7443,2,潮汕,13:21,13:26,5分钟,23分,1,29,0,0,0,0/0/0,0/0,11/17
+D7442/D7443,3,普宁,13:47,13:49,2分钟,49分,1,82,0,0,0,0/0/0,0/0,30/49
+D7442/D7443,4,汕尾,14:24,14:26,2分钟,1小时26分,1,178,0,0,0,0/0/0,0/0,66/105
+D7442/D7443,5,深圳北,15:29,终点站,,2小时31分,1,334,0,0,0,0/0/0,0/0,117/187

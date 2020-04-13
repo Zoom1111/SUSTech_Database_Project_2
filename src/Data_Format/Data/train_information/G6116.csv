@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6116,1,广州南,始发站,19:49,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6116,2,韶关,20:40,20:42,2分钟,51分,1,227,0,0,0,0/0/0,0/0,104.5/164.5
+G6116,3,郴州西,21:13,21:15,2分钟,1小时24分,1,377,0,0,0,0/0/0,0/0,174.5/274.5
+G6116,4,株洲西,22:11,22:13,2分钟,2小时22分,1,655,0,0,0,0/0/0,0/0,294/469
+G6116,5,长沙南,22:32,终点站,,2小时43分,1,707,0,0,0,0/0/0,0/0,314/504

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z203,1,北京,始发站,20:21,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z203,2,唐山北,21:41,21:49,8分钟,1小时20分,1,151,23.5,-,0,69.5/77/80,105.5/112,0/0
+Z203,3,秦皇岛,23:03,23:05,2分钟,2小时42分,1,299,43.5,-,0,89.5/99/103,135.5/144,0/0
+Z203,4,哈尔滨,06:47,终点站,,10小时26分,2,1249,-,241.5,0,0/0/0,409.5/427.5,0/0

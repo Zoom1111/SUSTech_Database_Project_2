@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6217,1,绵阳,始发站,21:47,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6217,2,德阳,22:04,22:06,2分钟,17分,1,47,0,0,0,0/0/0,0/0,19/23
+C6217,3,成都东,22:30,终点站,,43分,1,113,0,0,0,0/0/0,0/0,45/54

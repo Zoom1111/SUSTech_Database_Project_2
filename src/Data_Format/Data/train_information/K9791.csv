@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9791,1,乌鲁木齐,始发站,23:08,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9791,2,奎屯,01:26,01:34,8分钟,2小时18分,2,232,37.5,-,0,83.5/88.5/91.5,125.5/131.5,0/0
+K9791,3,北屯市,07:32,08:00,28分钟,8小时24分,2,694,93,-,0,163/168/174,251/263,0/0
+K9791,4,阿勒泰,08:47,终点站,,9小时39分,2,760,100,-,0,204/212/220,311/327,0/0

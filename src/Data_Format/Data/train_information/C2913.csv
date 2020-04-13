@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2913,1,焦作,始发站,22:07,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2913,2,郑州,22:44,终点站,,37分,1,78,0,0,0,0/0/0,0/0,28/45

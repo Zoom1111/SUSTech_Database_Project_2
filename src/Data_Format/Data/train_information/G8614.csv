@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8614,1,资中北,始发站,10:23,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8614,2,资阳北,10:36,10:44,8分钟,13分,1,41,0,0,0,0/0/0,0/0,20/31.5
+G8614,3,成都东,11:10,终点站,,47分,1,124,0,0,0,0/0/0,0/0,60/96

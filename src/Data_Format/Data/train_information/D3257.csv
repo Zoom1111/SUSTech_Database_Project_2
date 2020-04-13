@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D3256/D3257,1,南昌,始发站,17:36,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D3256/D3257,2,共青城,18:05,18:07,2分钟,29分,1,72,0,0,0,0/0/0,0/0,192.5/308.5
+D3256/D3257,3,庐山,18:26,18:28,2分钟,50分,1,116,0,0,0,0/0/0,0/0,33.5/40.5
+D3256/D3257,4,瑞昌西,18:41,终点站,,1小时5分,1,143,0,0,0,0/0/0,0/0,43/56

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z100,1,广州东,始发站,18:16,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z100,2,株洲,01:00,01:23,23分钟,6小时44分,2,663,91,-,0,158/164/169,301/314,0/0
+Z100,3,金华,07:19,07:25,6分钟,13小时3分,2,1428,173.5,-,0,296.5/306.5/317.5,533.5/557.5,0/0
+Z100,4,上海,10:37,终点站,,16小时21分,2,1818,206,-,0,353/365/377,640/668,0/0

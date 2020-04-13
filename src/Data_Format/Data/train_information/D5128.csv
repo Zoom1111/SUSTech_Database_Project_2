@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5125/D5128,1,成都东,始发站,13:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5125/D5128,2,遂宁,14:26,14:28,2分钟,56分,1,146,0,0,0,0/0/0,0/0,45/72
+D5125/D5128,3,蓬溪,14:43,14:45,2分钟,1小时13分,1,169,0,0,0,0/0/0,0/0,50/61
+D5125/D5128,4,南充北,15:08,15:10,2分钟,1小时38分,1,211,0,0,0,0/0/0,0/0,69/86
+D5125/D5128,5,阆中,15:47,终点站,,2小时17分,1,293,0,0,0,0/0/0,0/0,95/127.5

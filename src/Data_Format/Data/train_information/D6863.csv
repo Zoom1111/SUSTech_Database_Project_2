@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6863,1,西安北,始发站,14:18,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6863,2,洋县西,15:14,15:16,2分钟,56分,1,193,0,0,0,0/0/0,0/0,57/68
+D6863,3,城固北,15:26,15:34,8分钟,1小时8分,1,214,0,0,0,0/0/0,0/0,86/137
+D6863,4,汉中,15:46,15:48,2分钟,1小时28分,1,242,0,0,0,0/0/0,0/0,97/155
+D6863,5,宁强南,16:11,终点站,,1小时53分,1,318,0,0,0,0/0/0,0/0,127/204

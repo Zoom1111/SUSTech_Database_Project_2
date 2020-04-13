@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+7265,1,张家界,始发站,08:30,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+7265,2,猛洞河,10:36,10:42,6分钟,2小时6分,1,74,4,-,0,0/0/0,0/0,0/0
+7265,3,吉首,12:10,12:16,6分钟,3小时40分,1,125,8.5,-,0,0/0/0,0/0,0/0
+7265,4,麻阳,13:33,13:36,3分钟,5小时3分,1,184,11.5,-,0,0/0/0,0/0,0/0
+7265,5,怀化,14:50,终点站,,6小时20分,1,228,15.5,-,0,0/0/0,0/0,0/0

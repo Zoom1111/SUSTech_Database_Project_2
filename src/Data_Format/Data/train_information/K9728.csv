@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9728,1,奎屯,始发站,09:10,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+K9728,2,沙湾县,09:46,09:48,-,36分,-,60,-,-,0,0/0/0,0/0,0/0
+K9728,3,石河子,10:11,10:13,-,1小时1分,-,97,15.5,-,0,61.5/66.5/69.5,92.5/98.5,0/0
+K9728,4,玛纳斯,10:25,10:27,-,1小时15分,-,109,-,-,0,0/0/0,0/0,0/0
+K9728,5,乌鲁木齐,12:07,终点站,-,2小时57分,-,232,37.5,-,0,83.5/88.5/91.5,125.5/131.5,0/0

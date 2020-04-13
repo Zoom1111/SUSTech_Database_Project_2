@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+5517,1,南宁,始发站,07:53,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+5517,2,扶绥,08:53,09:11,18分钟,1小时0分,1,55,9,-,0,55/60/63,84.5/90.5,0/0
+5517,3,崇左,10:18,10:23,5分钟,2小时25分,1,122,29.5,-,0,0/0/0,0/0,0/0
+5517,4,宁明,11:33,11:38,5分钟,3小时40分,1,177,25.5,-,0,0/0/0,0/0,0/0
+5517,5,凭祥,12:26,终点站,,4小时33分,1,220,29.5,-,0,0/0/0,0/0,0/0

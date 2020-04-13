@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8188,1,西安,始发站,09:00,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+K8188,2,延安,12:08,12:11,-,3小时8分,-,326,-,-,0,0/0/0,0/0,0/0
+K8188,3,榆林,15:38,终点站,-,6小时38分,-,595,-,-,0,0/0/0,0/0,0/0

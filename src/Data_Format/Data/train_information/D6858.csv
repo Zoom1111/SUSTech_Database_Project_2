@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6858,1,汉中,始发站,09:37,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6858,2,城固北,09:48,09:50,2分钟,11分,1,28,0,0,0,0/0/0,0/0,11/18
+D6858,3,洋县西,10:00,10:02,2分钟,23分,1,49,0,0,0,0/0/0,0/0,20/31
+D6858,4,鄠邑,10:50,10:52,2分钟,1小时13分,1,197,0,0,0,0/0/0,0/0,79/126
+D6858,5,西安北,11:15,终点站,,1小时38分,1,242,0,0,0,0/0/0,0/0,97/155

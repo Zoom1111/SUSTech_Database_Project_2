@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7623,1,广州南,始发站,21:21,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7623,2,顺德,21:29,21:31,2分钟,8分,1,15,0,0,0,0/0/0,0/0,10/0
+C7623,3,小榄,21:44,21:46,2分钟,23分,1,45,0,0,0,0/0/0,0/0,25/0
+C7623,4,唐家湾,22:05,22:08,3分钟,44分,1,97,0,0,0,0/0/0,0/0,60/0
+C7623,5,珠海,22:26,终点站,,1小时5分,1,116,0,0,0,0/0/0,0/0,70/90

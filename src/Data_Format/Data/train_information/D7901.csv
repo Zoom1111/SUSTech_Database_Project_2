@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7901,1,哈尔滨,始发站,08:05,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7901,2,哈尔滨北,08:14,08:15,1分钟,9分,1,13,0,0,0,0/0/0,0/0,7/8
+D7901,3,肇东,08:31,08:32,1分钟,26分,1,62,0,0,0,0/0/0,0/0,22/26
+D7901,4,大庆西,09:04,终点站,,59分,1,170,0,0,0,0/0/0,0/0,60/95

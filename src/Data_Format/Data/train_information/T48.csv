@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T48,1,齐齐哈尔,始发站,18:53,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+T48,2,大庆西,20:02,20:05,3分钟,1小时9分,1,116,-,-,0,64.5/69.5/72.5,97.5/103.5,0/0
+T48,3,哈尔滨,21:49,22:04,15分钟,2小时56分,1,286,-,-,0,89.5/94.5/97.5,135.5/141.5,0/0
+T48,4,沈阳北,02:57,03:03,6分钟,8小时4分,2,831,112,-,0,194/200/208,301/315,0/0
+T48,5,北京,09:14,终点站,,14小时21分,2,1537,-,-,0,312/323/333,490/511,0/0

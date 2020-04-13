@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7285,1,汕尾,始发站,14:56,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7285,2,惠州南,15:32,15:39,7分钟,36分,1,100,0,0,0,0/0/0,0/0,35/56
+C7285,3,深圳坪山,15:49,15:51,2分钟,53分,1,120,0,0,0,0/0/0,0/0,42/67
+C7285,4,深圳北,16:17,终点站,,1小时21分,1,156,0,0,0,0/0/0,0/0,55/87

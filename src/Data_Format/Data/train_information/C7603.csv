@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7603,1,广州南,始发站,09:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7603,2,容桂,09:44,09:46,2分钟,14分,1,32,0,0,0,0/0/0,0/0,20/25
+C7603,3,南头,09:51,09:53,2分钟,21分,1,37,0,0,0,0/0/0,0/0,20/0
+C7603,4,珠海,10:29,终点站,,59分,1,116,0,0,0,0/0/0,0/0,70/90

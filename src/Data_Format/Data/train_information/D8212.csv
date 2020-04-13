@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8212,1,南宁东,始发站,20:35,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8212,2,来宾北,21:17,21:19,2分钟,42分,1,106,0,0,0,0/0/0,0/0,54/87
+D8212,3,柳州,21:45,21:48,3分钟,1小时10分,1,212,0,0,0,0/0/0,0/0,62/74.5
+D8212,4,桂林,22:55,终点站,,2小时20分,1,368,0,0,0,0/0/0,0/0,124.5/199

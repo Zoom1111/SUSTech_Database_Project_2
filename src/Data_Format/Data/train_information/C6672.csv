@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6672,1,兴文,始发站,18:47,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6672,2,青神,20:10,20:12,2分钟,1小时23分,1,249,0,0,0,0/0/0,0/0,0/0
+C6672,3,彭山北,20:29,20:31,2分钟,1小时42分,1,290,0,0,0,0/0/0,0/0,0/0
+C6672,4,成都东,21:01,终点站,,2小时14分,1,356,0,0,0,0/0/0,0/0,0/0

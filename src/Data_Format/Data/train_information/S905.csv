@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+S905,1,蓟州北,始发站,10:43,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+S905,2,宝坻,11:25,11:28,3分钟,42分,1,40,9,-,0,0/0/0,0/0,0/0
+S905,3,天津北,12:32,终点站,,1小时49分,1,109,26.5,-,0,0/0/0,0/0,0/0

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6067,1,潍坊,始发站,08:07,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D6067,2,即墨北,08:59,09:01,-,52分,-,157,0,48.5/78,0,0/0/0,0/0,48.5/78
+D6067,3,莱西北,09:21,09:24,-,1小时14分,-,206,0,63.5/102,0,0/0/0,0/0,63.5/102
+D6067,4,莱阳,09:35,09:38,-,1小时28分,-,227,0,70/112,0,0/0/0,0/0,70/112
+D6067,5,烟台,10:27,终点站,-,2小时20分,-,313,0,100.5/160,0,0/0/0,0/0,100.5/160

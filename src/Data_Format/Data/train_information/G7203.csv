@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7203,1,苏州,始发站,06:53,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7203,2,苏州园区,07:00,07:02,2分钟,7分,1,10,0,0,0,0/0/0,0/0,9.5/14.5
+G7203,3,上海,07:25,终点站,,32分,1,84,0,0,0,0/0/0,0/0,39.5/59.5

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D3601,1,梧州南,始发站,08:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D3601,2,云浮东,09:05,09:07,2分钟,35分,1,108,0,0,0,0/0/0,0/0,33.5/40
+D3601,3,三水南,09:36,09:38,2分钟,1小时6分,1,195,0,0,0,0/0/0,0/0,60/72
+D3601,4,佛山西,09:50,09:52,2分钟,1小时20分,1,213,0,0,0,0/0/0,0/0,0/0
+D3601,5,广州南,10:12,终点站,,1小时42分,1,246,0,0,0,0/0/0,0/0,76/91

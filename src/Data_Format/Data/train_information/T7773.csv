@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T7772/T7773,1,南京,始发站,07:59,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+T7772/T7773,2,扬州,09:12,09:16,4分钟,1小时13分,1,101,24.5,28.5,0,0/0/0,0/0,0/0
+T7772/T7773,3,东台,10:44,10:47,3分钟,2小时45分,1,259,-,60.5,0,0/0/0,0/0,0/0
+T7772/T7773,4,盐城,11:40,终点站,,3小时41分,1,322,-,77.5,0,0/0/0,0/0,0/0

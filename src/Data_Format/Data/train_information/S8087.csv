@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+S8087,1,海口,始发站,08:07,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+S8087,2,长流,08:15,08:16,1分钟,8分,1,8,2,-,0,0/0/0,0/0,0/0
+S8087,3,秀英,08:21,08:22,1分钟,14分,1,16,4,-,0,0/0/0,0/0,0/0
+S8087,4,城西,08:27,08:28,1分钟,20分,1,22,6,-,0,0/0/0,0/0,0/0
+S8087,5,海口东,08:32,08:34,2分钟,25分,1,24,7,-,0,0/0/0,0/0,0/0
+S8087,6,美兰,08:43,终点站,,36分,1,38,10,-,0,0/0/0,0/0,0/0

@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7641,1,广州南,始发站,14:15,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7641,2,北滘,14:22,14:24,2分钟,7分,1,11,0,0,0,0/0/0,0/0,10/15
+C7641,3,南头,14:36,14:38,2分钟,21分,1,37,0,0,0,0/0/0,0/0,20/0
+C7641,4,小榄,14:43,14:45,2分钟,28分,1,45,0,0,0,0/0/0,0/0,25/0
+C7641,5,唐家湾,15:04,15:06,2分钟,49分,1,97,0,0,0,0/0/0,0/0,60/0
+C7641,6,珠海,15:24,终点站,,1小时9分,1,116,0,0,0,0/0/0,0/0,70/90

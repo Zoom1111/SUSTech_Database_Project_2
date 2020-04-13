@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D9425,1,大荔,始发站,16:25,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D9425,2,渭南北,16:43,16:45,-,18分,-,53,0,0/0,0,0/0/0,0/0,0/0
+D9425,3,西安北,17:10,终点站,-,45分,-,116,0,36/57,0,0/0/0,0/0,36/57

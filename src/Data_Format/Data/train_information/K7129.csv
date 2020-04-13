@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7129,1,佳木斯,始发站,07:50,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7129,2,太平镇,08:33,08:39,6分钟,43分,1,32,4,-,0,38/41/43,55/59,0/0
+K7129,3,福利屯,09:12,09:16,4分钟,1小时22分,1,68,6,-,0,40/43/45,59.5/63.5,0/0
+K7129,4,双鸭山,09:30,终点站,,1小时40分,1,79,12.5,-,0,58.5/63.5/66.5,89.5/95.5,0/0

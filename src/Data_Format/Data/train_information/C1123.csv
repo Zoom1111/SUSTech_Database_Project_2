@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C1122/C1123,1,沈阳,始发站,18:35,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C1122/C1123,2,彰武,19:19,19:21,2分钟,44分,1,113,0,0,0,0/0/0,0/0,44/70
+C1122/C1123,3,甘旗卡,19:42,19:44,2分钟,1小时7分,1,180,0,0,0,0/0/0,0/0,69/110
+C1122/C1123,4,通辽,20:09,终点站,,1小时34分,1,256,0,0,0,0/0/0,0/0,97/155

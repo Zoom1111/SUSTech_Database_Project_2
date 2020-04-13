@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8527/K8526,1,芜湖,始发站,06:07,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8527/K8526,2,无为南,07:21,07:25,4分钟,1小时14分,1,77,6,-,0,0/0/0,0/0,0/0
+K8527/K8526,3,龙桥,07:58,08:02,4分钟,1小时51分,1,128,10.5,-,0,0/0/0,0/0,0/0
+K8527/K8526,4,庐江,08:45,08:48,3分钟,2小时38分,1,177,15.5,-,0,0/0/0,0/0,0/0
+K8527/K8526,5,合肥,09:40,终点站,,3小时33分,1,276,22.5,-,0,0/0/0,0/0,0/0

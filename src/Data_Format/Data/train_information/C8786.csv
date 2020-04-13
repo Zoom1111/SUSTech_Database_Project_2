@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C8786,1,博尔塔拉,始发站,18:40,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C8786,2,乌鲁木齐,22:29,终点站,,3小时49分,1,488,0,0,0,0/0/0,0/0,0/0

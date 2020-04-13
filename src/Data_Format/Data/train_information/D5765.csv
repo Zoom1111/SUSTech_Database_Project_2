@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5764/D5765,1,武昌,始发站,16:17,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5764/D5765,2,汉川,16:50,16:52,2分钟,33分,1,66,0,0,0,0/0/0,0/0,22/35
+D5764/D5765,3,天门南,17:08,17:10,2分钟,51分,1,103,0,0,0,0/0/0,0/0,36/57
+D5764/D5765,4,荆州,17:52,17:54,2分钟,1小时35分,1,224,0,0,0,0/0/0,0/0,80/129
+D5764/D5765,5,宜昌东,18:28,终点站,,2小时11分,1,312,0,0,0,0/0/0,0/0,113/181

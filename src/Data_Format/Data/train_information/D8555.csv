@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8555,1,重庆西,始发站,19:36,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8555,2,綦江东,20:02,20:04,2分钟,26分,1,61,0,0,0,0/0/0,0/0,22/36
+D8555,3,赶水东,20:18,20:21,3分钟,42分,1,92,0,0,0,0/0/0,0/0,34/55
+D8555,4,桐梓东,20:49,20:52,3分钟,1小时13分,1,168,0,0,0,0/0/0,0/0,62/100
+D8555,5,贵阳北,21:58,终点站,,2小时22分,1,347,0,0,0,0/0/0,0/0,129/206

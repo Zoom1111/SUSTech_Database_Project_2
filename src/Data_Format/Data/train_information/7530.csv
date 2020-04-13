@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+7530,1,镜铁山,始发站,17:00,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+7530,2,绿化,19:05,19:20,15分钟,2小时5分,1,69,4,-,0,0/0/0,0/0,0/0
+7530,3,嘉峪关,19:32,终点站,,2小时32分,1,74,4,-,0,0/0/0,0/0,0/0

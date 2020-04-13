@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8034,1,长春,始发站,19:41,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8034,2,沈阳,21:11,21:14,3分钟,1小时30分,1,315,0,0,0,0/0/0,0/0,144.5/231.5
+G8034,3,沈阳南,21:25,终点站,,1小时44分,1,330,0,0,0,0/0/0,0/0,151.5/242.5

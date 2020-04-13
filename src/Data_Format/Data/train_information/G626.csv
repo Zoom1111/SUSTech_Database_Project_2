@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G626,1,太原南,始发站,18:50,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G626,2,阳泉北,19:37,19:45,8分钟,47分,1,129,0,0,0,0/0/0,0/0,38/45.5
+G626,3,石家庄,20:24,20:35,11分钟,1小时34分,1,224,0,0,0,0/0/0,0/0,68/109
+G626,4,保定东,21:11,21:13,2分钟,2小时21分,1,366,0,0,0,0/0/0,0/0,133/213.5
+G626,5,北京西,21:54,终点站,,3小时4分,1,513,0,0,0,0/0/0,0/0,197/288

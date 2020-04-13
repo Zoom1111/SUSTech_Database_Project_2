@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7028,1,深圳,始发站,14:55,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7028,2,樟木头,15:16,15:18,2分钟,21分,1,44,0,0,0,0/0/0,0/0,39.5/44.5
+C7028,3,常平,15:25,15:27,2分钟,30分,1,57,0,0,0,0/0/0,0/0,44.5/49.5
+C7028,4,东莞,15:37,15:39,2分钟,42分,1,76,0,0,0,0/0/0,0/0,53.5/58.5
+C7028,5,广州东,16:13,终点站,,1小时18分,1,139,0,0,0,0/0/0,0/0,79.5/99.5

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6543,1,三明北,始发站,15:11,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6543,2,尤溪,15:29,15:31,2分钟,18分,1,42,0,0,0,0/0/0,0/0,12.5/14.5
+D6543,3,永泰,16:04,16:06,2分钟,53分,1,137,0,0,0,0/0/0,0/0,40.5/48
+D6543,4,福州,16:31,终点站,,1小时20分,1,195,0,0,0,0/0/0,0/0,57/68.5

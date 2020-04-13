@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8868,1,乌鲁木齐,始发站,19:25,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8868,2,乌鲁木齐南,19:36,19:37,1分钟,11分,1,9,0,0,0,0/0/0,0/0,6/7.5
+D8868,3,吐鲁番北,20:23,终点站,,58分,1,158,0,0,0,0/0/0,0/0,51.5/82

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6812,1,宝鸡南,始发站,12:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6812,2,杨陵南,12:24,12:26,2分钟,24分,1,78,0,0,0,0/0/0,0/0,24/38.5
+D6812,3,西安北,12:55,终点站,,55分,1,167,0,0,0,0/0/0,0/0,51.5/82.5

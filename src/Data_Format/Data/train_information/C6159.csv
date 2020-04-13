@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6159,1,犀浦,始发站,18:12,,-1分,1,0,0,0,0,0/0/0,0/0,0/0
+C6159,2,都江堰,18:32,18:36,4分钟,-1分,1,42,0,0,0,0/0/0,0/0,0/10
+C6159,3,青城山,18:44,终点站,,-1分,1,47,0,0,0,0/0/0,0/0,10/10

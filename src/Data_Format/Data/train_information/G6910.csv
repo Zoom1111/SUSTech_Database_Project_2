@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6910,1,青岛北,始发站,14:35,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6910,2,潍坊北,15:20,15:23,3分钟,45分,1,139,0,0,0,0/0/0,0/0,65/103
+G6910,3,淄博北,15:50,15:53,3分钟,1小时15分,1,247,0,0,0,0/0/0,0/0,117/186
+G6910,4,济南东,16:16,16:22,6分钟,1小时41分,1,329,0,0,0,0/0/0,0/0,156/250
+G6910,5,济南西,16:45,终点站,,2小时10分,1,398,0,0,0,0/0/0,0/0,125.5/155.5

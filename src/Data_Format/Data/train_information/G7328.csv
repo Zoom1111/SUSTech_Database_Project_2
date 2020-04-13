@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7328,1,诸暨,始发站,07:02,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7328,2,杭州东,07:27,终点站,,25分,1,66,0,0,0,0/0/0,0/0,30.5/51

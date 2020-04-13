@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+S901,1,蓟州北,始发站,06:29,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+S901,2,下仓,06:54,07:01,7分钟,25分,1,27,9,-,0,0/0/0,0/0,0/0
+S901,3,宝坻,07:15,07:19,4分钟,46分,1,40,9,-,0,0/0/0,0/0,0/0
+S901,4,天津北,08:21,终点站,,1小时52分,1,109,16.5,-,0,0/0/70,0/0,0/0

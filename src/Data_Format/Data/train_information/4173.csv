@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+4173,1,牡丹江,始发站,20:55,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+4173,2,五林,23:00,23:00,,2小时5分,1,37,3,-,0,37/40/42,0/0,0/0
+4173,3,佳木斯,04:19,终点站,,7小时24分,2,332,24.5,-,0,58.5/61.5/63.5,0/0,0/0

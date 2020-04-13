@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T6611,1,兰州,始发站,09:00,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+T6611,2,武威,11:54,12:01,7分钟,2小时54分,1,303,70.5,84.5,0,0/0/0,0/0,0/0
+T6611,3,金昌,12:43,终点站,,3小时43分,1,377,88,105.5,0,0/0/0,0/0,0/0

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7291,1,东京城,始发站,08:49,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7291,2,石头,09:03,09:05,2分钟,14分,1,14,3,-,0,37/40/42,53/57,0/0
+K7291,3,兰岗,09:16,09:22,6分钟,27分,1,27,4,-,0,38/41/43,0/0,0/0
+K7291,4,宁安,09:32,09:35,3分钟,43分,1,38,4,-,0,38/41/43,55/59,0/0
+K7291,5,牡丹江,10:07,终点站,,1小时18分,1,70,6,-,0,40/43/45,59.5/63.5,0/0

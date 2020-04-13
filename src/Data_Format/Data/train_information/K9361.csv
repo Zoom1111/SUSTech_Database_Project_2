@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9361/K9364,1,重庆北,始发站,14:20,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9361/K9364,2,合川,14:58,终点站,,38分,1,56,12.5,-,0,58.5/63.5/66.5,87.5/93.5,0/0

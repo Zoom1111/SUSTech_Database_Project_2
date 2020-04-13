@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5326,1,运城北,始发站,19:09,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5326,2,临汾西,19:45,19:47,2分钟,36分,1,123,0,0,0,0/0/0,0/0,38/61
+D5326,3,太谷西,20:43,20:45,2分钟,1小时34分,1,309,0,0,0,0/0/0,0/0,0/0
+D5326,4,太原南,21:05,终点站,,1小时56分,1,356,0,0,0,0/0/0,0/0,110/132

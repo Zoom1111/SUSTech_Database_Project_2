@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8525,1,哈尔滨,始发站,19:06,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8525,2,尚志南,19:52,19:54,2分钟,46分,1,141,0,0,0,0/0/0,0/0,44/71
+D8525,3,苇河西,20:09,20:11,2分钟,1小时3分,1,186,0,0,0,0/0/0,0/0,59/94
+D8525,4,牡丹江,20:46,终点站,,1小时40分,1,300,0,0,0,0/0/0,0/0,111/178

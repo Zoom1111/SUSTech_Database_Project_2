@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2552,1,滨海,始发站,06:38,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2552,2,天津,07:00,07:04,4分钟,22分,1,45,0,0,0,0/0/0,0/0,12/20
+C2552,3,武清,07:17,07:19,2分钟,39分,1,81,0,0,0,0/0/0,0/0,27.5/46
+C2552,4,北京南,07:41,终点站,,1小时3分,1,165,0,0,0,0/0/0,0/0,66.5/108

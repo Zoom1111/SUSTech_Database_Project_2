@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6568,1,威海,始发站,17:02,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6568,2,威海北,17:09,17:11,2分钟,7分,1,13,0,0,0,0/0/0,0/0,6/7.5
+C6568,3,烟台南,17:35,17:37,2分钟,33分,1,73,0,0,0,0/0/0,0/0,22.5/27
+C6568,4,莱阳,18:10,18:12,2分钟,1小时8分,1,159,0,0,0,0/0/0,0/0,49/59
+C6568,5,青岛北,18:51,终点站,,1小时49分,1,260,0,0,0,0/0/0,0/0,80/96

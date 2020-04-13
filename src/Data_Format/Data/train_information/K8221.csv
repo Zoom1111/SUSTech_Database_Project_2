@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8221,1,安康,始发站,07:23,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8221,2,石泉县,08:54,08:56,2分钟,1小时31分,1,88,14.5,-,0,60.5/65.5/68.5,90.5/96.5,0/0
+K8221,3,西乡,09:44,10:17,33分钟,2小时21分,1,147,23.5,-,0,69.5/74.5/77.5,104.5/110.5,0/0
+K8221,4,汉中,11:54,终点站,,4小时31分,1,240,37.5,-,0,83.5/88.5/91.5,125.5/131.5,0/0

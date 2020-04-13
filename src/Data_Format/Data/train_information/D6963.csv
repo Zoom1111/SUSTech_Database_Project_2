@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6963,1,呼和浩特东,始发站,16:07,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6963,2,呼和浩特,16:16,16:18,2分钟,9分,1,8,0,0,0,0/0/0,0/0,5/10
+D6963,3,托克托东,16:54,16:56,2分钟,47分,1,86,0,0,0,0/0/0,0/0,26/47
+D6963,4,东胜东,17:52,17:54,2分钟,1小时45分,1,214,0,0,0,0/0/0,0/0,63/75
+D6963,5,鄂尔多斯,18:11,终点站,,2小时4分,1,247,0,0,0,0/0/0,0/0,89/139.5

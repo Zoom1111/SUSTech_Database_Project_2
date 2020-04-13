@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+4249,1,辽阳,始发站,15:43,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+4249,2,安平,16:23,16:27,4分钟,40分,1,36,3,-,0,0/0/0,0/0,0/0
+4249,3,寒岭,16:45,16:48,3分钟,1小时2分,1,48,4,-,0,0/0/0,0/0,0/0
+4249,4,本溪,17:32,终点站,,1小时49分,1,73,5,-,0,0/0/0,0/0,0/0

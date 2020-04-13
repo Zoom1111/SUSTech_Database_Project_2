@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6732,1,邯郸东,始发站,08:09,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6732,2,高邑西,08:37,08:39,2分钟,28分,1,124,0,0,0,0/0/0,0/0,56.5/90.5
+G6732,3,石家庄,08:54,08:57,3分钟,45分,1,175,0,0,0,0/0/0,0/0,80.5/128.5
+G6732,4,保定东,09:32,09:35,3分钟,1小时23分,1,317,0,0,0,0/0/0,0/0,145.5/232.5
+G6732,5,北京西,10:18,终点站,,2小时9分,1,456,0,0,0,0/0/0,0/0,209/335

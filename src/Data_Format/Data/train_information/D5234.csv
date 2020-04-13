@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5234,1,襄阳,始发站,12:15,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5234,2,枣阳,12:46,12:48,2分钟,31分,1,72,0,0,0,0/0/0,0/0,20.5/34
+D5234,3,随州,13:22,13:25,3分钟,1小时7分,1,149,0,0,0,0/0/0,0/0,43.5/70
+D5234,4,安陆,13:53,13:56,3分钟,1小时38分,1,210,0,0,0,0/0/0,0/0,61.5/99
+D5234,5,汉口,14:53,终点站,,2小时38分,1,315,0,0,0,0/0/0,0/0,92.5/148

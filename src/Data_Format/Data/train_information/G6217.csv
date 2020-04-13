@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6217,1,佛山西,始发站,14:24,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6217,2,广州南,14:44,14:49,5分钟,20分,1,33,0,0,0,0/0/0,0/0,10/12
+G6217,3,虎门,15:06,15:08,2分钟,42分,1,83,0,0,0,0/0/0,0/0,40/60
+G6217,4,深圳北,15:25,终点站,,1小时1分,1,135,0,0,0,0/0/0,0/0,84.5/111.5

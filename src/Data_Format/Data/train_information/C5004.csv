@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C5004,1,咸宁南,始发站,11:27,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C5004,2,贺胜桥东,11:37,11:39,2分钟,10分,1,24,0,0,0,0/0/0,0/0,8/10
+C5004,3,山坡东,11:45,11:47,2分钟,18分,1,31,0,0,0,0/0/0,0/0,11/13
+C5004,4,庙山,12:01,12:03,2分钟,34分,1,69,0,0,0,0/0/0,0/0,23/28
+C5004,5,武昌,12:22,终点站,,55分,1,91,0,0,0,0/0/0,0/0,30/36

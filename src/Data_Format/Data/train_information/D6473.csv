@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6473,1,龙岩,始发站,11:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6473,2,南靖,12:02,12:04,2分钟,32分,1,80,0,0,0,0/0/0,0/0,23.5/37
+D6473,3,漳州,12:23,12:25,2分钟,53分,1,114,0,0,0,0/0/0,0/0,32.5/53
+D6473,4,厦门,12:55,终点站,,1小时25分,1,169,0,0,0,0/0/0,0/0,51/82

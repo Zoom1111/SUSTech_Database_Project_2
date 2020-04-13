@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T8701,1,南宁,始发站,18:05,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+T8701,2,扶绥,19:05,19:08,3分钟,1小时0分,1,55,11,-,0,0/0/0,0/0,0/0
+T8701,3,崇左,20:15,20:21,6分钟,2小时10分,1,122,19.5,-,0,0/0/0,0/0,0/0
+T8701,4,宁明,21:25,21:30,5分钟,3小时20分,1,177,28.5,-,0,0/0/0,0/0,0/0
+T8701,5,凭祥,22:18,终点站,,4小时13分,1,220,32.5,-,0,0/0/0,0/0,0/0

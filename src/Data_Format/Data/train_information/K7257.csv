@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7257,1,桦南,始发站,18:58,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7257,2,孟家岗,19:18,19:21,3分钟,20分,1,22,9,-,0,55/60/63,80/86,0/0
+K7257,3,佳木斯,20:05,终点站,,1小时7分,1,76,12.5,-,0,58.5/63.5/66.5,89.5/95.5,0/0

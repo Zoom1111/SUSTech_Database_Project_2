@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z32/Z33,1,宁波,始发站,20:58,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z32/Z33,2,余姚,21:37,21:40,3分钟,39分,1,48,11,-,0,57/62/65,83.5/89.5,0/0
+Z32/Z33,3,绍兴,22:24,22:27,3分钟,1小时26分,1,108,16.5,-,0,62.5/67.5/70.5,96.5/102.5,0/0
+Z32/Z33,4,义乌,23:48,终点站,,2小时50分,1,358,41.5,-,0,87.5/92.5/95.5,132.5/138.5,0/0

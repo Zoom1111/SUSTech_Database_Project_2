@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G19,1,北京南,始发站,08:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G19,2,济南西,09:22,09:24,2分钟,1小时22分,1,406,0,0,0,0/0/0,0/0,184.5/314.5
+G19,3,南京南,11:24,11:26,2分钟,3小时24分,1,1023,0,0,0,0/0/0,0/0,443.5/748.5
+G19,4,湖州,12:13,12:15,2分钟,4小时13分,1,1208,0,0,0,0/0/0,0/0,512.5/863.5
+G19,5,杭州东,12:38,终点站,,4小时38分,1,1279,0,0,0,0/0/0,0/0,626/1048.5

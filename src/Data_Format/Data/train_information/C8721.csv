@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C8721,1,乌鲁木齐,始发站,09:18,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C8721,2,石河子,10:18,10:19,1分钟,1小时0分,1,135,0,0,0,0/0/0,0/0,29/46
+C8721,3,沙湾县,10:37,10:38,1分钟,1小时19分,1,173,0,0,0,0/0/0,0/0,37/59
+C8721,4,奎屯,11:05,终点站,,1小时47分,1,232,0,0,0,0/0/0,0/0,50/78

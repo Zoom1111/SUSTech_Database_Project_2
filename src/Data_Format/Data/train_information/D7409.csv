@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7409,1,潮汕,始发站,15:24,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7409,2,陆丰,16:05,16:07,2分钟,41分,1,114,0,0,0,0/0/0,0/0,40/64
+D7409,3,惠州南,16:54,16:56,2分钟,1小时30分,1,249,0,0,0,0/0/0,0/0,73/87.5
+D7409,4,深圳北,17:24,终点站,,2小时0分,1,305,0,0,0,0/0/0,0/0,107/171

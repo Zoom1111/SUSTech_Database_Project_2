@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7259,1,广州南,始发站,21:55,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+C7259,2,小榄,22:13,22:15,-,18分,-,45,0,21/0,0,0/0/0,0/0,21/0
+C7259,3,古镇,22:22,22:23,-,27分,-,54,0,30/0,0,0/0/0,0/0,30/0
+C7259,4,江门东,22:30,22:32,-,35分,-,65,0,40/0,0,0/0/0,0/0,40/0
+C7259,5,新会,22:39,终点站,-,44分,-,72,0,45/0,0,0/0/0,0/0,45/0

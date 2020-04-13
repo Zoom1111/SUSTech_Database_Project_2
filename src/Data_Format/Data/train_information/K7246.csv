@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7246,1,碾子山,始发站,08:25,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7246,2,鲁河,08:35,08:37,2分钟,10分,1,11,3,-,0,0/0/0,0/0,0/0
+K7246,3,富拉尔基,09:28,09:31,3分钟,1小时3分,1,71,6,-,0,0/0/0,0/0,0/0
+K7246,4,昂昂溪,09:45,09:50,5分钟,1小时20分,1,85,7,-,0,0/0/0,0/0,0/0
+K7246,5,齐齐哈尔,10:17,终点站,,1小时52分,1,113,9.5,-,0,0/0/0,0/0,0/0

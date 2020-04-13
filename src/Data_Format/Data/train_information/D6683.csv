@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6682/D6683,1,曹妃甸东,始发站,16:59,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6682/D6683,2,唐海南,17:09,17:12,3分钟,10分,1,14,0,0,0,0/0/0,0/0,5.5/10
+D6682/D6683,3,南堡北,17:24,17:26,2分钟,25分,1,35,0,0,0,0/0/0,0/0,10.5/16
+D6682/D6683,4,唐山,17:53,终点站,,54分,1,80,0,0,0,0/0/0,0/0,0/0

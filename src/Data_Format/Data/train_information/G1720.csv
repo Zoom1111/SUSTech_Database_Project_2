@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G1720/G1721,1,上海虹桥,始发站,13:51,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G1720/G1721,2,苏州北,14:14,14:20,6分钟,23分,1,81,0,0,0,0/0/0,0/0,34.5/64.5
+G1720/G1721,3,南京南,15:10,15:13,3分钟,1小时19分,1,295,0,0,0,0/0/0,0/0,134.5/229.5
+G1720/G1721,4,合肥南,16:05,终点站,,2小时14分,1,468,0,0,0,0/0/0,0/0,202.5/335

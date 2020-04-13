@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6122,1,都江堰,始发站,10:36,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6122,2,安德,10:47,10:49,2分钟,11分,1,21,0,0,0,0/0/0,0/0,0/10
+C6122,3,郫县西,10:56,10:58,2分钟,20分,1,30,0,0,0,0/0/0,0/0,0/10
+C6122,4,郫县,11:02,11:04,2分钟,26分,1,33,0,0,0,0/0/0,0/0,0/10
+C6122,5,红光镇,11:09,11:11,2分钟,33分,1,39,0,0,0,0/0/0,0/0,0/15
+C6122,6,犀浦,11:15,终点站,,39分,1,42,0,0,0,0/0/0,0/0,0/15

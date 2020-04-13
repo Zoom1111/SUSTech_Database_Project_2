@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z7835,1,太原,始发站,07:18,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z7835,2,太原南,07:29,07:33,4分钟,11分,1,8,8,-,0,54/59/62,78/84,0/0
+Z7835,3,汾阳,08:14,08:16,2分钟,56分,1,99,15.5,-,0,61.5/66.5/69.5,92.5/98.5,0/0
+Z7835,4,吕梁,09:00,终点站,,1小时42分,1,181,28.5,-,0,74.5/79.5/82.5,113.5/119.5,0/0

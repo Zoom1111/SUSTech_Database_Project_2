@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5160,1,成都东,始发站,11:43,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5160,2,遂宁,12:40,12:42,2分钟,57分,1,146,0,0,0,0/0/0,0/0,45/72
+D5160,3,南充北,13:17,13:39,22分钟,1小时34分,1,211,0,0,0,0/0/0,0/0,69/86
+D5160,4,武胜,14:05,终点站,,2小时22分,1,268,0,0,0,0/0/0,0/0,85.5/112.5

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8599,1,成都东,始发站,22:13,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8599,2,资阳北,22:38,22:41,3分钟,25分,1,83,0,0,0,0/0/0,0/0,40/64
+G8599,3,重庆西,23:38,终点站,,1小时25分,1,302,0,0,0,0/0/0,0/0,146/233.5

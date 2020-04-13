@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G2926/G2927,1,深圳北,始发站,08:01,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G2926/G2927,2,广州南,08:31,08:37,6分钟,30分,1,102,0,0,0,0/0/0,0/0,74.5/99.5
+G2926/G2927,3,贵阳北,12:56,13:02,6分钟,4小时55分,1,969,0,0,0,0/0/0,0/0,397.5/617.5
+G2926/G2927,4,昆明南,15:03,终点站,,7小时2分,1,1435,0,0,0,0/0/0,0/0,554.5/778.5

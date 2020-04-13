@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6212,1,福田,始发站,12:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6212,2,深圳北,12:38,12:43,5分钟,8分,1,9,0,0,0,0/0/0,0/0,15/20
+G6212,3,虎门,13:01,13:03,2分钟,31分,1,61,0,0,0,0/0/0,0/0,45/60
+G6212,4,广州南,13:20,13:24,4分钟,50分,1,111,0,0,0,0/0/0,0/0,82/108
+G6212,5,佛山西,13:43,终点站,,1小时13分,1,144,0,0,0,0/0/0,0/0,92/120

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D1,1,北京,始发站,18:07,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D1,2,唐山北,19:18,19:20,2分钟,1小时11分,1,151,0,0,0,0/0/0,0/0,44.5/52.5
+D1,3,北戴河,20:16,20:18,2分钟,2小时9分,1,277,0,0,0,0/0/0,0/0,81.5/97.5
+D1,4,沈阳,23:23,23:28,5分钟,5小时16分,1,703,0,0,0,0/0/0,0/0,206/247
+D1,5,沈阳南,23:40,终点站,,5小时33分,1,718,0,0,0,0/0/0,0/0,212/340

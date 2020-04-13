@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+5814,1,莎车,始发站,13:10,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+5814,2,英吉沙,14:23,14:30,7分钟,1小时13分,1,121,9.5,-,0,43.5/46.5/48.5,0/0,0/0
+5814,3,阿克陶,14:50,14:52,2分钟,1小时40分,1,149,11.5,-,0,45.5/48.5/50.5,0/0,0/0
+5814,4,喀什,15:25,终点站,,2小时15分,1,187,13.5,-,0,47.5/50.5/52.5,0/0,0/0

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T7566,1,青岛,始发站,11:07,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+T7566,2,蓝村,11:51,11:58,7分钟,44分,1,52,11,17.5,0,0/0/0,0/0,0/0
+T7566,3,平度,12:52,终点站,,1小时45分,1,137,21.5,-,0,67.5/72.5/75.5,0/0,0/0

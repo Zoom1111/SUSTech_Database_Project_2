@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D708,1,上海虹桥,始发站,19:17,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D708,2,常州,20:37,20:39,-,1小时20分,-,165,0,0/0,0,0/0/0,0/0,0/0
+D708,3,南京,21:46,21:52,-,2小时29分,-,301,0,0/0,0,0/0/0,0/0,0/0
+D708,4,北京南,07:11,终点站,-,11小时54分,-,1454,0,0/0,0,0/0/0,0/0,0/0

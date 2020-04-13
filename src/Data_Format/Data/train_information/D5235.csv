@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5235,1,汉口,始发站,07:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5235,2,随州,08:13,08:15,2分钟,1小时13分,1,166,0,0,0,0/0/0,0/0,47.5/78
+D5235,3,襄阳,09:20,终点站,,2小时20分,1,315,0,0,0,0/0/0,0/0,92.5/148

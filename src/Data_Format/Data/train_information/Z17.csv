@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z17,1,北京,始发站,21:15,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z17,2,哈尔滨西,07:12,终点站,,9小时57分,2,1242,152.5,-,0,261.5/270.5/279.5,409.5/427.5,0/0

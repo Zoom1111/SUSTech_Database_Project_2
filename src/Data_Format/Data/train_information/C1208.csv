@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C1208,1,蛟河西,始发站,09:06,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C1208,2,吉林,09:32,09:35,3分钟,26分,1,65,0,0,0,0/0/0,0/0,20/24
+C1208,3,龙嘉,10:05,10:06,1分钟,59分,1,144,0,0,0,0/0/0,0/0,43.5/69
+C1208,4,长春,10:20,终点站,,1小时14分,1,176,0,0,0,0/0/0,0/0,52.5/84

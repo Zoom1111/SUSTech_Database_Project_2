@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2910,1,郑州,始发站,15:41,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2910,2,南阳寨,15:49,15:51,2分钟,8分,1,8,0,0,0,0/0/0,0/0,5.5/9.5
+C2910,3,修武西,16:13,16:15,2分钟,32分,1,58,0,0,0,0/0/0,0/0,22/35
+C2910,4,焦作,16:27,终点站,,46分,1,78,0,0,0,0/0/0,0/0,28/45

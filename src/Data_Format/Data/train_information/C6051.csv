@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6051,1,成都,始发站,06:38,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6051,2,犀浦,06:50,06:54,4分钟,12分,1,15,0,0,0,0/0/0,0/0,0/5
+C6051,3,郫县西,07:04,07:07,3分钟,26分,1,27,0,0,0,0/0/0,0/0,0/10
+C6051,4,彭州,07:23,终点站,,45分,1,48,0,0,0,0/0/0,0/0,0/0

@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7611,1,广州南,始发站,21:05,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7611,2,顺德学院,21:17,21:19,2分钟,12分,1,23,0,0,0,0/0/0,0/0,15/0
+C7611,3,小榄,21:29,21:31,2分钟,24分,1,45,0,0,0,0/0/0,0/0,25/0
+C7611,4,中山,21:42,21:44,2分钟,37分,1,70,0,0,0,0/0/0,0/0,40/0
+C7611,5,明珠,22:00,22:02,2分钟,55分,1,109,0,0,0,0/0/0,0/0,65/85
+C7611,6,珠海,22:15,终点站,,1小时10分,1,116,0,0,0,0/0/0,0/0,70/90

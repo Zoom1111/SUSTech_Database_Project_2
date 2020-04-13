@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8085/G8088,1,大连北,始发站,11:20,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8085/G8088,2,盖州西,12:07,12:08,1分钟,47分,1,178,0,0,0,0/0/0,0/0,81.5/130.5
+G8085/G8088,3,锦州南,13:13,13:23,10分钟,1小时53分,1,393,0,0,0,0/0/0,0/0,169.5/262
+G8085/G8088,4,葫芦岛北,13:40,13:41,1分钟,2小时20分,1,436,0,0,0,0/0/0,0/0,182/277.5
+G8085/G8088,5,山海关,14:23,终点站,,3小时3分,1,558,0,0,0,0/0/0,0/0,217.5/320

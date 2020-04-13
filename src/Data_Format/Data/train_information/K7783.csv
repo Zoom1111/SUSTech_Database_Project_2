@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7783,1,北京东,始发站,07:49,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7783,2,三河县,08:24,08:35,11分钟,35分,1,54,11,-,0,57/62/65,0/0,0/0
+K7783,3,蓟州北,09:00,终点站,,1小时11分,1,83,14.5,-,0,60.5/65.5/68.5,0/0,0/0

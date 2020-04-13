@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6866,1,汉中,始发站,13:36,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6866,2,洋县西,13:53,13:55,2分钟,17分,1,49,0,0,0,0/0/0,0/0,14/17
+D6866,3,鄠邑,14:42,14:44,2分钟,1小时6分,1,197,0,0,0,0/0/0,0/0,79/126
+D6866,4,西安北,15:06,终点站,,1小时30分,1,242,0,0,0,0/0/0,0/0,97/155

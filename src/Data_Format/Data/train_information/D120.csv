@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D120,1,牡丹江,始发站,10:45,,-1分,1,0,0,0,0,0/0/0,0/0,0/0
+D120,2,横道河子东,11:03,11:05,2分钟,-1分,1,51,0,0,0,0/0/0,0/0,19/30
+D120,3,哈尔滨西,12:25,12:31,6分钟,-1分,1,307,0,0,0,0/0/0,0/0,118/189
+D120,4,扶余北,13:00,13:02,2分钟,-1分,1,405,0,0,0,0/0/0,0/0,148/237.5
+D120,5,长春,13:44,终点站,,-1分,1,547,0,0,0,0/0/0,0/0,192/307.5

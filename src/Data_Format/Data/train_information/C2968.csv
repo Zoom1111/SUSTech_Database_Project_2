@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2968,1,郑州,始发站,14:48,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2968,2,武陟,15:09,15:11,2分钟,21分,1,44,0,0,0,0/0/0,0/0,17/27
+C2968,3,焦作,15:28,终点站,,40分,1,78,0,0,0,0/0/0,0/0,28/45

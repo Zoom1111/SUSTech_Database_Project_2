@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7611,1,沈阳,始发站,08:46,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7611,2,本溪,09:17,09:19,2分钟,31分,1,76,0,0,0,0/0/0,0/0,25/40
+D7611,3,通远堡西,09:39,09:41,2分钟,53分,1,138,0,0,0,0/0/0,0/0,44/71
+D7611,4,丹东,10:09,终点站,,1小时23分,1,223,0,0,0,0/0/0,0/0,70/113

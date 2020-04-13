@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6221,1,江油,始发站,22:29,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6221,2,绵阳,22:46,22:48,2分钟,17分,1,39,0,0,0,0/0/0,0/0,16/19
+C6221,3,德阳,23:05,23:07,2分钟,36分,1,86,0,0,0,0/0/0,0/0,0/0
+C6221,4,成都东,23:31,终点站,,1小时2分,1,152,0,0,0,0/0/0,0/0,61/73

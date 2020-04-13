@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G86,1,广州南,始发站,08:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G86,2,长沙南,10:21,10:25,4分钟,2小时21分,1,707,0,0,0,0/0/0,0/0,314/504
+G86,3,南昌西,11:44,11:47,3分钟,3小时44分,1,1049,0,0,0,0/0/0,0/0,472/768.5
+G86,4,杭州东,14:00,14:02,2分钟,6小时0分,1,1631,0,0,0,0/0/0,0/0,720/1185.5
+G86,5,上海虹桥,14:48,终点站,,6小时48分,1,1790,0,0,0,0/0/0,0/0,793/1302.5

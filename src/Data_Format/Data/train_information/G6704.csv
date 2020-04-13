@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6704,1,石家庄,始发站,06:09,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6704,2,保定东,06:44,06:46,2分钟,35分,1,142,0,0,0,0/0/0,0/0,64.5/103.5
+G6704,3,涿州东,07:07,07:11,4分钟,58分,1,219,0,0,0,0/0/0,0/0,100.5/160.5
+G6704,4,北京西,07:36,终点站,,1小时27分,1,281,0,0,0,0/0/0,0/0,128.5/206.5

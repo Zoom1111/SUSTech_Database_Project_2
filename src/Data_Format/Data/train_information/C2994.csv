@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2991/C2994,1,焦作,始发站,20:24,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2991/C2994,2,修武西,20:35,20:37,2分钟,11分,1,20,0,0,0,0/0/0,0/0,7/11
+C2991/C2994,3,郑州,21:05,21:08,3分钟,41分,1,78,0,0,0,0/0/0,0/0,28/45
+C2991/C2994,4,郑州东,21:24,终点站,,1小时0分,1,92,0,0,0,0/0/0,0/0,29/46

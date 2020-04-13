@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6482,1,怀化南,始发站,19:50,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6482,2,娄底南,20:41,20:43,2分钟,51分,1,207,0,0,0,0/0/0,0/0,100.5/160
+G6482,3,长沙南,21:17,终点站,,1小时27分,1,332,0,0,0,0/0/0,0/0,158/256.5

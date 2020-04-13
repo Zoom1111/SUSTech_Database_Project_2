@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+S503,1,清河,始发站,14:35,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+S503,2,昌平北,15:01,15:03,2分钟,26分,1,29,-,-,0,0/0/0,0/0,0/0
+S503,3,雁栖湖,15:36,15:38,2分钟,1小时1分,1,74,-,-,0,0/0/0,0/0,0/0
+S503,4,怀柔北,15:44,15:47,3分钟,1小时9分,1,79,-,-,0,0/0/0,0/0,0/0
+S503,5,黑山寺,16:05,16:07,2分钟,1小时30分,1,94,-,-,0,0/0/0,0/0,0/0
+S503,6,古北口,16:52,终点站,,2小时17分,1,136,-,-,0,0/0/0,0/0,0/0

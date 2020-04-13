@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6635,1,成都西,始发站,17:41,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6635,2,雅安,18:35,终点站,,54分,1,140,0,0,0,0/0/0,0/0,52/83

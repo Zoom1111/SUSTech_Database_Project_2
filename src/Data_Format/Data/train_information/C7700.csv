@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7700,1,珠海,始发站,19:04,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7700,2,珠海北,19:20,19:28,8分钟,16分,1,33,0,0,0,0/0/0,0/0,15/0
+C7700,3,南朗,19:34,19:36,2分钟,30分,1,33,0,0,0,0/0/0,0/0,20/0
+C7700,4,小榄,19:51,19:53,2分钟,47分,1,71,0,0,0,0/0/0,0/0,50/0
+C7700,5,顺德,20:06,20:08,2分钟,1小时2分,1,101,0,0,0,0/0/0,0/0,80/0
+C7700,6,广州南,20:18,终点站,,1小时14分,1,116,0,0,0,0/0/0,0/0,70/0

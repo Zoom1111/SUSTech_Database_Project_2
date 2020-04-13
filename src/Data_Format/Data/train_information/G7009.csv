@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G7009,1,南京,始发站,11:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G7009,2,常州,11:39,11:41,2分钟,39分,1,136,0,0,0,0/0/0,0/0,64.5/99.5
+G7009,3,无锡,11:55,11:57,2分钟,55分,1,175,0,0,0,0/0/0,0/0,79.5/129.5
+G7009,4,苏州,12:12,12:14,2分钟,1小时12分,1,217,0,0,0,0/0/0,0/0,99.5/159.5
+G7009,5,上海,12:39,终点站,,1小时39分,1,301,0,0,0,0/0/0,0/0,139.5/219.5

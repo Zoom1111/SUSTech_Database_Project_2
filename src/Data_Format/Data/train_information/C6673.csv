@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6673,1,成都东,始发站,19:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6673,2,双流机场,19:15,19:17,2分钟,15分,1,21,0,0,0,0/0/0,0/0,8/10
+C6673,3,新津,19:26,19:28,2分钟,26分,1,36,0,0,0,0/0/0,0/0,14/17
+C6673,4,宜宾西,20:50,终点站,,1小时50分,1,276,0,0,0,0/0/0,0/0,110/176

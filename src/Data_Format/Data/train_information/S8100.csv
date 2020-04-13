@@ -1,0 +1,7 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+S8100,1,美兰,始发站,17:53,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+S8100,2,海口东,18:01,18:02,1分钟,8分,1,14,4,-,0,0/0/0,0/0,0/0
+S8100,3,城西,18:06,18:07,1分钟,13分,1,16,4,-,0,0/0/0,0/0,0/0
+S8100,4,秀英,18:12,18:13,1分钟,19分,1,22,6,-,0,0/0/0,0/0,0/0
+S8100,5,长流,18:18,18:19,1分钟,25分,1,30,8,-,0,0/0/0,0/0,0/0
+S8100,6,海口,18:28,终点站,,35分,1,38,10,-,0,0/0/0,0/0,0/0

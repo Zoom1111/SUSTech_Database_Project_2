@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G580,1,长沙南,始发站,15:53,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G580,2,汨罗东,16:11,16:13,2分钟,18分,1,77,0,0,0,0/0/0,0/0,34.5/54.5
+G580,3,六安,19:09,19:12,3分钟,3小时16分,1,630,0,0,0,0/0/0,0/0,291/466
+G580,4,合肥南,19:36,19:43,7分钟,3小时43分,1,717,0,0,0,0/0/0,0/0,300/480
+G580,5,南京南,20:35,终点站,,4小时42分,1,874,0,0,0,0/0/0,0/0,331.5/463.5

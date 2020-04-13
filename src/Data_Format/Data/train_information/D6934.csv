@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6934,1,齐齐哈尔,始发站,21:30,,-1分,1,0,0,0,0,0/0/0,0/0,0/0
+D6934,2,大庆西,22:06,22:08,2分钟,-1分,1,116,0,0,0,0/0/0,0/0,41/65
+D6934,3,大庆东,22:18,22:19,1分钟,-1分,1,138,0,0,0,0/0/0,0/0,103/123
+D6934,4,哈尔滨,23:02,23:05,3分钟,-1分,1,286,0,0,0,0/0/0,0/0,100/160
+D6934,5,哈尔滨西,23:15,终点站,,-1分,1,293,0,0,0,0/0/0,0/0,103/123

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8193,1,阜新,始发站,18:50,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+G8193,2,黑山北,19:06,19:08,-,16分,-,56,0,27/43,0,0/0/0,0/0,27/43
+G8193,3,沈阳北,19:44,终点站,-,54分,-,158,0,76/122,0,0/0/0,0/0,76/122

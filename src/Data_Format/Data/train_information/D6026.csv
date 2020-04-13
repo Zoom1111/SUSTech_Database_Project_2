@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6026,1,青岛北,始发站,11:43,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6026,2,潍坊,12:38,12:41,3分钟,55分,1,183,0,0,0,0/0/0,0/0,52/83
+D6026,3,淄博,13:16,13:29,13分钟,1小时33分,1,283,0,0,0,0/0/0,0/0,82.5/99
+D6026,4,济南,14:16,终点站,,2小时33分,1,393,0,0,0,0/0/0,0/0,116.5/140

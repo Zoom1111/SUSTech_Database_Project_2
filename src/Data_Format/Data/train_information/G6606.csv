@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6606,1,郑州东,始发站,21:11,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6606,2,开封北,21:31,21:33,2分钟,20分,1,52,0,0,0,0/0/0,0/0,24/38
+G6606,3,兰考南,21:49,21:51,2分钟,38分,1,105,0,0,0,0/0/0,0/0,48/77
+G6606,4,民权北,22:04,22:06,2分钟,53分,1,140,0,0,0,0/0/0,0/0,64.5/103
+G6606,5,商丘,22:22,终点站,,1小时11分,1,190,0,0,0,0/0/0,0/0,87/139.5

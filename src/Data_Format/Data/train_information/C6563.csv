@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6563,1,青岛北,始发站,09:46,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6563,2,海阳北,10:36,10:38,2分钟,50分,1,128,0,0,0,0/0/0,0/0,39/47
+C6563,3,烟台南,11:02,11:07,5分钟,1小时16分,1,187,0,0,0,0/0/0,0/0,57/69
+C6563,4,威海,11:34,11:36,2分钟,1小时48分,1,260,0,0,0,0/0/0,0/0,80/96
+C6563,5,荣成,11:57,终点站,,2小时11分,1,301,0,0,0,0/0/0,0/0,93/111

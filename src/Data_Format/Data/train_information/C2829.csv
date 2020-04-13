@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2829,1,宋城路,始发站,16:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2829,2,绿博园,16:18,16:20,2分钟,18分,1,33,0,0,0,0/0/0,0/0,11/0
+C2829,3,郑州东,16:33,16:40,7分钟,33分,1,50,0,0,0,0/0/0,0/0,16/0
+C2829,4,新郑机场,16:57,终点站,,57分,1,78,0,0,0,0/0/0,0/0,27/0

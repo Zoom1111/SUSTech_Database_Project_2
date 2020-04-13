@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8032,1,吉林,始发站,19:41,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8032,2,长春,20:21,20:24,3分钟,40分,1,111,0,0,0,0/0/0,0/0,31.5/38.5
+G8032,3,四平东,20:58,21:00,2分钟,1小时17分,1,241,0,0,0,0/0/0,0/0,91/134
+G8032,4,沈阳北,21:44,终点站,,2小时3分,1,421,0,0,0,0/0/0,0/0,174/266

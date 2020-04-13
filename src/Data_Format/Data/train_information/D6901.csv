@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6901,1,哈尔滨西,始发站,05:33,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6901,2,哈尔滨,05:43,05:45,2分钟,10分,1,7,0,0,0,0/0/0,0/0,7/11
+D6901,3,大庆东,06:28,06:29,1分钟,55分,1,155,0,0,0,0/0/0,0/0,54/87
+D6901,4,大庆西,06:39,06:41,2分钟,1小时6分,1,177,0,0,0,0/0/0,0/0,62/74
+D6901,5,齐齐哈尔南,07:12,终点站,,1小时39分,1,286,0,0,0,0/0/0,0/0,100/120

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6920,1,青岛北,始发站,21:54,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6920,2,淄博北,23:01,23:09,8分钟,1小时7分,1,247,0,0,0,0/0/0,0/0,117/186
+G6920,3,济南东,23:32,终点站,,1小时38分,1,329,0,0,0,0/0/0,0/0,156/250

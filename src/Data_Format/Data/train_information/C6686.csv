@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6686,1,宜宾西,始发站,21:49,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6686,2,屏山,22:02,22:10,8分钟,13分,1,29,0,0,0,0/0/0,0/0,0/0
+C6686,3,乐山,22:49,22:52,3分钟,1小时0分,1,141,0,0,0,0/0/0,0/0,56/90
+C6686,4,眉山东,23:13,23:18,5分钟,1小时24分,1,194,0,0,0,0/0/0,0/0,77/124
+C6686,5,成都东,23:53,终点站,,2小时4分,1,276,0,0,0,0/0/0,0/0,110/176

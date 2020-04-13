@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6204,1,深圳北,始发站,11:08,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6204,2,虎门,11:25,11:27,2分钟,17分,1,52,0,0,0,0/0/0,0/0,39.5/54.5
+G6204,3,广州南,11:44,11:52,8分钟,36分,1,102,0,0,0,0/0/0,0/0,74.5/99.5
+G6204,4,广州北,12:09,终点站,,1小时1分,1,149,0,0,0,0/0/0,0/0,94/134

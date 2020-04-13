@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G625,1,北京西,始发站,20:05,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G625,2,石家庄,21:12,21:15,3分钟,1小时7分,1,281,0,0,0,0/0/0,0/0,128.5/206.5
+G625,3,太原南,22:37,终点站,,2小时32分,1,513,0,0,0,0/0/0,0/0,197/288

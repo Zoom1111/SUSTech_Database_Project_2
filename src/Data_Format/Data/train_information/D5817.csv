@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5817/D5820,1,汉口,始发站,06:56,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5817/D5820,2,仙桃西,07:40,07:42,2分钟,44分,1,114,0,0,0,0/0/0,0/0,42/68
+D5817/D5820,3,宜昌东,08:45,终点站,,1小时49分,1,292,0,0,0,0/0/0,0/0,108/173

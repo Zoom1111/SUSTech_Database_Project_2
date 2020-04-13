@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6706,1,石家庄,始发站,07:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6706,2,正定机场,07:44,07:46,2分钟,14分,1,37,0,0,0,0/0/0,0/0,16.5/26.5
+G6706,3,保定东,08:12,08:14,2分钟,42分,1,142,0,0,0,0/0/0,0/0,64.5/103.5
+G6706,4,高碑店东,08:31,08:33,2分钟,1小时1分,1,198,0,0,0,0/0/0,0/0,90.5/145.5
+G6706,5,北京西,09:03,终点站,,1小时33分,1,281,0,0,0,0/0/0,0/0,128.5/206.5

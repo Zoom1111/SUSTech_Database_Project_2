@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G1723/G1726,1,汉口,始发站,16:15,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G1723/G1726,2,合肥南,17:54,18:00,6分钟,1小时39分,1,359,0,0,0,0/0/0,0/0,105.5/126.5
+G1723/G1726,3,南京南,18:52,18:56,4分钟,2小时37分,1,516,0,0,0,0/0/0,0/0,166/198
+G1723/G1726,4,苏州北,19:47,19:49,2分钟,3小时32分,1,730,0,0,0,0/0/0,0/0,264.5/363.5
+G1723/G1726,5,上海虹桥,20:13,终点站,,3小时58分,1,811,0,0,0,0/0/0,0/0,301.5/426

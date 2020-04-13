@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6383,1,潮汕,始发站,08:46,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6383,2,潮阳,08:58,09:00,2分钟,12分,1,26,0,0,0,0/0/0,0/0,9/14
+G6383,3,汕尾,09:44,09:46,2分钟,58分,1,149,0,0,0,0/0/0,0/0,52/83
+G6383,4,深圳北,10:50,11:10,20分钟,2小时4分,1,305,0,0,0,0/0/0,0/0,107/171
+G6383,5,香港西九龙,11:28,终点站,,2小时42分,1,344,0,0,0,0/0/0,0/0,182/291

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+4342,1,山河屯,始发站,14:03,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+4342,2,平安,14:15,14:17,2分钟,12分,1,12,2,-,0,36/39/41,52/56,0/0
+4342,3,舒兰,14:43,14:48,5分钟,40分,1,41,4,-,0,38/41/43,55/59,0/0
+4342,4,吉舒,15:15,15:18,3分钟,1小时12分,1,62,5,-,0,39/42/44,58.5/62.5,0/0
+4342,5,吉林,16:50,终点站,,2小时47分,1,131,10.5,-,0,44.5/47.5/49.5,67.5/71.5,0/0

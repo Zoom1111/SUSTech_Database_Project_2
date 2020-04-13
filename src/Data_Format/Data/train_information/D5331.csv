@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5331,1,太原南,始发站,15:48,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5331,2,介休东,16:23,16:25,2分钟,35分,1,111,0,0,0,0/0/0,0/0,34/41
+D5331,3,临汾西,17:05,17:07,2分钟,1小时17分,1,233,0,0,0,0/0/0,0/0,72/115
+D5331,4,襄汾西,17:21,17:23,2分钟,1小时33分,1,265,0,0,0,0/0/0,0/0,82/131
+D5331,5,运城北,17:52,终点站,,2小时4分,1,356,0,0,0,0/0/0,0/0,110/176

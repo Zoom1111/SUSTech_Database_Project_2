@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+6261,1,三间房,始发站,08:35,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+6261,2,昂昂溪,09:00,09:06,6分钟,25分,1,14,1,-,0,0/0/0,0/0,0/0
+6261,3,富拉尔基,09:21,终点站,,46分,1,28,3,-,0,0/0/0,0/0,0/0

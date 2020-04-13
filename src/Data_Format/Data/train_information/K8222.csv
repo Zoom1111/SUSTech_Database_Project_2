@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8222,1,汉中,始发站,14:07,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8222,2,西乡,15:40,15:43,3分钟,1小时33分,1,93,15.5,-,0,61.5/66.5/69.5,92.5/98.5,0/0
+K8222,3,三花石,16:06,16:08,2分钟,1小时59分,1,119,18.5,-,0,64.5/69.5/72.5,97.5/103.5,0/0
+K8222,4,安康,18:40,终点站,,4小时33分,1,240,37.5,-,0,83.5/88.5/91.5,125.5/131.5,0/0

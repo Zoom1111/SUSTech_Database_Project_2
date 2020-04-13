@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2703,1,北京西,始发站,09:10,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2703,2,北京大兴,09:32,09:34,2分钟,22分,1,22,0,0,0,0/0/0,0/0,0/0
+C2703,3,大兴机场,09:46,终点站,,36分,1,47,0,0,0,0/0/0,0/0,30/48

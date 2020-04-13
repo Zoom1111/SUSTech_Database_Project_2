@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8072,1,营口东,始发站,07:01,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8072,2,鲅鱼圈,07:18,07:21,3分钟,17分,1,57,0,0,0,0/0/0,0/0,25.5/41.5
+G8072,3,大连,08:14,终点站,,1小时13分,1,223,0,0,0,0/0/0,0/0,102.5/163.5

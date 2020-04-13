@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8165,1,朝阳,始发站,14:15,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8165,2,北票,14:28,14:30,2分钟,13分,1,37,0,0,0,0/0/0,0/0,18/29
+G8165,3,阜新,14:52,14:54,2分钟,37分,1,118,0,0,0,0/0/0,0/0,57/91
+G8165,4,沈阳,15:41,15:46,5分钟,1小时26分,1,275,0,0,0,0/0/0,0/0,133/213
+G8165,5,沈阳南,15:57,终点站,,1小时42分,1,290,0,0,0,0/0/0,0/0,142/227.5

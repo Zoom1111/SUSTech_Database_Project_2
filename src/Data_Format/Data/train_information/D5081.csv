@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5081,1,延安,始发站,07:45,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5081,2,甘泉北,08:03,08:05,2分钟,18分,1,40,0,0,0,0/0/0,0/0,11/14
+D5081,3,富县东,08:20,08:22,2分钟,35分,1,70,0,0,0,0/0/0,0/0,20.5/24.5
+D5081,4,蒲城东,09:19,09:21,2分钟,1小时34分,1,218,0,0,0,0/0/0,0/0,135.5/178.5
+D5081,5,西安北,10:13,终点站,,2小时28分,1,326,0,0,0,0/0/0,0/0,95.5/114.5

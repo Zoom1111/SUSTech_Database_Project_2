@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7760,1,邯郸,始发站,09:46,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7760,2,沙河市,10:05,10:27,22分钟,19分,1,28,9,-,0,55/60/63,0/0,0/0
+K7760,3,邢台,10:43,11:00,17分钟,57分,1,52,11,-,0,57/62/65,0/0,0/0
+K7760,4,临城,11:28,11:30,2分钟,1小时42分,1,99,15.5,-,0,61.5/66.5/69.5,0/0,0/0
+K7760,5,石家庄,12:48,终点站,,3小时2分,1,161,24.5,-,0,70.5/75.5/78.5,0/0,0/0

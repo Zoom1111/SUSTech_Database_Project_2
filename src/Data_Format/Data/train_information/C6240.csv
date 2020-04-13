@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6240,1,成都东,始发站,11:10,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6240,2,新都东,11:21,11:23,2分钟,11分,1,21,0,0,0,0/0/0,0/0,0/0
+C6240,3,德阳,11:39,11:41,2分钟,29分,1,66,0,0,0,0/0/0,0/0,0/0
+C6240,4,绵阳,11:58,12:00,2分钟,48分,1,113,0,0,0,0/0/0,0/0,45/54
+C6240,5,广元,12:53,终点站,,1小时43分,1,278,0,0,0,0/0/0,0/0,0/0

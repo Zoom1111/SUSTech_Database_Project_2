@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G89,1,北京西,始发站,06:53,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G89,2,石家庄,08:00,08:02,2分钟,1小时7分,1,281,0,0,0,0/0/0,0/0,128.5/206.5
+G89,3,郑州东,09:29,09:32,3分钟,2小时36分,1,693,0,0,0,0/0/0,0/0,309/495
+G89,4,西安北,11:24,11:29,5分钟,4小时31分,1,1216,0,0,0,0/0/0,0/0,515.5/824.5
+G89,5,成都东,14:38,终点站,,7小时45分,1,1874,0,0,0,0/0/0,0/0,778.5/1222

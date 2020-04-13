@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6501,1,广州南,始发站,06:48,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6501,2,深圳北,07:20,07:24,4分钟,32分,1,102,0,0,0,0/0/0,0/0,74.5/99.5
+G6501,3,香港西九龙,07:42,终点站,,54分,1,141,0,0,0,0/0/0,0/0,215/323

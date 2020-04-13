@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2886,1,新郑机场,始发站,17:10,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2886,2,郑州东,17:27,终点站,,17分,1,28,0,0,0,0/0/0,0/0,12/19

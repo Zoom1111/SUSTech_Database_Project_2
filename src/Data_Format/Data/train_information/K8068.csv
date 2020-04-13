@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8068,1,十堰,始发站,07:30,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+K8068,2,武当山,07:48,07:53,-,18分,-,19,8,-,0,54/59/62,78/84,0/0
+K8068,3,谷城,08:44,08:48,-,1小时14分,-,91,15.5,-,0,61.5/66.5/69.5,92.5/98.5,0/0
+K8068,4,襄阳,09:50,终点站,-,2小时20分,-,171,28.5,-,0,74.5/79.5/82.5,112.5/118.5,0/0

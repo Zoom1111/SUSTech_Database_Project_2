@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8526,1,牡丹江,始发站,20:58,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8526,2,亚布力西,21:28,21:30,2分钟,30分,1,96,0,0,0,0/0/0,0/0,0/0
+D8526,3,尚志南,21:50,21:52,2分钟,52分,1,159,0,0,0,0/0/0,0/0,59/94
+D8526,4,哈尔滨,22:38,22:40,2分钟,1小时40分,1,300,0,0,0,0/0/0,0/0,111/178
+D8526,5,哈尔滨西,22:50,终点站,,1小时52分,1,307,0,0,0,0/0/0,0/0,118/189

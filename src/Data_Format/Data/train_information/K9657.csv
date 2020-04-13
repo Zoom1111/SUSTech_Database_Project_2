@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9656/K9657,1,敦煌,始发站,09:18,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9656/K9657,2,瓜州,11:01,11:03,2分钟,1小时43分,1,102,16.5,-,0,0/0/0,0/0,0/0
+K9656/K9657,3,疏勒河,12:23,12:25,2分钟,3小时5分,1,208,32.5,-,0,0/0/0,0/0,0/0
+K9656/K9657,4,玉门,12:42,12:45,3分钟,3小时24分,1,231,37.5,-,0,0/0/0,0/0,0/0
+K9656/K9657,5,嘉峪关,14:20,终点站,,5小时2分,1,363,53.5,-,0,0/0/0,0/0,0/0

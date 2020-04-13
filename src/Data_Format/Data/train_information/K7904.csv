@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7904,1,白云鄂博,始发站,12:40,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7904,2,昆都仑召,14:51,14:53,2分钟,2小时11分,1,137,12.5,20.5,0,0/0/0,0/0,0/0
+K7904,3,包头,15:24,15:30,6分钟,2小时44分,1,159,13.5,22.5,0,0/0/0,0/0,0/0
+K7904,4,包头东,15:44,终点站,,3小时4分,1,175,15.5,25.5,0,0/0/0,0/0,0/0

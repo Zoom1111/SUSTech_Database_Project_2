@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7422,1,深圳北,始发站,07:18,-,0分,-,0,0,0/0,0,0/0/0,0/0,0/0
+D7422,2,深圳坪山,07:39,07:41,-,21分,-,36,0,0/0,0,0/0/0,0/0,0/0
+D7422,3,汕尾,08:22,08:24,-,1小时4分,-,156,0,0/0,0,0/0/0,0/0,0/0
+D7422,4,潮阳,09:12,09:14,-,1小时54分,-,279,0,0/0,0,0/0/0,0/0,0/0
+D7422,5,潮汕,09:30,终点站,-,2小时12分,-,305,0,0/0,0,0/0/0,0/0,0/0

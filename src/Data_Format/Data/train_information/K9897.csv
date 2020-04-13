@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9897,1,西宁,始发站,22:45,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9897,2,德令哈,03:27,03:33,6分钟,4小时42分,2,521,75,-,0,133/138/142,205/214,0/0
+K9897,3,格尔木,06:30,终点站,,7小时45分,2,830,112,-,0,194/200/208,301/315,0/0

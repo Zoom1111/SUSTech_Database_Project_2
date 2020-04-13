@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7978,1,新乡,始发站,16:54,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7978,2,鹤壁,17:33,17:36,3分钟,39分,1,66,12.5,-,0,58.5/63.5/66.5,87.5/93.5,0/0
+K7978,3,汤阴,17:51,18:00,9分钟,57分,1,85,14.5,-,0,60.5/65.5/68.5,90.5/96.5,0/0
+K7978,4,安阳,18:17,终点站,,1小时23分,1,107,16.5,-,0,62.5/67.5/70.5,96.5/102.5,0/0

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7959,1,安阳,始发站,08:43,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7959,2,汤阴,09:00,09:03,3分钟,17分,1,22,9,-,0,55/60/63,80/86,0/0
+K7959,3,鹤壁,09:18,09:21,3分钟,35分,1,22,9,-,0,55/60/63,80/86,0/0
+K7959,4,新乡,10:01,10:07,6分钟,1小时18分,1,107,16.5,-,0,62.5/67.5/70.5,96.5/102.5,0/0
+K7959,5,郑州,11:08,终点站,,2小时25分,1,187,28.5,-,0,74.5/79.5/82.5,113.5/119.5,0/0

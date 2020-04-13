@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6966,1,鄂尔多斯,始发站,19:30,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6966,2,呼和浩特,21:14,21:18,4分钟,1小时44分,1,165,0,0,0,0/0/0,0/0,86.5/137
+D6966,3,呼和浩特东,21:27,终点站,,1小时57分,1,304,0,0,0,0/0/0,0/0,89/139.5

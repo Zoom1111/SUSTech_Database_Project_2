@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D2661,1,西安北,始发站,15:40,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D2661,2,宝鸡南,16:29,16:32,3分钟,49分,1,167,0,0,0,0/0/0,0/0,51.5/82.5
+D2661,3,天水南,17:20,17:24,4分钟,1小时40分,1,299,0,0,0,0/0/0,0/0,92.5/131.5
+D2661,4,兰州西,18:40,终点站,,3小时0分,1,568,0,0,0,0/0/0,0/0,167/200

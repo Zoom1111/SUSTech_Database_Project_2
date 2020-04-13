@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z36,1,广州,始发站,16:28,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z36,2,长沙,23:37,23:45,8分钟,7小时9分,1,707,98,-,0,171/176/182,263/275,0/0
+Z36,3,郑州,07:50,07:58,8分钟,15小时22分,2,1605,198,-,0,328/339/351,515/537,0/0
+Z36,4,北京西,13:44,终点站,,21小时16分,2,2294,251,-,0,426/441/456,750/784,0/0

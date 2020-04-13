@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C5604,1,黄冈东,始发站,09:16,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C5604,2,黄冈,09:21,09:23,2分钟,5分,1,5,0,0,0,0/0/0,0/0,5/6
+C5604,3,黄冈西,09:28,09:30,2分钟,12分,1,11,0,0,0,0/0/0,0/0,5/6
+C5604,4,武汉,09:56,终点站,,40分,1,65,0,0,0,0/0/0,0/0,22/26

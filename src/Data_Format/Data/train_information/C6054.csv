@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6054,1,彭州,始发站,07:43,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6054,2,彭州南,07:50,07:53,3分钟,7分,1,5,0,0,0,0/0/0,0/0,0/5
+C6054,3,郫县,08:08,08:10,2分钟,25分,1,14,0,0,0,0/0/0,0/0,0/10
+C6054,4,红光镇,08:15,08:17,2分钟,32分,1,30,0,0,0,0/0/0,0/0,0/10
+C6054,5,犀浦,08:21,终点站,,38分,1,33,0,0,0,0/0/0,0/0,0/10

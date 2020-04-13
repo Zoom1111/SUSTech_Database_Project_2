@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6297,1,成都东,始发站,18:09,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6297,2,双流机场,18:24,18:26,2分钟,15分,1,21,0,0,0,0/0/0,0/0,8/10
+C6297,3,新津,18:35,18:37,2分钟,26分,1,36,0,0,0,0/0/0,0/0,17/20
+C6297,4,彭山北,18:48,18:50,2分钟,39分,1,66,0,0,0,0/0/0,0/0,26/32
+C6297,5,眉山东,18:58,终点站,,49分,1,82,0,0,0,0/0/0,0/0,37/45

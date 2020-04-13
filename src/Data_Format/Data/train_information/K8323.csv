@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K8322/K8323,1,济南,始发站,10:05,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K8322/K8323,2,晏城,10:39,10:42,3分钟,34分,1,32,9,-,0,55/60/63,81.5/87.5,0/0
+K8322/K8323,3,聊城,11:58,终点站,,1小时53分,1,124,19.5,-,0,65.5/70.5/73.5,99.5/105.5,0/0

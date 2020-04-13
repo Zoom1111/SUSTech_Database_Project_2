@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8051,1,大连,始发站,11:58,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8051,2,营口东,13:05,13:06,1分钟,1小时7分,1,223,0,0,0,0/0/0,0/0,102.5/163.5
+G8051,3,鞍山西,13:26,13:28,2分钟,1小时28分,1,300,0,0,0,0/0/0,0/0,137.5/220.5
+G8051,4,沈阳,13:59,终点站,,2小时1分,1,533,0,0,0,0/0/0,0/0,181.5/290.5

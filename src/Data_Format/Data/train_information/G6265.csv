@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6265,1,广州南,始发站,19:05,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6265,2,光明城,19:30,19:32,2分钟,25分,1,86,0,0,0,0/0/0,0/0,59.5/84.5
+G6265,3,深圳北,19:43,19:47,4分钟,38分,1,102,0,0,0,0/0/0,0/0,74.5/99.5
+G6265,4,福田,19:55,终点站,,50分,1,111,0,0,0,0/0/0,0/0,82/108

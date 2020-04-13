@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6298,1,眉山东,始发站,19:17,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6298,2,双流机场,19:38,19:40,2分钟,21分,1,61,0,0,0,0/0/0,0/0,24/29
+C6298,3,成都东,19:55,终点站,,38分,1,82,0,0,0,0/0/0,0/0,33/39

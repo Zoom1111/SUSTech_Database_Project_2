@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7601,1,广州南,始发站,06:15,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7601,2,顺德,06:23,06:30,7分钟,8分,1,15,0,0,0,0/0/0,0/0,10/0
+C7601,3,小榄,06:43,06:45,2分钟,28分,1,45,0,0,0,0/0/0,0/0,25/0
+C7601,4,珠海,07:19,终点站,,1小时4分,1,116,0,0,0,0/0/0,0/0,70/90

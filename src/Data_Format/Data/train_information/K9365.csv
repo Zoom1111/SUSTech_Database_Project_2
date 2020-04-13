@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9365/K9368,1,南充,始发站,16:58,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+K9365/K9368,2,岳池,17:52,17:59,-,54分,-,59,-,-,0,0/0/0,0/0,0/0
+K9365/K9368,3,广安南,18:12,18:25,-,1小时14分,-,75,-,-,0,0/0/0,0/0,0/0
+K9365/K9368,4,重庆北,19:48,终点站,-,2小时50分,-,202,-,-,0,0/0/0,0/0,0/0

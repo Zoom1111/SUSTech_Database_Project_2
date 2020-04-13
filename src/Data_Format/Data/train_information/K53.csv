@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K53,1,北京,始发站,22:33,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K53,2,沈阳北,07:25,终点站,,8小时52分,2,727,-,-,0,172/177/183,264/276,0/0

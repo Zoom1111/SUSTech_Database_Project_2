@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6144,1,青城山,始发站,15:17,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6144,2,郫县,15:36,15:39,3分钟,19分,1,41,0,0,0,0/0/0,0/0,0/10
+C6144,3,犀浦,15:46,终点站,,29分,1,47,0,0,0,0/0/0,0/0,10/10

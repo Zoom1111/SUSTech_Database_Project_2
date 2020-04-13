@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C7642,1,珠海,始发站,15:40,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C7642,2,小榄,16:11,16:13,2分钟,31分,1,71,0,0,0,0/0/0,0/0,40/0
+C7642,3,顺德学院,16:23,16:25,2分钟,43分,1,93,0,0,0,0/0/0,0/0,55/70
+C7642,4,广州南,16:37,终点站,,57分,1,116,0,0,0,0/0/0,0/0,70/90

@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6336,1,福州,始发站,08:34,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6336,2,连江,09:00,09:02,2分钟,26分,1,40,0,0,0,0/0/0,0/0,10.5/13.5
+D6336,3,罗源,09:16,09:18,2分钟,42分,1,72,0,0,0,0/0/0,0/0,23/32.5
+D6336,4,宁德,09:30,09:32,2分钟,56分,1,96,0,0,0,0/0/0,0/0,32/45.5
+D6336,5,福鼎,10:09,终点站,,1小时35分,1,208,0,0,0,0/0/0,0/0,71/109.5

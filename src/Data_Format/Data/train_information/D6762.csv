@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6762,1,包头,始发站,14:52,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6762,2,包头东,15:04,15:06,2分钟,12分,1,16,0,0,0,0/0/0,0/0,5.5/7
+D6762,3,呼和浩特,15:58,16:01,3分钟,1小时6分,1,165,0,0,0,0/0/0,0/0,48.5/58
+D6762,4,呼和浩特东,16:10,终点站,,1小时18分,1,173,0,0,0,0/0/0,0/0,51/61

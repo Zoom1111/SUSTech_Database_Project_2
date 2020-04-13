@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+6218,1,佳木斯,始发站,07:00,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+6218,2,孟家岗,07:56,07:58,2分钟,56分,1,54,5,-,0,0/0/0,0/0,0/0
+6218,3,桦南,08:18,终点站,,1小时18分,1,76,4,-,0,0/0/0,0/0,0/0

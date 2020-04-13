@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D754,1,兰州,始发站,09:11,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D754,2,广元,12:44,12:52,8分钟,3小时33分,1,509,0,0,0,0/0/0,0/0,108/172
+D754,3,阆中,13:46,13:48,2分钟,4小时35分,1,615,0,0,0,0/0/0,0/0,143/229
+D754,4,南充北,14:26,14:29,3分钟,5小时15分,1,697,0,0,0,0/0/0,0/0,171/272
+D754,5,重庆北,15:51,终点站,,6小时40分,1,862,0,0,0,0/0/0,0/0,222/356

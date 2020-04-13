@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D3242,1,南昌西,始发站,11:42,,-1分,0,0,0,0,0,0/0/0,0/0,0/0
+D3242,2,德安,12:13,12:16,3分钟,-1分,0,123,0,0,0,0/0/0,0/0,25.5/30.5
+D3242,3,庐山,12:33,12:36,3分钟,-1分,0,123,0,0,0,0/0/0,0/0,36/43
+D3242,4,瑞昌西,12:48,12:51,3分钟,-1分,0,150,0,0,0,0/0/0,0/0,45/58
+D3242,5,白沙铺,13:23,终点站,,-1分,0,218,0,0,0,0/0/0,0/0,68/94

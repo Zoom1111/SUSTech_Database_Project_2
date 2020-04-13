@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6137,1,犀浦,始发站,14:10,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6137,2,郫县,14:17,14:19,2分钟,7分,1,9,0,0,0,0/0/0,0/0,0/5
+C6137,3,青城山,14:38,终点站,,28分,1,50,0,0,0,0/0/0,0/0,0/10

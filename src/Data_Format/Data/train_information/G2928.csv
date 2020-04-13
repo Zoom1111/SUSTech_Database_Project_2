@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G2925/G2928,1,昆明南,始发站,15:23,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G2925/G2928,2,盘州,16:17,16:19,2分钟,54分,1,212,0,0,0,0/0/0,0/0,97.5/164
+G2925/G2928,3,贵阳北,17:30,17:36,6分钟,2小时7分,1,463,0,0,0,0/0/0,0/0,212.5/358
+G2925/G2928,4,广州南,21:55,21:59,4分钟,6小时32分,1,1330,0,0,0,0/0/0,0/0,480/679
+G2925/G2928,5,深圳北,22:29,终点站,,7小时6分,1,1435,0,0,0,0/0/0,0/0,554.5/778.5

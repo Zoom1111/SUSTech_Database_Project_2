@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8518,1,牡丹江,始发站,16:02,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8518,2,帽儿山西,16:58,17:00,2分钟,56分,1,199,0,0,0,0/0/0,0/0,74/118
+D8518,3,哈尔滨,17:36,17:41,5分钟,1小时34分,1,300,0,0,0,0/0/0,0/0,105/169
+D8518,4,哈尔滨西,17:51,终点站,,1小时49分,1,307,0,0,0,0/0/0,0/0,118/189

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+Z4,1,重庆北,始发站,15:28,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+Z4,2,石家庄,07:25,07:30,5分钟,15小时57分,2,1904,201,-,0,343/355/367,542/566,0/0
+Z4,3,保定,08:40,08:45,5分钟,17小时12分,2,1351,217,-,0,370/383/397,585/611,0/0
+Z4,4,北京西,10:10,终点站,,18小时42分,2,2050,229,283,0,389/403/416,613/640,0/0

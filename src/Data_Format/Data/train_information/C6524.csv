@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6521/C6524,1,烟台,始发站,15:53,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6521/C6524,2,海阳北,16:27,16:29,2分钟,34分,1,71,0,0,0,0/0/0,0/0,22/26.5
+C6521/C6524,3,即墨北,17:06,17:08,2分钟,1小时13分,1,168,0,0,0,0/0/0,0/0,52/62
+C6521/C6524,4,青岛北,17:25,17:27,2分钟,1小时32分,1,199,0,0,0,0/0/0,0/0,61/73
+C6521/C6524,5,青岛,17:50,终点站,,1小时57分,1,214,0,0,0,0/0/0,0/0,66/79

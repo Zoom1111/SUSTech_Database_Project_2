@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K9865/K9868,1,昆明,始发站,17:15,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K9865/K9868,2,昆明南,17:38,17:42,4分钟,23分,1,28,9,-,0,55/60/63,80/86,0/0
+K9865/K9868,3,玉溪,18:32,终点站,,1小时17分,1,118,16.5,-,0,62.5/67.5/70.5,96.5/102.5,0/0

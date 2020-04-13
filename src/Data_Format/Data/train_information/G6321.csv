@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G6321/G6324,1,广州南,始发站,13:54,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G6321/G6324,2,深圳北,14:23,14:31,8分钟,29分,1,102,0,0,0,0/0/0,0/0,74.5/99.5
+G6321/G6324,3,惠州南,14:57,14:59,2分钟,1小时3分,1,158,0,0,0,0/0/0,0/0,94.5/130.5
+G6321/G6324,4,汕尾,15:34,15:36,2分钟,1小时40分,1,258,0,0,0,0/0/0,0/0,129.5/186.5
+G6321/G6324,5,潮汕,16:32,终点站,,2小时38分,1,407,0,0,0,0/0/0,0/0,181.5/270.5

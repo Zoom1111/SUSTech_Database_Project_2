@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7585,1,大连,始发站,07:00,-,0分,-,0,-,-,0,0/0/0,0/0,0/0
+K7585,2,大连北,07:18,07:20,-,18分,-,17,8,-,0,54/59/62,78/84,0/0
+K7585,3,金州,07:32,07:38,-,32分,-,33,9,-,0,55/60/63,81.5/87.5,0/0
+K7585,4,普兰店,08:09,08:12,-,1小时9分,-,78,12.5,-,0,58.5/63.5/66.5,89.5/95.5,0/0
+K7585,5,瓦房店,08:31,终点站,-,1小时31分,-,105,16.5,-,0,62.5/67.5/70.5,96.5/102.5,0/0

@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6740,1,衡水北,始发站,07:12,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6740,2,辛集南,07:27,07:29,2分钟,15分,1,43,0,0,0,0/0/0,0/0,16/25
+D6740,3,石家庄,07:57,终点站,,45分,1,116,0,0,0,0/0/0,0/0,43/69

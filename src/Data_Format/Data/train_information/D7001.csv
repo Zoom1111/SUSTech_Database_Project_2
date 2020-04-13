@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D7001,1,武汉,始发站,06:12,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D7001,2,花湖,06:39,06:41,2分钟,27分,1,79,0,0,0,0/0/0,0/0,27/43
+D7001,3,大冶北,06:51,06:53,2分钟,39分,1,95,0,0,0,0/0/0,0/0,32/51
+D7001,4,阳新,07:08,终点站,,56分,1,131,0,0,0,0/0/0,0/0,45/58

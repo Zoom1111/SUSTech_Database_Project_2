@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D8387,1,南宁东,始发站,14:20,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D8387,2,宾阳,14:45,14:47,2分钟,25分,1,83,0,0,0,0/0/0,0/0,24/29
+D8387,3,贵港,15:11,15:13,2分钟,51分,1,140,0,0,0,0/0/0,0/0,41/66
+D8387,4,兴业,15:45,15:47,2分钟,1小时25分,1,196,0,0,0,0/0/0,0/0,57.5/69
+D8387,5,玉林,16:10,终点站,,1小时50分,1,229,0,0,0,0/0/0,0/0,67/81

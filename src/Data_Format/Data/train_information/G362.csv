@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G359/G362,1,西安北,始发站,08:48,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G359/G362,2,郑州东,10:39,10:43,4分钟,1小时51分,1,519,0,0,0,0/0/0,0/0,239/382
+G359/G362,3,徐州东,12:13,12:20,7分钟,3小时25分,1,883,0,0,0,0/0/0,0/0,388/620.5
+G359/G362,4,南京南,13:34,13:37,3分钟,4小时46分,1,1214,0,0,0,0/0/0,0/0,577.5/925
+G359/G362,5,上海虹桥,14:45,终点站,,5小时57分,1,1509,0,0,0,0/0/0,0/0,669.5/1095

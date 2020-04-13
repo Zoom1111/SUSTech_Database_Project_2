@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D6818,1,宝鸡南,始发站,15:31,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D6818,2,岐山,15:44,15:46,2分钟,13分,1,37,0,0,0,0/0/0,0/0,11.5/18.5
+D6818,3,杨陵南,16:01,16:03,2分钟,30分,1,78,0,0,0,0/0/0,0/0,24/38.5
+D6818,4,西安北,16:32,终点站,,1小时1分,1,167,0,0,0,0/0/0,0/0,51.5/82.5

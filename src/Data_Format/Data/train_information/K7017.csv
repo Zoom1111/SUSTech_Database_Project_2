@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+K7017,1,哈尔滨,始发站,21:58,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+K7017,2,绥化,23:28,23:31,3分钟,1小时30分,1,134,19.5,-,0,65.5/70.5/73.5,99.5/105.5,0/0
+K7017,3,佳木斯,03:54,04:00,6分钟,5小时56分,2,343,41,-,0,82/91/95,127/135,0/0
+K7017,4,福利屯,05:02,05:05,3分钟,7小时4分,2,575,78,-,0,139/144/148,214/223,0/0
+K7017,5,双鸭山,05:19,终点站,,7小时21分,2,586,81,-,0,144/148/154,222/231,0/0

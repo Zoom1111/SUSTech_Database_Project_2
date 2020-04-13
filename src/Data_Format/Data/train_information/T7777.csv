@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+T7776/T7777,1,南京,始发站,19:36,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+T7776/T7777,2,扬州,20:32,20:35,3分钟,56分,1,101,24.5,28.5,0,0/0/0,0/0,0/0
+T7776/T7777,3,东台,22:01,22:06,5分钟,2小时25分,1,259,-,60.5,0,0/0/0,0/0,0/0
+T7776/T7777,4,盐城,22:47,终点站,,3小时11分,1,322,-,77.5,0,0/0/0,0/0,0/0

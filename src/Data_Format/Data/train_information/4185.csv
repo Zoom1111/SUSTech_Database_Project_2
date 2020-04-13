@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+4185,1,海拉尔,始发站,10:07,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+4185,2,扎赉诺尔西,11:51,11:55,4分钟,1小时44分,1,163,21.5,-,0,67.5/72.5/75.5,105.5/111.5,0/0
+4185,3,满洲里,12:20,终点站,,2小时13分,1,186,25.5,-,0,71.5/76.5/79.5,110.5/116.5,0/0

@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C6417,1,万州北,始发站,13:58,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C6417,2,梁平南,14:25,14:27,2分钟,27分,1,65,0,0,0,0/0/0,0/0,26/42
+C6417,3,垫江,14:48,14:50,2分钟,50分,1,118,0,0,0,0/0/0,0/0,47/76
+C6417,4,重庆北,15:37,终点站,,1小时39分,1,245,0,0,0,0/0/0,0/0,98/157

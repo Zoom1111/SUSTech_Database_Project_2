@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+8850,1,侯马,始发站,08:30,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+8850,2,襄汾,09:11,09:13,2分钟,41分,1,34,2,-,0,0/0/0,0/0,0/0
+8850,3,临汾,09:38,终点站,,1小时8分,1,60,3,-,0,0/0/0,0/0,0/0

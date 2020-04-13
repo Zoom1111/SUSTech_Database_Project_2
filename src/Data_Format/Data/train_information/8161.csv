@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+8161,1,轩岗,始发站,19:36,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+8161,2,原平,20:14,终点站,,38分,1,37,2,-,0,0/0/0,0/0,0/0

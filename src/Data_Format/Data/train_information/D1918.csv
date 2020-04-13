@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D1918,1,成都东,始发站,09:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D1918,2,广元,10:25,10:29,4分钟,1小时25分,1,399,0,0,0,0/0/0,0/0,111/154
+D1918,3,西安北,12:21,终点站,,3小时21分,1,658,0,0,0,0/0/0,0/0,263/421

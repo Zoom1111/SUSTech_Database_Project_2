@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+C2301,1,天津,始发站,13:00,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+C2301,2,军粮城北,13:12,13:14,2分钟,12分,1,20,0,0,0,0/0/0,0/0,5/9
+C2301,3,滨海,13:29,终点站,,29分,1,45,0,0,0,0/0/0,0/0,20.5/35

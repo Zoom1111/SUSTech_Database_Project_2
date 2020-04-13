@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+D5150/D5151,1,营山,始发站,21:26,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+D5150/D5151,2,蓬安,21:37,21:40,3分钟,11分,1,17,0,0,0,0/0/0,0/0,5.5/7
+D5150/D5151,3,南充,22:02,22:20,18分钟,36分,1,58,0,0,0,0/0/0,0/0,17/20.5
+D5150/D5151,4,广安南,22:59,终点站,,1小时33分,1,133,0,0,0,0/0/0,0/0,33.5/40

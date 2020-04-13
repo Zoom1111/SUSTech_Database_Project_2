@@ -1,0 +1,5 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+7271,1,梅江,始发站,11:57,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+7271,2,桃映,12:59,13:01,2分钟,1小时2分,1,59,3,-,0,0/0/0,0/0,0/0
+7271,3,铜仁,13:26,13:32,6分钟,1小时29分,1,85,5,-,0,0/0/0,0/0,0/0
+7271,4,怀化,15:10,终点站,,3小时13分,1,178,11.5,-,0,0/0/0,0/0,0/0

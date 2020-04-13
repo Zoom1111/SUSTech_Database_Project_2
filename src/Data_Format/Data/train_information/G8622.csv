@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G8622,1,重庆西,始发站,06:36,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G8622,2,荣昌北,07:05,07:21,16分钟,29分,1,89,0,0,0,0/0/0,0/0,43/69
+G8622,3,内江北,07:39,终点站,,1小时3分,1,149,0,0,0,0/0/0,0/0,72/115

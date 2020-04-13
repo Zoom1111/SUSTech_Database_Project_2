@@ -1,0 +1,6 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+G619,1,北京西,始发站,18:02,,0分,1,0,0,0,0,0/0/0,0/0,0/0
+G619,2,高碑店东,18:32,18:34,2分钟,30分,1,83,0,0,0,0/0/0,0/0,37.5/60.5
+G619,3,石家庄,19:21,19:24,3分钟,1小时19分,1,281,0,0,0,0/0/0,0/0,128.5/206.5
+G619,4,阳泉北,20:04,20:07,3分钟,2小时2分,1,384,0,0,0,0/0/0,0/0,158.5/242.5
+G619,5,太原南,20:53,终点站,,2小时51分,1,513,0,0,0,0/0/0,0/0,197/288

@@ -1,0 +1,3 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+7275,1,怀化,始发站,07:21,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+7275,2,新晃,08:43,终点站,,1小时22分,1,87,5,-,0,0/0/0,0/0,0/0

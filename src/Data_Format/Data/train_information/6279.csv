@@ -1,0 +1,4 @@
+train_code,station_sequence,station_name,arrive_time,depart_time,stay_time,runtime,days,mileage,hard_price,soft_price,business_price,hard_sleep_price,soft_sleep_price,first_second_price
+6279,1,三间房,始发站,19:26,,0分,1,0,-,-,0,0/0/0,0/0,0/0
+6279,2,榆树屯,19:44,19:45,1分钟,18分,1,8,1,-,0,0/0/0,0/0,0/0
+6279,3,齐齐哈尔,20:03,终点站,,37分,1,30,5,-,0,0/0/0,0/0,0/0
