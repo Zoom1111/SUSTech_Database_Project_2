@@ -58,21 +58,21 @@ public class WebCrawler {
                 else
                     table = document.select("table").get(6);
 
-                ArrayList<String> train_code = new ArrayList<>();
-                ArrayList<String> station_sequence = new ArrayList<>();
-                ArrayList<String> station_name = new ArrayList<>();
-                ArrayList<String> arrive_time = new ArrayList<>();
-                ArrayList<String> depart_time = new ArrayList<>();
-                ArrayList<String> stay_time = new ArrayList<>();
-                ArrayList<String> runtime = new ArrayList<>();
-                ArrayList<String> days = new ArrayList<>();
-                ArrayList<String> mileage = new ArrayList<>();
-                ArrayList<String> hard_price = new ArrayList<>();
-                ArrayList<String> soft_price = new ArrayList<>();
-                ArrayList<String> business_price = new ArrayList<>();
-                ArrayList<String> hard_sleep_price = new ArrayList<>();
-                ArrayList<String> soft_sleep_price = new ArrayList<>();
-                ArrayList<String> first_second_price = new ArrayList<>();
+                ArrayList<String> train_code = new ArrayList<String>();
+                ArrayList<String> station_sequence = new ArrayList<String>();
+                ArrayList<String> station_name = new ArrayList<String>();
+                ArrayList<String> arrive_time = new ArrayList<String>();
+                ArrayList<String> depart_time = new ArrayList<String>();
+                ArrayList<String> stay_time = new ArrayList<String>();
+                ArrayList<String> runtime = new ArrayList<String>();
+                ArrayList<String> days = new ArrayList<String>();
+                ArrayList<String> mileage = new ArrayList<String>();
+                ArrayList<String> hard_price = new ArrayList<String>();
+                ArrayList<String> soft_price = new ArrayList<String>();
+                ArrayList<String> business_price = new ArrayList<String>();
+                ArrayList<String> hard_sleep_price = new ArrayList<String>();
+                ArrayList<String> soft_sleep_price = new ArrayList<String>();
+                ArrayList<String> first_second_price = new ArrayList<String>();
 
                 boolean[] isHaveThis = new boolean[15];
                 int[] rowList = new int[15];
