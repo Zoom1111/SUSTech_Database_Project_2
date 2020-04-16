@@ -16,6 +16,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+//爬虫解析示例
 public class example {
 
     public static void main(String[] args) {

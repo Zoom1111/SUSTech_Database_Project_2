@@ -5,6 +5,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+//单纯的测试学习如何使用爬虫
 public class tests2 {
     public void parse() {
         String htmlStr = "<table id=kbtable >"

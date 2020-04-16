@@ -3,7 +3,7 @@ package Data_Format;
 import Tool.Tools;
 
 import java.io.*;
-
+//解析train_list文件，得到所有的车次编号，存到train_information文件中
 public class GetTrainID
 {
     public static void main(String[] args) throws Exception

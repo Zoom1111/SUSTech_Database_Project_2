@@ -19,6 +19,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+//解析具体信息
 public class WebCrawler {
 
     public String Crawler(String code, int type) {
