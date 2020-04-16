@@ -5,6 +5,7 @@ import Tool.Tools;
 import java.io.*;
 import java.util.ArrayList;
 
+//爬虫得到所有车站信息，存放到data文件夹中
 public class GetTrainInformation
 {
     public static void main(String[] args) throws Exception

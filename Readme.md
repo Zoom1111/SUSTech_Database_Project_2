@@ -9,6 +9,7 @@ Developer: [Tong Yijie](https://github.com/nanfang-wuyu) 11811512<br/>
 
 1. Each train has only one train code.
 2. In normal conditions, the train schedule is the same every day.
+3. Train information update to 2020-04-11.
 
 ### 2. Database
 
