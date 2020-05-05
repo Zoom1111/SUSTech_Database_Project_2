@@ -151,33 +151,36 @@ public class Format_Table
             OutputStreamWriter osr = new OutputStreamWriter(newFis, "UTF-8");
             BufferedWriter bufferedWriter = new BufferedWriter(osr);
 
-            HashSet<String> train_num_list = new HashSet<>();
             StringBuilder content = new StringBuilder();
             content.append("train_id,train_num,train_name,train_type,train_depart_station,train_arrive_station,train_depart_date,train_arrive_date,train_depart_time,train_arrive_time").append(tool.getLineSeparator());
-            for(int i = 0; i < train_list.size(); i++)
-            {
-                Train current = train_list.get(i);
-                if(train_num_list.contains(current.train_num))
-                    System.out.println(current.train_num);
-                else
-                    train_num_list.add(current.train_num);
-                content.append(i + 1).append(",");
-                content.append(current.train_num).append(",");
-                content.append(current.train_name).append(",");
-                content.append(current.train_type).append(",");
-                content.append(current.train_depart_station).append(",");
-                content.append(current.train_arrive_station).append(",");
-                content.append(current.train_depart_date).append(",");
-                content.append(current.train_arrive_date).append(",");
-                content.append(current.train_depart_time).append(",");
-                if(i != train_list.size())
-                    content.append(current.train_arrive_time).append(tool.getLineSeparator());
-                else
-                    content.append(current.train_arrive_time);
+
+            int current_id = 0;
+            for(int t = 0; t < 7; t++) {
+                HashSet<String> train_num_list = new HashSet<>();
+                for (int i = 0; i < train_list.size(); i++) {
+                    current_id++;
+                    Train current = train_list.get(i);
+                    if (train_num_list.contains(current.train_num))
+                        System.out.println(current.train_num);
+                    else
+                        train_num_list.add(current.train_num);
+                    content.append(current_id).append(",");
+                    content.append(current.train_num).append(",");
+                    content.append(current.train_name).append(",");
+                    content.append(current.train_type).append(",");
+                    content.append(current.train_depart_station).append(",");
+                    content.append(current.train_arrive_station).append(",");
+                    content.append(current.train_depart_date.plusDays(t)).append(",");
+                    content.append(current.train_arrive_date.plusDays(t)).append(",");
+                    content.append(current.train_depart_time).append(",");
+                    if (i == train_list.size() - 1 && t == 6)
+                        content.append(current.train_arrive_time);
+                    else
+                        content.append(current.train_arrive_time).append(tool.getLineSeparator());
+                }
             }
             bufferedWriter.write(content.toString());
             bufferedWriter.close();
-
         } catch (IOException e) {
             e.printStackTrace();
         }
