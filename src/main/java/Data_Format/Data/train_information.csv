@@ -1,4 +1,4 @@
-station_train_code,departure_destination_station,train_number
+ station_train_code,departure_destination_station,train_number
 D1,北京-沈阳南,4000000D121
 D2,沈阳南-北京,2000000D20K
 D3,北京-沈阳南,4000000D325
