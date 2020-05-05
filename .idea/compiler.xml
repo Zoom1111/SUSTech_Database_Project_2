@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="SUSTech_Database_Project_2" target="6" />
+      <module name="SUSTech_Database_Project_2" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
