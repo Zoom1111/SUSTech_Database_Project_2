@@ -21,7 +21,7 @@ public class Format_Table
         formatTable_order();
         formatTable_user();
         formatTable_rate(10, 0.15, 0.3, 1.95, 0.4, 0.3, 0.23, 0.585
-        ,0.45, 1, 0.02);
+        ,0.45, 0.4, 0.7, 1.1,1, 0.02);
     }
 
     static class Train
@@ -763,7 +763,7 @@ public class Format_Table
 
     public static void formatTable_rate(double start_mileage, double rate_hard, double rate_soft, double rate_business, double rate_hard_sleep_down,
                                         double rate_hard_middle, double rate_hard_up, double rate_soft_sleep_down
-            , double rate_soft_sleep_up, double rate_float, double rate_insurance)
+            , double rate_soft_sleep_up, double rate_first, double rate_second, double rate_super, double rate_float, double rate_insurance)
     {
         try {
             FileOutputStream newFis = new FileOutputStream("src" + tool.getSeparator() + "main" + tool.getSeparator()
@@ -773,11 +773,11 @@ public class Format_Table
             BufferedWriter bufferedWriter = new BufferedWriter(osr);
 
             String content = "start_mileage,rate_hard,rate_soft,rate_business,rate_hard_sleep_down,rate_hard_middle,rate_hard_up,rate_soft_sleep_down" +
-                    ",rate_soft_sleep_up,rate_float,rate_insurance" +
+                    ",rate_soft_sleep_up,rate_first,rate_second,rate_super,rate_float,rate_insurance" +
                     tool.getLineSeparator() +
                     start_mileage + "," + rate_hard + "," + rate_soft + "," + rate_business + "," + rate_hard_sleep_down
                     + "," + rate_hard_middle + "," + rate_hard_up + "," + rate_soft_sleep_down
-                    + "," + rate_soft_sleep_up + "," + rate_float + "," + rate_insurance +
+                    + "," + rate_soft_sleep_up + "," + rate_first + "," + rate_second + "," + rate_super + "," + rate_float + "," + rate_insurance +
                     tool.getLineSeparator();
             bufferedWriter.write(content);
             bufferedWriter.close();

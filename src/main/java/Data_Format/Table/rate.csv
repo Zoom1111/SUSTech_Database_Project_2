@@ -1,2 +1,2 @@
-start_mileage,rate_hard,rate_soft,rate_business,rate_hard_sleep_down,rate_hard_middle,rate_hard_up,rate_soft_sleep_down,rate_soft_sleep_up,rate_float,rate_insurance
-10.0,0.15,0.3,1.95,0.4,0.3,0.23,0.585,0.45,1.0,0.02
+start_mileage,rate_hard,rate_soft,rate_business,rate_hard_sleep_down,rate_hard_middle,rate_hard_up,rate_soft_sleep_down,rate_soft_sleep_up,rate_first,rate_second,rate_super,rate_float,rate_insurance
+10.0,0.15,0.3,1.95,0.4,0.3,0.23,0.585,0.45,0.4,0.7,1.1,1.0,0.02
