@@ -1,6 +1,6 @@
 # <center>SUSTech_Database_Project_2</center>
 
-Project Site: https://github.com/Zoom1111/SUSTech_Database_Project_2
+Project Site: https://github.com/Zoom1111/SUSTech_Database_Project_2</br>
 Developer: [Zhong Wanli](https://github.com/zoom1111) 11811526<br/>Developer: [Tong Yijie](https://github.com/nanfang-wuyu) 11811512
 
 
